@@ -1,0 +1,10 @@
+
+™	java:S135["YReduce the total number of break and continue statements in this loop to use at most one.(Î¦¢´üÿÿÿÿJ$10291498-7bb8-4a52-bfbb-3d89521112ed
+i
+java:S5411+"(Use a primitive boolean expression here.(ÑÉ‚ÝûÿÿÿÿJ$b4678a3c-e324-48b0-88a3-738bfdf0356a
+x
+java:S18543"<Remove this useless assignment to local variable "titleRow".(÷Ç¸«J$5ab98435-4507-4038-8643-5886e375d2ad
+i
+java:S14813"-Remove this unused "titleRow" local variable.(÷Ç¸«J$39db8903-8440-4f8d-b216-98b9d4409b4f
+“
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ø£ÃŸùÿÿÿÿJ$4c62ead1-de9b-494b-bc3e-cb796921e6e5

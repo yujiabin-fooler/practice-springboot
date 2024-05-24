@@ -1,0 +1,25 @@
+
+a	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(§ÅÄ$8Îÿ¥ò1
+‡
+java:S1192?"FDefine a constant instead of duplicating this literal "error" 3 times.(ÂşÿÿÿÿJ$d1863f05-47fd-40ea-8082-dcf68f9e4b6d
+	java:S116"RRename this field "db_core" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂİİÂJ$383ad116-2260-4104-bdfb-fcbddb466810
+	java:S116"TRename this field "file_core" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑøûJ$7c19a87f-2071-44d4-8939-175a58dd79de
+]
+java:S1170"!Make this final field static too.(ÂİİÂJ$e4a50975-a1a4-44b4-96cd-78e3c95b7443
+]
+java:S1170"!Make this final field static too.(ÑøûJ$7b9b4813-3fc3-4b4d-b557-140914db2e2a
+]
+java:S1170"!Make this final field static too.(ƒ¦¦àJ$6b3c99be-4165-4329-8556-2e54c02ebcde
+_
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8ı„¥ò1
+_
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8ş„¥ò1
+„
+java:S5361/"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ù™áÅJ$30c2510b-dbf6-4b00-b757-92318b52c5ad
+w	java:S1258"<This block of commented-out lines of code should be removed.(º¾²ßJ$8ed4fae0-77f7-452b-b685-916de5d81540
+f	java:S106m"+Replace this use of System.out by a logger.(µèéğJ$9d797351-c4bd-40f3-ad95-5045a7198be5
+b
+java:S2147|"ECombine this catch with the one at line 122, which has the same body.(’™Ôİ8…¥ò1
+g	java:S106“"+Replace this use of System.out by a logger.(¶Òº¿J$63395a16-249d-4fe1-b266-02e3b3bcf15b
+c
+java:S2147¢"ECombine this catch with the one at line 160, which has the same body.(’™Ôİ8¤…¥ò1

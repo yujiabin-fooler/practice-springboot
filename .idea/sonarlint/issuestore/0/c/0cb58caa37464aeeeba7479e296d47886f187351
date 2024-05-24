@@ -1,0 +1,9 @@
+
+š
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒœŒßÿÿÿÿÿJ$7f305a14-d18e-4e25-bba6-7fba1d4afaeb
+ª
+java:S1488*"iImmediately return this expression instead of assigning it to the temporary variable "genericObjectPool".(ÒœŒßÿÿÿÿÿJ$13ffa36e-ec3c-4a02-ae3f-90bfcad3c4f0
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8§Ù–Íé1J$ac12cc0a-ec0f-4c85-8977-af1089271899
+
+java:S3305"UInject this field value directly into "mqAdminExtPool", the only method that uses it.(È¯îşÿÿÿÿ8²Ù–Íé1J$be088759-0420-41aa-8955-d60963debfcd

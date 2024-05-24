@@ -1,0 +1,6 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$312ec16e-2ec9-423e-9d06-147957e8c136
+œ
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "userList".(®ıÅªJ$84da747f-23c5-428d-a384-1d587f2db3d5
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8àÆ¢é1J$7e907b7d-dd77-4826-ad40-dbb5a5ef0f4a

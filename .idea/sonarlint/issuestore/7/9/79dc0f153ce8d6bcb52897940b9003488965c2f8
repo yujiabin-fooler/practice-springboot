@@ -1,0 +1,103 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ıJ$d647fc4e-cb53-4e8c-acee-50da618e66c8
+‚	java:S112«"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ıJ$b09d0557-4ffc-4b1d-a2cd-da44066c1863
+‚	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ıJ$9913b017-1777-4549-bc28-1f3f875469b0
+•
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ÍJ$82394b73-63e4-4eeb-a9de-c71d4fadef58
+–
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª‹èøJ$64f8e751-e104-4c9f-9bf4-cff0d1b392ea
+–
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚèÒ›J$85154ca9-48e4-46ec-b8b1-67f2ebcde758
+
+java:S1192€"[Define a constant instead of duplicating this literal "Invalid map field number: " 3 times.(…›‚ŠşÿÿÿÿJ$1c638709-c0cd-4985-a739-754dc0700ff0
+Š
+java:S1192”"HDefine a constant instead of duplicating this literal "map key" 8 times.(Å¨ÛäüÿÿÿÿJ$5e13aaf2-9ec5-46fd-a775-9615ab0fd022
+Œ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß”â¢J$370989ed-2ce4-4353-8b3f-bd26008bf65a
+Œ	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î  ‹J$caf0c75d-4c8d-4bc4-8e15-b6d1b4d5bb8b
+’	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óòä¿úÿÿÿÿJ$fee41437-5e79-461f-b339-077eb9f26566
+	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€J$b1467191-0454-4a05-bed9-790b813ab79e
+Œ
+java:S1301{"KReplace this "switch" statement by "if" statements to increase readability.(³›¯°ùÿÿÿÿJ$f2e46f05-afc1-40b5-b2a0-98df02eb50d2
+
+java:S1301§"KReplace this "switch" statement by "if" statements to increase readability.(³›¯°ùÿÿÿÿJ$74dd7307-680b-4ba1-a693-9a58f1196846
+
+java:S1301²"KReplace this "switch" statement by "if" statements to increase readability.(³›¯°ùÿÿÿÿJ$98e0ec44-4a3e-4eac-a4db-324573260098
+›
+java:S1488•"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~J$6b42df1a-60b3-4c89-b051-65485f822231
+Š	java:S116Œ"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡Ñ÷J$2f2ad713-e3c5-42e0-a0d6-9df02e304d48
+	java:S116›"RRename this field "school_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¨—J$580920ac-fef9-47f7-a074-05975ea0c33c
+	java:S116Á"QRename this field "isBoy_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è—Ã˜J$d00db06c-f746-410a-ae44-776f311e0b4c
+ 	java:S116Ì"_Rename this field "personalInfoRecords_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ç™§ıÿÿÿÿJ$3a418227-b019-4834-84b8-acc75a196775
+’	java:S116€"VRename this field "familyInfo_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¢©¬J$28748bfe-3f6a-4716-9305-a8c896eef05f
+‚
+java:S4144¶
+"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 1309.(ŞÙ¢ã8¯™ûÊê1
+f
+java:S1948›")Make "school_" transient or serializable.(ò¨—J$61b4e526-b6a8-4238-8044-10917a34eb84
+j
+java:S1948€"-Make "familyInfo_" transient or serializable.(ñ¢©¬J$0cb5856d-3340-4479-9c2e-61d699122ce4
+”
+java:S3077›"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ò¨—J$c0291d8c-cf53-41cb-adc1-376942567b95
+“
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’¢‰¢ıÿÿÿÿJ$9cff6537-25ae-4560-b5f0-28402fda4480
+j
+java:S1940G")Use the opposite operator ("==") instead.(«‹¦œøÿÿÿÿJ$68cf31d9-1642-49b9-bc48-63a9e944f193
+j
+java:S1940P")Use the opposite operator ("==") instead.(ÉËÑÍşÿÿÿÿJ$6be780ee-755a-4c0d-8503-fe375cc49faf
+w
+java:S1133œ"5Do not forget to remove this deprecated code someday.(‰•¯ôúÿÿÿÿJ$cab0794b-7252-4822-8360-1b2f36354411
+j
+java:S1123œ"(Add the missing @deprecated Javadoc tag.(‰•¯ôúÿÿÿÿJ$b0e35f61-9bb2-44a7-b68d-7dd0a07a322a
+d
+java:S1125Ø"'Remove the unnecessary boolean literal.(Ì´ƒñJ$bfba7146-d8d4-4781-8435-f597171d9d56
+d
+java:S1125ô"'Remove the unnecessary boolean literal.(Ì´ƒñJ$7b794213-6352-4a43-8f99-69075967f044
+ƒ
+java:S1126Ÿ"AReplace this if-then-else statement by a single return statement.(®ÈäîÿÿÿÿÿJ$c30fc589-8a71-4598-8c7f-441966b3c90b
+‘	java:S116ı"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³ÄJ$105d51be-5830-4751-9da6-b822db712599
+Š	java:S116ÿ"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡Ñ÷J$d9144de0-d31b-4c6e-a973-be88d7943f70
+	java:S116ª"RRename this field "school_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈØò×J$187ac646-609f-400b-a24d-fd17bcbb86ab
+	java:S116ö"QRename this field "isBoy_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è—Ã˜J$17447bc3-5f2e-4b59-81be-0e91405b1f03
+›	java:S116•"_Rename this field "personalInfoRecords_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äµÉJ$eb3162d0-7e29-49f8-ab94-453451c84969
+¢	java:S116Ÿ"fRename this field "personalInfoRecordsBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùßêJ$bc3498f7-be05-47d2-9c57-a076587e96b6
+’	java:S116†	"VRename this field "familyInfo_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¢©¬J$9d8a3610-a96a-4b9d-8fd9-6f45f69789d9
+|
+java:S1161¥":Add the "@Override" annotation above this method signature(“ŠÅÀüÿÿÿÿJ$227647c8-7f28-4bc1-9991-ba36dd00a0eb
+w
+java:S1161°":Add the "@Override" annotation above this method signature(”¶ãøJ$82ea2917-46c4-467f-8778-2cdd3a301bba
+€
+java:S1854ü"CRemove this useless assignment to local variable "from_bitField0_".(ÆÓ¡€J$6e6c5b88-4513-415e-b7ab-5790ad545934
+q
+java:S1481ü"4Remove this unused "from_bitField0_" local variable.(ÆÓ¡€J$9c177c0f-575e-4ea4-bc96-51ebb6f1e4b4
+•
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾ÒûÿÿÿÿJ$db8b1104-1561-4026-88e5-1cf5537ed4ac
+j
+java:S1185"(Remove this method to simply inherit it.(Îõ¾ÒûÿÿÿÿJ$2e2ebe9c-e8ca-4806-838f-7db4f98008f4
+j
+java:S1185”"(Remove this method to simply inherit it.(ÑÍ“ËûÿÿÿÿJ$2cc75199-59b9-42ef-ba99-d953be293066
+j
+java:S1185š"(Remove this method to simply inherit it.(Ã•ŒƒüÿÿÿÿJ$7ee72e9c-7bba-43f4-8b2e-77bd6b3f7f37
+j
+java:S1185Ÿ"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿJ$4fcafdaa-3b9f-43be-8a84-3bc0931970fb
+e
+java:S1185¤"(Remove this method to simply inherit it.(§ß—¡J$9c41f3d2-a7fa-4ad3-9d9a-9e25885633a2
+e
+java:S1185ª"(Remove this method to simply inherit it.(¿¸Ú©J$f548935c-ae30-4bd8-bddd-158ff5493176
+”
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(†ÁüÒüÿÿÿÿJ$1424eebc-027b-4d15-810b-eab87915304c
+i
+java:S1125Â"'Remove the unnecessary boolean literal.(çùÄÿùÿÿÿÿJ$42ed21a6-b0ae-4249-aedb-d0e258b19402
+f
+java:S1940˜")Use the opposite operator ("==") instead.(¦ÁÕ“J$652ab4cd-ffa0-4ec8-b25b-cfdc140bd5da
+k
+java:S1874¢".Remove this use of "addAll"; it is deprecated.(ÀÒ‰ŞJ$ae672afa-4162-40f4-a0f9-8846997bfd1c
+Y
+java:S1116‘	"Remove this empty statement.(‚åÍÈJ$48c007ec-c344-49b9-905c-cc1849c2cbaa
+w
+java:S1133®	"5Do not forget to remove this deprecated code someday.(‰•¯ôúÿÿÿÿJ$2c8d92b4-e4fe-47a8-a2af-a7474acdfc4b
+j
+java:S1123®	"(Add the missing @deprecated Javadoc tag.(‰•¯ôúÿÿÿÿJ$8af5333e-64c8-4b02-9ae5-52d7b3b9c3b1
+r
+java:S1133ë	"5Do not forget to remove this deprecated code someday.(Æš¢§J$c3e646ca-12f1-417f-8f9d-f8090223e322
+e
+java:S1123ë	"(Add the missing @deprecated Javadoc tag.(Æš¢§J$9dd82f95-11b0-4c62-9c51-22b65d3d03b9

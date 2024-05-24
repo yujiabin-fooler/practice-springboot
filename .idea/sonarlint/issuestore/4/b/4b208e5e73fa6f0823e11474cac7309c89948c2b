@@ -1,0 +1,19 @@
+
+¦
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$abb5a02c-2e7d-412b-b939-c85463248c40
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$843ffceb-01f7-4412-ac1c-17406bb152a7
+t
+java:S1874"3Remove this use of "description"; it is deprecated.(÷ÊğªúÿÿÿÿJ$1b376f9b-3fb6-40fb-ae02-ee8f99e76284
+‰
+java:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†ÉãıÿÿÿÿJ$7aa5d6fc-9ab6-44f5-ae2c-46fa6ee3f86b
+‹
+java:S4488)"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿJ$2e198b09-0d0a-4555-a4f2-d55db5fe1ca1
+†
+java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ğ„˜ÚJ$d0c32727-e7dd-48ae-9ea3-6cae71676dc0
+‰
+java:S4488I"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ó¼ñìûÿÿÿÿJ$51f78d19-fad6-474d-adc9-c8b1b65e887b
+‰
+java:S4488W"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏÊÃ×ûÿÿÿÿJ$8dc045e0-8142-410e-863e-057a27045321
+„
+java:S4488b"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ğÄâÿJ$733f8013-9a57-41cd-98b4-156c6402f230

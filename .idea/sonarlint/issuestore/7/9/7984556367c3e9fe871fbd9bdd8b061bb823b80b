@@ -1,0 +1,13 @@
+
+—
+java:S1488Q"\Immediately return this expression instead of assigning it to the temporary variable "list".(¥ƒdJ$17b339c6-07ba-4b36-b099-a9d16639714e
+~
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞJ$81e855db-1d8d-443f-a93c-51008dc87500
+~
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞJ$52ea62b3-6a6f-49ba-89d0-aae683fe955a
+
+java:S3252="OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿJ$7816cac2-e65a-4a9e-b07a-e2dcf75eaeb1
+
+java:S3252C"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿJ$63f2448d-f265-4fb6-a243-51b50b1c4bcb
+
+java:S3252P"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿJ$3ad1bd5a-bda9-4084-8d5a-b0e57072e634

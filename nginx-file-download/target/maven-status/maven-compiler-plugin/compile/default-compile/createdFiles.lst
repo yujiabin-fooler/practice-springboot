@@ -1,0 +1,3 @@
+com\jiabin\nginx\file\download\practice\NginxFileApplication.class
+com\jiabin\nginx\file\download\practice\entity\FileObject.class
+com\jiabin\nginx\file\download\practice\controller\FileController.class

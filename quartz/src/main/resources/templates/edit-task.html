@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>编辑任务</title>
+    <!-- 添加Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css">
+    <!-- 添加cronstrue和cron-parser依赖 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cronstrue/2.32.0/cronstrue.min.js"></script>
+    <script src="https://unpkg.com/cron-parser@4.6.0/lib/parser.js"></script>
+</head>
+<body>
+<div class="container mt-4">
+    <h2>编辑任务</h2>
+    <a href="/tasks/list" class="btn btn-secondary">返回任务列表</a>
+    <form method="post" th:object="${taskForm}" th:action="@{/tasks/edit}">
+        <div class="form-group">
+            <label for="name">任务名称</label>
+            <input type="text" class="form-control" id="name" th:field="*{name}" required>
+        </div>
+        <div class="form-group">
+            <label for="group">分组</label>
+            <input type="text" class="form-control" id="group" th:field="*{group}" required>
+        </div>
+        <div class="form-group">
+            <label for="cronExpression">Cron 表达式</label>
+            <input type="text" class="form-control" id="cronExpression" th:field="*{cronExpression}" required>
+        </div>
+         <div class="form-group">
+            <label for="className">任务类名</label>
+            <input type="text" class="form-control" id="className" th:field="*{className}" required>
+        </div>
+        <small id="cronDescription" class="form-text text-muted"></small>
+        <input type="hidden" name="taskId" th:value="${taskId}">
+        <button type="submit" class="btn btn-primary">保存</button>
+    </form>
+    <div th:if="${error}" class="alert alert-danger" th:text="${error}"></div>
+</div>
+
+<!-- JavaScript代码 -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var cronExpressionInput = document.getElementById('cronExpression');
+        var cronDescription = document.getElementById('cronDescription');
+        
+        cronExpressionInput.addEventListener('input', function () {
+            var cronExpression = cronExpressionInput.value;
+            try {
+                var interval = cronstrue.toString(cronExpression);
+                cronDescription.textContent = '描述: ' + interval;
+            } catch (e) {
+                cronDescription.textContent = '无效的Cron表达式';
+            }
+        });
+    });
+</script>
+</body>
+</html>

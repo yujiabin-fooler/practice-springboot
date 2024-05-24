@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>文件上传</title>
+    <link rel="stylesheet" th:href="@{/webjars/bootstrap/4.5.2/css/bootstrap.min.css}" />
+</head>
+<body>
+    <div class="container">
+        <h2>文件上传</h2>
+        <form method="POST" th:action="@{/upload}" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="file">选择文件:</label>
+                <input type="file" name="file" class="form-control" id="file">
+            </div>
+            <button type="submit" class="btn btn-primary">上传文件</button>
+        </form>
+    </div>
+</body>
+</html>

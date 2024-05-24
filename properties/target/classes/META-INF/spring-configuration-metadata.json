@@ -1,0 +1,63 @@
+{
+  "groups": [
+    {
+      "name": "author",
+      "type": "com.jiabin.properties.practice.entity.AuthorBean",
+      "sourceType": "com.jiabin.properties.practice.config.AuthorBeanConfig",
+      "sourceMethod": "getAuthorBean()"
+    },
+    {
+      "name": "author",
+      "type": "com.jiabin.properties.practice.config.AuthorConfig",
+      "sourceType": "com.jiabin.properties.practice.config.AuthorConfig"
+    },
+    {
+      "name": "demo.user",
+      "type": "com.jiabin.properties.practice.config.UserConfig",
+      "sourceType": "com.jiabin.properties.practice.config.UserConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "author.language",
+      "type": "java.lang.String",
+      "sourceType": "com.jiabin.properties.practice.entity.AuthorBean"
+    },
+    {
+      "name": "author.name",
+      "type": "java.lang.String",
+      "sourceType": "com.jiabin.properties.practice.config.AuthorConfig"
+    },
+    {
+      "name": "author.name",
+      "type": "java.lang.String",
+      "sourceType": "com.jiabin.properties.practice.entity.AuthorBean"
+    },
+    {
+      "name": "author.nickname",
+      "type": "java.lang.String",
+      "sourceType": "com.jiabin.properties.practice.config.AuthorConfig"
+    },
+    {
+      "name": "author.website",
+      "type": "java.lang.String",
+      "sourceType": "com.jiabin.properties.practice.entity.AuthorBean"
+    },
+    {
+      "name": "demo.user.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jiabin.properties.practice.config.UserConfig"
+    },
+    {
+      "name": "demo.user.desc",
+      "type": "java.lang.String",
+      "sourceType": "com.jiabin.properties.practice.config.UserConfig"
+    },
+    {
+      "name": "demo.user.name",
+      "type": "java.lang.String",
+      "sourceType": "com.jiabin.properties.practice.config.UserConfig"
+    }
+  ],
+  "hints": []
+}

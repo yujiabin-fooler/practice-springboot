@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafka-thymeleaf" />
+        <module name="aop" />
+        <module name="mybatis-generator" />
+        <module name="actuator" />
+        <module name="grpc-client" />
+        <module name="hazelcast" />
+        <module name="rabbit" />
+        <module name="wechat-mp" />
+        <module name="spring-batch" />
+        <module name="grpc-nacos" />
+        <module name="s3" />
+        <module name="cache" />
+        <module name="hystrix" />
+        <module name="zookeeper" />
+        <module name="japidocs" />
+        <module name="redistemplate" />
+        <module name="email-attachment" />
+        <module name="redis-geo" />
+        <module name="multidatasource-mybatis-xml" />
+        <module name="redis-bitmap" />
+        <module name="sharding-jdbc" />
+        <module name="groovy" />
+        <module name="spring-security" />
+        <module name="fastmybatis" />
+        <module name="hutool" />
+        <module name="grpc-protocol" />
+        <module name="websocket-qrcode" />
+        <module name="restful" />
+        <module name="lucene" />
+        <module name="dubbo-nacos-xml" />
+        <module name="logback" />
+        <module name="async-scheduled" />
+        <module name="freemarker" />
+        <module name="devtools" />
+        <module name="chatgpt" />
+        <module name="prometheus-grafana" />
+        <module name="activemq" />
+        <module name="multipartfile-fileupload" />
+        <module name="rocketmq" />
+        <module name="mq-rabbit" />
+        <module name="healthindicator" />
+        <module name="neo4j" />
+        <module name="http2-ssl" />
+        <module name="scheduled-task" />
+        <module name="config" />
+        <module name="xxl-job-core" />
+        <module name="nacos-dubbo-provider" />
+        <module name="protobuf" />
+        <module name="rocketmq-transanction" />
+        <module name="oss-rabbitmq-springtask-jwt" />
+        <module name="jsp-jpa" />
+        <module name="oauth2" />
+        <module name="elastic-job" />
+        <module name="logstash" />
+        <module name="mycat" />
+        <module name="websocket-jwt" />
+        <module name="postgre" />
+        <module name="compressed-files" />
+        <module name="video-m3u8" />
+        <module name="jsp-thymeleaf" />
+        <module name="zabbix" />
+        <module name="seat-saga-model" />
+        <module name="elk" />
+        <module name="content-negotiation" />
+        <module name="thymeleaf" />
+        <module name="spring-retry" />
+        <module name="lombok" />
+        <module name="drone" />
+        <module name="flink" />
+        <module name="weixin" />
+        <module name="graylog" />
+        <module name="http" />
+        <module name="seata-tcc-model" />
+        <module name="easy-es" />
+        <module name="pulsar" />
+        <module name="rabbitmq-deadqueue" />
+        <module name="keycloak" />
+        <module name="elasticsearch-thymeleaf" />
+        <module name="itextpdf" />
+        <module name="jdbctemplate" />
+        <module name="jwt" />
+        <module name="qrcode" />
+        <module name="session" />
+        <module name="vue-element" />
+        <module name="minio" />
+        <module name="redis-om" />
+        <module name="docker" />
+        <module name="caffeine" />
+        <module name="face-detection" />
+        <module name="solr" />
+        <module name="prometheus" />
+        <module name="docker-plugin" />
+        <module name="log4j" />
+        <module name="netty" />
+        <module name="grpc-server" />
+        <module name="guava-cache" />
+        <module name="multidatasource-mybatis-annotation" />
+        <module name="netty-protobuf" />
+        <module name="multidatasource" />
+        <module name="guava-retry" />
+        <module name="pdf" />
+        <module name="springboot-swagger2" />
+        <module name="guava" />
+        <module name="smartdoc" />
+        <module name="dubbo-consumer" />
+        <module name="seata-at-model" />
+        <module name="kafka-consumer" />
+        <module name="mockmvc" />
+        <module name="nginx-file-download" />
+        <module name="disruptor" />
+        <module name="session-redis" />
+        <module name="zxing" />
+        <module name="redis" />
+        <module name="dynamic-datasource" />
+        <module name="seata-xa-model" />
+        <module name="file-download" />
+        <module name="elasticsearch" />
+        <module name="mqtt" />
+        <module name="nacos-grpc" />
+        <module name="https" />
+        <module name="python" />
+        <module name="event-mq" />
+        <module name="capture-video-shot" />
+        <module name="hutool-fastjson" />
+        <module name="retrofit" />
+        <module name="mapstruct" />
+        <module name="grafana" />
+        <module name="session-mongodb" />
+        <module name="springdoc" />
+        <module name="logging" />
+        <module name="hanlp" />
+        <module name="transactional" />
+        <module name="redis-lock" />
+        <module name="xxljob" />
+        <module name="pagehelper" />
+        <module name="debezium" />
+        <module name="ehcache" />
+        <module name="fileupload" />
+        <module name="arthas" />
+        <module name="graalvm" />
+        <module name="nacos-comsumer" />
+        <module name="jenkins" />
+        <module name="jsonpath" />
+        <module name="graphql" />
+        <module name="event" />
+        <module name="globeexception" />
+        <module name="nacos-provider" />
+        <module name="easy-excel" />
+        <module name="i8n" />
+        <module name="xxl-job-executor-sample-springboot" />
+        <module name="jsch" />
+        <module name="redis-jpa" />
+        <module name="openfeign" />
+        <module name="sentinel" />
+        <module name="swagger2" />
+        <module name="xxl-job-executor-sample-frameless" />
+        <module name="gzip" />
+        <module name="rabbitmq" />
+        <module name="redis-lua" />
+        <module name="webuploader" />
+        <module name="elastic-apm" />
+        <module name="mybatis-plus" />
+        <module name="sa-token" />
+        <module name="session-jdbc" />
+        <module name="nacos-dubbo-consumer" />
+        <module name="mail" />
+        <module name="mybatis-annotation" />
+        <module name="javamail" />
+        <module name="redis-ratelimit" />
+        <module name="multidatasource-ds-annotation" />
+        <module name="redisson" />
+        <module name="swagger" />
+        <module name="docker-compose" />
+        <module name="websocket" />
+        <module name="mybatis-xml" />
+        <module name="plate-recognition-tesseract-ocr" />
+        <module name="fastdfs" />
+        <module name="dubbo-nacos-propertysource" />
+        <module name="xxl-job-admin" />
+        <module name="sitemap" />
+        <module name="dubbo-rpc" />
+        <module name="package" />
+        <module name="flyway" />
+        <module name="websocket-rabbitmq" />
+        <module name="redis-mybatis-plus" />
+        <module name="druid-jdbctemplatte" />
+        <module name="powerjob" />
+        <module name="activiti" />
+        <module name="encypt" />
+        <module name="gitlab" />
+        <module name="exceptionHandler" />
+        <module name="multidatasource-jdbctemplate" />
+        <module name="dynamic-sql" />
+        <module name="docker-file" />
+        <module name="webflux" />
+        <module name="erupt-job" />
+        <module name="mockito" />
+        <module name="video-transcoding" />
+        <module name="redis-caffeine" />
+        <module name="multidatasource-jpa" />
+        <module name="jpa" />
+        <module name="torna" />
+        <module name="kafka-storm" />
+        <module name="c3p0" />
+        <module name="mongodb" />
+        <module name="dynamic-table" />
+        <module name="easypoi" />
+        <module name="nacos-durid" />
+        <module name="arthas2" />
+        <module name="rabbitmq-thymeleaf" />
+        <module name="kafka-producer" />
+        <module name="quartz" />
+        <module name="drools" />
+        <module name="nacos-website" />
+        <module name="spel" />
+        <module name="dubbo-provider" />
+        <module name="json-desensitize" />
+        <module name="lua" />
+        <module name="knife4j" />
+        <module name="properties" />
+        <module name="hikari" />
+      </profile>
+      <profile name="Annotation profile for rocketmq-dashboard" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../ProgramFiles/MavenFiles/MavenRepository/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="rocketmq-dashboard" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="kafaka-producer" target="1.8" />
+      <module name="kafka-comsumer" target="1.8" />
+      <module name="rocketmq-console-application" target="1.8" />
+      <module name="rocketmq-console-ng" target="1.7" />
+      <module name="rokctmq" target="1.8" />
+      <module name="seata" target="1.8" />
+      <module name="seata-transaction" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="activiti" options="-parameters" />
+      <module name="arthas" options="-parameters" />
+      <module name="arthas2" options="-parameters" />
+      <module name="async-scheduled" options="-parameters" />
+      <module name="caffeine" options="-parameters" />
+      <module name="capture-video-shot" options="-parameters" />
+      <module name="compressed-files" options="-parameters" />
+      <module name="content-negotiation" options="-parameters" />
+      <module name="debezium" options="-parameters" />
+      <module name="docker" options="-parameters" />
+      <module name="docker-compose" options="-parameters" />
+      <module name="docker-file" options="-parameters" />
+      <module name="docker-plugin" options="-parameters" />
+      <module name="drone" options="-parameters" />
+      <module name="drools" options="-parameters" />
+      <module name="dynamic-sql" options="-parameters" />
+      <module name="easy-es" options="-parameters" />
+      <module name="easy-excel" options="-parameters" />
+      <module name="easypoi" options="-parameters" />
+      <module name="elastic-apm" options="-parameters" />
+      <module name="elasticsearch-thymeleaf" options="-parameters" />
+      <module name="elk" options="-parameters" />
+      <module name="email-attachment" options="-parameters" />
+      <module name="erupt-job" options="-parameters" />
+      <module name="exceptionHandler" options="-parameters" />
+      <module name="face-detection" options="-parameters" />
+      <module name="file-download" options="-parameters" />
+      <module name="fileupload" options="-parameters" />
+      <module name="flink" options="-parameters" />
+      <module name="flyway" options="-parameters" />
+      <module name="gitlab" options="-parameters" />
+      <module name="grafana" options="-parameters" />
+      <module name="graphql" options="-parameters" />
+      <module name="graylog" options="-parameters" />
+      <module name="hazelcast" options="-parameters" />
+      <module name="healthindicator" options="-parameters" />
+      <module name="http" options="-parameters" />
+      <module name="http2-ssl" options="-parameters" />
+      <module name="hutool" options="-parameters" />
+      <module name="itextpdf" options="-parameters" />
+      <module name="jenkins" options="-parameters" />
+      <module name="jsch" options="-parameters" />
+      <module name="json-desensitize" options="-parameters" />
+      <module name="jsonpath" options="-parameters" />
+      <module name="jwt" options="-parameters" />
+      <module name="kafka-thymeleaf" options="-parameters" />
+      <module name="keycloak" options="-parameters" />
+      <module name="logstash" options="-parameters" />
+      <module name="lombok" options="-parameters" />
+      <module name="mail" options="-parameters" />
+      <module name="mapstruct" options="-parameters" />
+      <module name="minio" options="-parameters" />
+      <module name="mockmvc" options="-parameters" />
+      <module name="mqtt" options="-parameters" />
+      <module name="mybatis-generator" options="-parameters" />
+      <module name="nacos-durid" options="-parameters" />
+      <module name="nacos-website" options="-parameters" />
+      <module name="neo4j" options="-parameters" />
+      <module name="nginx-file-download" options="-parameters" />
+      <module name="oauth2" options="-parameters" />
+      <module name="oss-rabbitmq-springtask-jwt" options="-parameters" />
+      <module name="plate-recognition-tesseract-ocr" options="-parameters" />
+      <module name="powerjob" options="-parameters" />
+      <module name="pulsar" options="-parameters" />
+      <module name="python" options="-parameters" />
+      <module name="qrcode" options="-parameters" />
+      <module name="rabbit" options="-parameters" />
+      <module name="rabbitmq-deadqueue" options="-parameters" />
+      <module name="rabbitmq-thymeleaf" options="-parameters" />
+      <module name="redis-jpa" options="-parameters" />
+      <module name="redis-mybatis-plus" options="-parameters" />
+      <module name="redis-om" options="-parameters" />
+      <module name="redis-ratelimit" options="-parameters" />
+      <module name="retrofit" options="-parameters" />
+      <module name="sa-token" options="-parameters" />
+      <module name="session-jdbc" options="-parameters" />
+      <module name="session-mongodb" options="-parameters" />
+      <module name="session-redis" options="-parameters" />
+      <module name="sitemap" options="-parameters" />
+      <module name="smartdoc" options="-parameters" />
+      <module name="spring-security" options="-parameters" />
+      <module name="swagger" options="-parameters" />
+      <module name="swagger2" options="-parameters" />
+      <module name="torna" options="-parameters" />
+      <module name="video-m3u8" options="-parameters" />
+      <module name="video-transcoding" options="-parameters" />
+      <module name="webflux" options="-parameters" />
+      <module name="websocket" options="-parameters" />
+      <module name="websocket-jwt" options="-parameters" />
+      <module name="websocket-qrcode" options="-parameters" />
+      <module name="websocket-rabbitmq" options="-parameters" />
+      <module name="wechat-mp" options="-parameters" />
+    </option>
+  </component>
+</project>

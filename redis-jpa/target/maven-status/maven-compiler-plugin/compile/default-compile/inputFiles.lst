@@ -1,0 +1,10 @@
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\ProductSeckillApplication.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\entity\Product.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\service\SeckillService.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\conf\RedisConfig.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\service\OrderService.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\controller\SeckillController.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\entity\Order.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\repository\ProductRepository.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\repository\OrderRepository.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\redis-jpa\src\main\java\com\jiabin\redis\jpa\practice\service\ProductService.java

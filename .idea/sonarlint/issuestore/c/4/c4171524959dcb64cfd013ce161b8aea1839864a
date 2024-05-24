@@ -1,0 +1,7 @@
+
+ 
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "count".(Éé‡ó8Óì¨ºé1J$71cd4e50-a965-4147-9745-f91a3667e85b
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8×ì¨ºé1J$8a1bcf52-3544-4751-a92a-440444798a32
+Š
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ò±Ð8Ýì¨ºé1J$83e47468-168e-45e5-927d-199ca3c55063

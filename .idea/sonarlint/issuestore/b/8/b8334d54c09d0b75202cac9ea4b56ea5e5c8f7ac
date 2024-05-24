@@ -1,0 +1,18 @@
+
+š
+java:S1488±"^Immediately return this expression instead of assigning it to the temporary variable "length".(ùÔ
+J$c09af5e3-74c6-4041-b2b1-1ee35c41bd3d
+›
+java:S1488Ë"^Immediately return this expression instead of assigning it to the temporary variable "length".(®“ŠõJ$9f48c09a-d914-4611-94db-9001504d2799
+`
+java:S2259?"DA "NullPointerException" could be thrown; "hasKey" is nullable here.(òè8¼í¯¾é1
+d
+java:S22595"GA "NullPointerException" could be thrown; "increment" is nullable here.(”ÈÊå8Âí¯¾é1
+b
+java:S2259³"DA "NullPointerException" could be thrown; "length" is nullable here.(Íã”€8Âí¯¾é1
+i
+java:S2259"GA "NullPointerException" could be thrown; "getExpire" is nullable here.(¸ÎÆşÿÿÿÿ8Ãí¯¾é1
+b
+java:S2259Í"DA "NullPointerException" could be thrown; "length" is nullable here.(Íã”€8Ãí¯¾é1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Íí¯¾é1

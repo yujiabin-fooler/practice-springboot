@@ -1,0 +1,9 @@
+
+Y
+java:S2629 "7Use the built-in formatting to construct this argument.(¸ÓÀ„ûÿÿÿÿ8€øæ•ò1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8­øæ•ò1
+c
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(¸ÓÀ„ûÿÿÿÿ8Âøæ•ò1
+½
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áíäúJ$33bc6704-bf98-4cd8-b162-cad510950433

@@ -1,0 +1,9 @@
+
+‰
+java:S2259?"HA "NullPointerException" could be thrown; "getObject()" can return null.(‹ý–ßúÿÿÿÿJ$ed991f06-214c-46dd-a367-342b330a1d8c
+Ä
+java:S4449D"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ø‘¹EJ$da80bed9-80c8-4b12-9200-d8165a236265
+~
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄÞJ$5d0d3215-09a1-457a-a531-b668fb8c3095
+~
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄÞJ$2c445c54-d183-4ddc-938e-215bb51459c3

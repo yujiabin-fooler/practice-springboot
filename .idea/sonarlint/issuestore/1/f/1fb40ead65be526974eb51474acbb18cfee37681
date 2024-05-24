@@ -1,0 +1,6 @@
+
+­
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(ν΅ρωÿÿÿÿ8―¨ς1J$f7a77d01-5253-448c-ab40-c54ebbc489c0
+Ώ
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÿδ¬ÿÿÿÿÿ8Ζ―¨ς1J$a4fba57d-0603-4797-aaab-5ad282ab06ae
+k	java:S106"+Replace this use of System.out by a logger.(―¶θϊÿÿÿÿJ$cd53a058-d871-4166-a464-db02932b5db5

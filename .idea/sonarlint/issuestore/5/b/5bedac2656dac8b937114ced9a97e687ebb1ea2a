@@ -1,0 +1,19 @@
+
+¦
+java:S6833""eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$4b5a9e82-67a6-448c-aa77-2128b866dc58
+o
+java:S1874#"3Remove this use of "description"; it is deprecated.(ÜÿóÒJ$7fc2e1ec-9f33-4025-a922-a1e5ae02fc74
+‰
+java:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(øØÿüÿÿÿÿJ$95926c57-6e5d-4b98-8bf1-b05e2b93d6b1
+‰
+java:S3252-"HUse static access with "com.alibaba.excel.EasyExcelFactory" for "write".(İ‹Á¼ÿÿÿÿÿJ$d5aaf8ab-7c8c-4c62-ac4b-c48646aed105
+‹
+java:S44886"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"( ßİéşÿÿÿÿJ$ca4ba4b7-47e7-42fd-87df-2d890ee9e8c4
+ˆ
+java:S32529"GUse static access with "com.alibaba.excel.EasyExcelFactory" for "read".(°Ë¿äøÿÿÿÿJ$1ac32291-771a-48e4-b6eb-c0e0fef2177c
+‰
+java:S4488B"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(·¶óáıÿÿÿÿJ$a2d75763-1389-4618-b7bc-4d506b3373bd
+‰
+java:S3252G"HUse static access with "com.alibaba.excel.EasyExcelFactory" for "write".(İ‹Á¼ÿÿÿÿÿJ$e8a1455a-09f7-46b9-8ced-3f0d8bacaf31
+‰
+java:S5361U"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÌÃ®ÆùÿÿÿÿJ$376efa5a-4c70-411f-a734-2a5a4d4ec3f1

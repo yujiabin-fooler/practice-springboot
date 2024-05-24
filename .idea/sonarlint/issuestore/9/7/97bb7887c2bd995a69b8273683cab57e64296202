@@ -1,0 +1,9 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8öîµœê1J$3b933d80-6747-43b5-804b-77c121b0c450
+v
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8±ğµœê1J$39bc3e34-1641-4afa-ae0e-941267a88664
+f	java:S106"+Replace this use of System.out by a logger.(Øæ‘J$1a842492-8924-4f5d-a81a-e357b96c59eb
+k	java:S106+"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿJ$b3cadb9d-4c5c-40ba-a240-b49a8103b9ee
+w
+java:S1751,"6Remove this "return" statement or make it conditional.(áÿèˆıÿÿÿÿJ$c5b6011e-7df3-4990-9e0c-bf88345e52e1

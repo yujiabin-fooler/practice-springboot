@@ -1,0 +1,13 @@
+
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$622db8e2-7eb8-4476-b188-bf3962937fdf
+w
+java:S1874"6Remove this use of "queryForObject"; it is deprecated.(É€âÇüÿÿÿÿJ$6fd64848-97aa-4960-91fd-f9655ffb93f2
+n
+java:S1874""-Remove this use of "query"; it is deprecated.(”Ó“ÔıÿÿÿÿJ$42dc4314-8d8a-4e9c-8caa-12ad44b971e4
+h
+java:S1172%"-Remove this unused method parameter "status".(ãÜ£6J$affb5f88-64bb-4b95-a240-bcd268946c5d
+
+java:S3878,"CDisambiguate this call by either casting as "Object" or "Object[]".(Ï©™J$7720eaa6-01b5-47e8-b9aa-a14ccc827b23
+„
+java:S38781"CDisambiguate this call by either casting as "Object" or "Object[]".(ĞÊíúÿÿÿÿJ$eb26d7ec-ce33-4d7f-b58f-9bfa159ad78f

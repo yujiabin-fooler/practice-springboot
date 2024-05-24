@@ -1,0 +1,4 @@
+com\jiabin\file\dowload\practice\service\TokenService.class
+com\jiabin\file\dowload\practice\controller\FileController.class
+com\jiabin\file\dowload\practice\entity\FileInfo.class
+com\jiabin\file\dowload\practice\FileUploadAndDownloadApplication.class

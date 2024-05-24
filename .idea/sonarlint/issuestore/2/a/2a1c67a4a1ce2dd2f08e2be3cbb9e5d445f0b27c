@@ -1,0 +1,5 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ëÈ¢é1J$aefc0fb6-2f66-4d27-90a7-3d9f39cc2d62
+•
+java:S3305"RInject this field value directly into "queryRunner", the only method that uses it.(â–ŠĞ8·É¢é1J$c3c6b855-be43-477e-ad60-881706f7e6b5

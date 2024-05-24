@@ -1,0 +1,15 @@
+
+Œ
+java:S1192S"KDefine a constant instead of duplicating this literal "totalViews" 3 times.(á¢¬®ûÿÿÿÿJ$59f0d542-9ba9-43a4-a85e-0e35b1edacc2
+‡
+java:S1192Z"FDefine a constant instead of duplicating this literal "views" 4 times.(°ÄžÙøÿÿÿÿJ$54e8177f-e842-4198-ab5e-eb7b21f1aa32
+~
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄÞJ$9804cf57-f575-4555-b389-eae78318e3a8
+Z
+java:S2153V"Remove the boxing to "Double".(ÿ§â¿J$ce62d7f3-5a3d-428c-9a16-b420ccd1c6d0
+\
+java:S2129V" Remove this "Double" constructor(ÿ§â¿J$6b9d58f1-7089-4567-969c-80f88d9c580d
+_
+java:S2153{"Remove the boxing to "Double".(ýº¸ÄøÿÿÿÿJ$632bbed8-8c7b-4707-9215-2b637286bff0
+a
+java:S2129{" Remove this "Double" constructor(ýº¸ÄøÿÿÿÿJ$cb60be69-07f0-49c5-a412-555d986ff7ce

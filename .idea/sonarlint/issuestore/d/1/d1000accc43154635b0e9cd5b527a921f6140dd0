@@ -1,0 +1,36 @@
+
+
+java:S1192Ú"NDefine a constant instead of duplicating this literal "JSch error-->" 3 times.(˜§ÂıÿÿÿÿJ$1f5d5456-d372-4778-86c6-b179387eb261
+š	java:S135Å"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿJ$a783555c-2cce-4f94-bef3-7b8a7c57e2f4
+š	java:S135á"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿJ$a808224f-853d-4169-b419-407b6274a054
+q
+java:S1066°"/Merge this if statement with the enclosing one.(±Ö£øÿÿÿÿJ$47fcf188-a03b-4d2d-98da-8560ca9755e2
+q
+java:S1066Â"/Merge this if statement with the enclosing one.(ıÏèÛùÿÿÿÿJ$cc264443-0d83-4950-8f88-5c60ee7bfe9c
+v
+java:S1141C"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$0a924b55-5ce4-485b-9358-58f6ad47fe0b
+w
+java:S1141¼"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$d0861993-a8d7-4b06-a86a-97a71c7c11a3
+w
+java:S1141Á"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$a68baace-efae-402d-b4de-f0a414973758
+w
+java:S1141Î"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$af6bc88c-911d-4038-96a4-6295fa2ee18a
+Œ	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¶­J$7bc2e77a-9cea-4f5f-b3a4-a51de3d09b3f
+{
+java:S1118":Add a private constructor to hide the implicit public one.(İÍÓİşÿÿÿÿJ$0c0d00d9-0e3c-48d6-9c52-82aad6e84bca
+k
+java:S2093:"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$acee12b2-bb5a-4314-95ee-d57ff8eaa242
+k
+java:S2093]"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$1d9ce6e7-b382-45ae-bd92-9c9e179a4ed6
+”
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ğÙ’ÛşÿÿÿÿJ$3faf056c-7122-4b05-a5c8-87d6501b9504
+d
+java:S1905Ì"'Remove this unnecessary cast to "long".(í¢¡ÏJ$75b1cde0-a14f-4183-90c7-d4a005ab5097
+l
+java:S2093²"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$445d7485-0c9b-412a-b0d4-8a551153cfd2
+–
+java:S4276„"YRefactor this code to use the more specialised Functional Interface 'UnaryOperator<List>'(É¦ÿäJ$59a893f1-4640-4410-bf16-0b0f6dbef25b
+l
+java:S2093‡"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$11e8dcda-8002-4d0e-95f9-53c81bd52986
+l
+java:S1144„"/Remove this unused private "remoteEdit" method.(É¦ÿäJ$31676200-aa3e-4ebd-9962-e9ee7e110a61

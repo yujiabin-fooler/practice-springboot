@@ -1,0 +1,9 @@
+
+r
+java:S3740'"/Provide the parametrized type for this generic.(‰îñÿ8˜¢ˆÈñ1J$52f3f331-7999-4ba7-b7f9-b62db704650f
+¦
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$a74a4fb9-b56d-4a2b-81ac-5d1f34bc23dd
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$548ccada-0eb9-4398-8b64-65425bd4a875
+‹
+java:S4488%"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÃŽèïûÿÿÿÿJ$5827572f-2cf3-445a-b22c-0f93f980c1e1

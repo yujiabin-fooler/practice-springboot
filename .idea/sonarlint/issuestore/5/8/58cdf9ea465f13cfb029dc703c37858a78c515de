@@ -1,0 +1,11 @@
+
+c
+java:S2259("AA "NullPointerException" could be thrown; "str" is nullable here.(§òÓÔøÿÿÿÿ8Ö¢©ò1
+f	java:S106"+Replace this use of System.out by a logger.(»ü„–J$b65f5195-a398-4bba-8e3a-e471fda8bb7b
+k	java:S106%"+Replace this use of System.out by a logger.(ÚŞ™øÿÿÿÿJ$e7956a87-abcb-4465-94d4-8b83a8d45359
+k
+java:S2201("*The return value of "equals" must be used.(§òÓÔøÿÿÿÿJ$dcb84a6d-a6ec-4e64-aa46-ce48fb16cf7e
+f	java:S106."+Replace this use of System.out by a logger.(ó¿ÏüJ$eef1d223-28d4-4791-9901-c51809285097
+m
+java:S22010",The return value of "parseInt" must be used.(îßºÙùÿÿÿÿJ$2dddb559-a698-485e-b40d-a31ccc6f1b80
+k	java:S1066"+Replace this use of System.out by a logger.(èœ²†üÿÿÿÿJ$af960abe-6c73-438d-9d52-52589b539cb5

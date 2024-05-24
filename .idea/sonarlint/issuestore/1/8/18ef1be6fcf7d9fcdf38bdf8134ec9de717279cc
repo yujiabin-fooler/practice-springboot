@@ -1,0 +1,13 @@
+
+‡
+java:S2184;"FCast one of the operands of this multiplication operation to a "long".(ßõöüÿÿÿÿJ$8b5e6680-3c37-4879-b680-2ab5392f808f
+œ	java:S116"\Rename this field "ALIYUN_OSS_EXPIRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÃğ—üÿÿÿÿJ$ab36e0be-2daa-4718-aaec-ecb656122547
+™	java:S116!"^Rename this field "ALIYUN_OSS_MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇûŸ J$87cceb9f-87a6-4ced-bbd0-b11421d8d5fa
+˜	java:S116#"^Rename this field "ALIYUN_OSS_CALLBACK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–êÚ3J$81d05bdc-035f-4298-85d0-ca0c2901fb7b
+œ	java:S116%"aRename this field "ALIYUN_OSS_BUCKET_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¨ûJ$9284e8f0-6858-4a6c-a508-7cd23dc5de54
+™	java:S116'"^Rename this field "ALIYUN_OSS_ENDPOINT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ö¹ãJ$6cc3de17-0b06-4392-ade6-c28d024926e8
+›	java:S116)"`Rename this field "ALIYUN_OSS_DIR_PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨îú¾J$3d6c6f32-49a3-4eb0-9235-aff3bfb71ebc
+~
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞJ$936f4bdb-6b88-4bf8-aa32-6d053a7492c4
+z
+java:S4719H"9Replace charset name argument with StandardCharsets.UTF_8(‹á±ÕÿÿÿÿÿJ$2facfa2f-25cb-4876-bd37-26d3f9a25f0f

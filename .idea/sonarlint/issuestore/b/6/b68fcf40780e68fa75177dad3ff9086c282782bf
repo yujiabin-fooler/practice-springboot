@@ -1,0 +1,266 @@
+
+‡	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$560e0901-06bd-4f97-92e4-d485a914bda9
+‡	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$e23f1893-b819-4abd-8580-08cef93934b0
+w
+java:S1141ç"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿJ$e6b721ea-b75a-4047-b74f-4f6e9775f2cc
+w
+java:S1141µ"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿJ$a5291af9-c122-44d7-b175-fc0eacff4962
+’	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ì‘éøÿÿÿÿJ$6eacfa0f-9acf-4729-b425-94d537735d95
+’	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø†¿²ıÿÿÿÿJ$dfd0ed1b-f92d-46d7-bd8d-ff2875716d1c
+’	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø†¿²ıÿÿÿÿJ$b50573d5-48bb-4868-9953-bacb45b0f52d
+’	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø†¿²ıÿÿÿÿJ$c4de0834-e5b2-4dab-b402-2626a0760e21
+’	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø†¿²ıÿÿÿÿJ$eb86d819-6394-496f-8493-456ba0a8de6b
+’	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ…‚äûÿÿÿÿJ$46833aa9-b749-4ffd-9f92-042006b3a980
+	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¥ÑìJ$bddf20d3-d639-4683-a12c-a11554561aa9
+Œ	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ÷˜IJ$1c5408c4-84e3-4239-9851-ab407a6e0bcf
+Œ	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ÷˜IJ$4453d82d-20f4-4325-bd78-e617eda0ff04
+’
+java:S1104?"QMake DEBUG a static final constant or non-public and provide accessors if needed.(îéÒ¡ÿÿÿÿÿJ$08982a3e-0915-4a1f-8829-c08145573669
+š
+java:S1104C"^Make CoreDictionaryPath a static final constant or non-public and provide accessors if needed.(÷®©ÏJ$ab211482-b7cc-40e8-99cc-1d337fcdf6bb
+²
+java:S1104G"wMake CoreDictionaryTransformMatrixDictionaryPath a static final constant or non-public and provide accessors if needed.(×Ùõ[J$f0b09bca-b3c5-4352-9eb0-adb93e17c38e
+¡
+java:S1104K"`Make CustomDictionaryPath a static final constant or non-public and provide accessors if needed.(š¿ú£üÿÿÿÿJ$3551accc-f210-4036-aaae-935219f21cc9
+¨
+java:S1104O"lMake CustomDictionaryAutoRefreshCache a static final constant or non-public and provide accessors if needed.(µªºĞJ$8d5e1877-0709-47d9-85d5-eb8bb57738c4
+¡
+java:S1104S"`Make BiGramDictionaryPath a static final constant or non-public and provide accessors if needed.(Ó½ï´şÿÿÿÿJ$e8181c79-0d66-41d7-ab4f-5a3855b4e2bd
+§
+java:S1104X"fMake CoreStopWordDictionaryPath a static final constant or non-public and provide accessors if needed.(ÛÓš¿úÿÿÿÿJ$04eb8b79-2cad-47cc-942b-a42d42ae8fd5
+°
+java:S1104\"oMake CoreSynonymDictionaryDictionaryPath a static final constant or non-public and provide accessors if needed.(¸µÒ†şÿÿÿÿJ$51f5d282-37b7-4f40-b5fd-85caf67d63d1
+œ
+java:S1104`"`Make PersonDictionaryPath a static final constant or non-public and provide accessors if needed.(ò«ÒÛJ$1ed3844d-ec52-4c63-8967-eb586373ec9c
+
+java:S1104d"bMake PersonDictionaryTrPath a static final constant or non-public and provide accessors if needed.(Ì¨½àJ$7c46d505-bd3c-4bf3-9689-cc20ba96b743
+ 
+java:S1104h"_Make PlaceDictionaryPath a static final constant or non-public and provide accessors if needed.(©¹‡şÿÿÿÿJ$b7f45579-c241-4ded-add1-c0b235c3f67c
+¢
+java:S1104l"aMake PlaceDictionaryTrPath a static final constant or non-public and provide accessors if needed.(¶ÆĞªıÿÿÿÿJ$c74708f5-a096-4aea-a7b2-d1cd79c83de5
+¢
+java:S1104p"fMake OrganizationDictionaryPath a static final constant or non-public and provide accessors if needed.(¦òÌ—J$75c93dcb-ec2e-4191-9406-a4595bc4d908
+©
+java:S1104t"hMake OrganizationDictionaryTrPath a static final constant or non-public and provide accessors if needed.(¤™‚‘ûÿÿÿÿJ$7db31c54-ed06-4132-8332-b06be8b63f04
+—
+java:S1104x"\Make tcDictionaryRoot a static final constant or non-public and provide accessors if needed.(££ÊyJ$0ff373cf-39a5-4c25-864a-66a396e049f0
+œ
+java:S1104}"`Make PinyinDictionaryPath a static final constant or non-public and provide accessors if needed.(÷ŞİJ$8ae6c6f0-9aa1-412d-b860-07e72739603e
+§
+java:S1104‚"jMake TranslatedPersonDictionaryPath a static final constant or non-public and provide accessors if needed.(ğÙJ$86be71c2-1597-479b-8fd3-adf5ea1511cf
+¥
+java:S1104‡"hMake JapanesePersonDictionaryPath a static final constant or non-public and provide accessors if needed.(½®›ŸJ$4fc82ef0-378a-40dd-af39-8976902d9df0
+•
+java:S1104Œ"XMake CharTypePath a static final constant or non-public and provide accessors if needed.(Ş—•J$81f30f6d-1b08-432d-9657-2402b3d82783
+–
+java:S1104‘"YMake CharTablePath a static final constant or non-public and provide accessors if needed.(ºØØJ$99842848-cc2e-4504-8122-59e8760ea606
+¢
+java:S1104–"eMake PartOfSpeechTagDictionary a static final constant or non-public and provide accessors if needed.(¬¨ëÜJ$7e59eaa7-34d5-499f-8772-29c952d7a310
+œ
+java:S1104›"_Make WordNatureModelPath a static final constant or non-public and provide accessors if needed.(»“‘ÙJ$e4a45b52-0f38-4dfd-9d4c-e570a50367d9
+
+java:S1104¡"[Make MaxEntModelPath a static final constant or non-public and provide accessors if needed.(Ã¥ÉÜûÿÿÿÿJ$09207b6f-b8d7-4357-b8a7-cb9db3107f0b
+Ÿ
+java:S1104¥"]Make NNParserModelPath a static final constant or non-public and provide accessors if needed.(ú®š¯øÿÿÿÿJ$94629e5e-c899-4f97-8980-17de5d319d76
+¢
+java:S1104©"eMake PerceptronParserModelPath a static final constant or non-public and provide accessors if needed.(üåõ§J$97e8b47f-39d4-4096-8f8e-b13e9026165e
+¡
+java:S1104¯"_Make CRFSegmentModelPath a static final constant or non-public and provide accessors if needed.(›…î³ûÿÿÿÿJ$93aa317f-41f4-46de-b492-11da1182c0b7
+¡
+java:S1104µ"_Make HMMSegmentModelPath a static final constant or non-public and provide accessors if needed.(¿ØÃ£üÿÿÿÿJ$286d9f95-3370-4594-b2d0-cb3cf2af04a1
+˜
+java:S1104¹"[Make CRFCWSModelPath a static final constant or non-public and provide accessors if needed.(©¦™çJ$57ec40ea-1de2-48e5-8f6f-563b689a7e84
+
+java:S1104½"[Make CRFPOSModelPath a static final constant or non-public and provide accessors if needed.(°âçÁùÿÿÿÿJ$b171e43e-614a-471d-8243-45ffb80ab960
+˜
+java:S1104Á"[Make CRFNERModelPath a static final constant or non-public and provide accessors if needed.(œ¤•ÙJ$736fd127-0284-4bec-8a1c-c12b51c87222
+¤
+java:S1104Å"bMake PerceptronCWSModelPath a static final constant or non-public and provide accessors if needed.(¤åùÈùÿÿÿÿJ$e762ff61-40bc-438e-81a7-d9bcb736115b
+¤
+java:S1104É"bMake PerceptronPOSModelPath a static final constant or non-public and provide accessors if needed.(â¬øøşÿÿÿÿJ$5e712c03-e171-406f-ae3f-16c4f052e0e1
+Ÿ
+java:S1104Í"bMake PerceptronNERModelPath a static final constant or non-public and provide accessors if needed.(Àôû¶J$8fec6652-72e5-4f74-8a7c-da078eae4a4c
+—
+java:S1104Ñ"ZMake ShowTermNature a static final constant or non-public and provide accessors if needed.(¹Ê‡«J$e99a07f9-d8b4-4073-a708-d0de43c946e0
+–
+java:S1104Õ"YMake Normalization a static final constant or non-public and provide accessors if needed.(å’J$fa34d294-b02c-4cf0-a057-b6964b231a03
+—
+java:S1104Ú"UMake IOAdapter a static final constant or non-public and provide accessors if needed.(›ÓšûûÿÿÿÿJ$abaf5321-8749-4e55-978f-9e3fce912b6b
+l
+java:S1444?"+Make this "public static DEBUG" field final(îéÒ¡ÿÿÿÿÿJ$01c74de8-10b3-4968-94ea-37b7c5a46169
+t
+java:S1444C"8Make this "public static CoreDictionaryPath" field final(÷®©ÏJ$394e6306-13d3-4859-bdea-c52c240807d5
+Œ
+java:S1444G"QMake this "public static CoreDictionaryTransformMatrixDictionaryPath" field final(×Ùõ[J$df9ea966-cc90-4cc7-bd9f-0b5b6280e467
+{
+java:S1444K":Make this "public static CustomDictionaryPath" field final(š¿ú£üÿÿÿÿJ$aac4862b-4b4f-479f-a867-1960174b6977
+‚
+java:S1444O"FMake this "public static CustomDictionaryAutoRefreshCache" field final(µªºĞJ$0d6cc230-ca10-4418-bdba-b70799274532
+{
+java:S1444S":Make this "public static BiGramDictionaryPath" field final(Ó½ï´şÿÿÿÿJ$c2e241dd-e48b-4a43-95d8-b51a6b5ac0b8
+
+java:S1444X"@Make this "public static CoreStopWordDictionaryPath" field final(ÛÓš¿úÿÿÿÿJ$0271ec42-ace2-4eba-a7f1-0513a9126d21
+Š
+java:S1444\"IMake this "public static CoreSynonymDictionaryDictionaryPath" field final(¸µÒ†şÿÿÿÿJ$9f6aaefa-5723-4bb4-b8fb-be03053bbf47
+v
+java:S1444`":Make this "public static PersonDictionaryPath" field final(ò«ÒÛJ$f2182a7c-0398-45d2-af13-57e0ed43f1e0
+x
+java:S1444d"<Make this "public static PersonDictionaryTrPath" field final(Ì¨½àJ$6c054e85-6527-4d8d-b758-d410613d3b3c
+z
+java:S1444h"9Make this "public static PlaceDictionaryPath" field final(©¹‡şÿÿÿÿJ$335ecf71-bb9b-484d-b3de-9abb677d4f08
+|
+java:S1444l";Make this "public static PlaceDictionaryTrPath" field final(¶ÆĞªıÿÿÿÿJ$7934c63e-c46c-4ce8-a9cb-312b3f5148b3
+|
+java:S1444p"@Make this "public static OrganizationDictionaryPath" field final(¦òÌ—J$458a5818-f80b-47d7-94af-7edffb6a1b12
+ƒ
+java:S1444t"BMake this "public static OrganizationDictionaryTrPath" field final(¤™‚‘ûÿÿÿÿJ$bcbb22f3-11c0-446c-83da-66881ae2613c
+q
+java:S1444x"6Make this "public static tcDictionaryRoot" field final(££ÊyJ$38069909-5ee1-43de-8a8c-d91f02627975
+v
+java:S1444}":Make this "public static PinyinDictionaryPath" field final(÷ŞİJ$b8107626-bf99-4b9b-9f4c-89dd24846ffc
+
+java:S1444‚"DMake this "public static TranslatedPersonDictionaryPath" field final(ğÙJ$7651c513-4885-4f66-b32f-a3e7922e7b2e
+
+java:S1444‡"BMake this "public static JapanesePersonDictionaryPath" field final(½®›ŸJ$815920d5-b9e2-4a6c-af95-a8945fbdaab2
+o
+java:S1444Œ"2Make this "public static CharTypePath" field final(Ş—•J$a647de60-94ef-4bd8-bcf6-53525797e07e
+p
+java:S1444‘"3Make this "public static CharTablePath" field final(ºØØJ$d21c794d-b5b1-443d-9aa8-387324e4b0c6
+|
+java:S1444–"?Make this "public static PartOfSpeechTagDictionary" field final(¬¨ëÜJ$3c963b94-4b5a-4527-afa9-996939c9825b
+v
+java:S1444›"9Make this "public static WordNatureModelPath" field final(»“‘ÙJ$bcf499b5-5d53-4bd5-9f95-34df5c015d07
+w
+java:S1444¡"5Make this "public static MaxEntModelPath" field final(Ã¥ÉÜûÿÿÿÿJ$4f4c720f-a654-4d05-9d50-442599c6787e
+y
+java:S1444¥"7Make this "public static NNParserModelPath" field final(ú®š¯øÿÿÿÿJ$448c40db-f467-4aa7-b5b3-bff444b5ce68
+|
+java:S1444©"?Make this "public static PerceptronParserModelPath" field final(üåõ§J$a5bd3631-5745-493f-b482-293afdb56cdc
+{
+java:S1444¯"9Make this "public static CRFSegmentModelPath" field final(›…î³ûÿÿÿÿJ$0165bbf7-069e-4633-b51d-26ee305c27f8
+{
+java:S1444µ"9Make this "public static HMMSegmentModelPath" field final(¿ØÃ£üÿÿÿÿJ$7ea9abad-d27b-48bd-a399-924c6b98fe5a
+r
+java:S1444¹"5Make this "public static CRFCWSModelPath" field final(©¦™çJ$f74e3666-c362-429a-ae94-abb107f9a52b
+w
+java:S1444½"5Make this "public static CRFPOSModelPath" field final(°âçÁùÿÿÿÿJ$7c4ecbf5-cefd-478a-bd84-e81ec5df19e7
+r
+java:S1444Á"5Make this "public static CRFNERModelPath" field final(œ¤•ÙJ$d1cfb001-441b-4d26-9752-962b2002b81f
+~
+java:S1444Å"<Make this "public static PerceptronCWSModelPath" field final(¤åùÈùÿÿÿÿJ$34fd991d-d0f3-4aa1-9f35-b771f31314b5
+~
+java:S1444É"<Make this "public static PerceptronPOSModelPath" field final(â¬øøşÿÿÿÿJ$5061c48d-13ee-445e-a500-983abd5f41d2
+y
+java:S1444Í"<Make this "public static PerceptronNERModelPath" field final(Àôû¶J$29192c86-11a4-44f6-b8f1-5919a64fcc85
+q
+java:S1444Ñ"4Make this "public static ShowTermNature" field final(¹Ê‡«J$091a8d8c-7aba-40d1-890c-adbb89f4afc2
+p
+java:S1444Õ"3Make this "public static Normalization" field final(å’J$3b28e8ec-60ea-4f2d-b678-2d1695380e16
+q
+java:S1444Ú"/Make this "public static IOAdapter" field final(›ÓšûûÿÿÿÿJ$788996ff-f0a6-4117-a3be-197450f33356
+‘
+java:S3008?"PRename this field "DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îéÒ¡ÿÿÿÿÿJ$b9e0cad7-9fb5-4d48-9c99-434b52b2a6cc
+™
+java:S3008C"]Rename this field "CoreDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷®©ÏJ$1426fb03-71e6-43c9-ae97-c00a688a87f5
+±
+java:S3008G"vRename this field "CoreDictionaryTransformMatrixDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ùõ[J$b1a67720-a98e-46b5-ac93-f3d5d178eee2
+ 
+java:S3008K"_Rename this field "CustomDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¿ú£üÿÿÿÿJ$42e09e6c-6d17-47d4-a2f8-012032cee84c
+§
+java:S3008O"kRename this field "CustomDictionaryAutoRefreshCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µªºĞJ$289c82b8-e699-48c2-bb14-bb2ac88a6914
+ 
+java:S3008S"_Rename this field "BiGramDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ï´şÿÿÿÿJ$293dd4b3-ea68-4f82-a1bf-e0b87afcf6f1
+¦
+java:S3008X"eRename this field "CoreStopWordDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÓš¿úÿÿÿÿJ$39123db4-06ee-4fc8-8c73-5b9d2d5e07b3
+¯
+java:S3008\"nRename this field "CoreSynonymDictionaryDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸µÒ†şÿÿÿÿJ$65b917ce-2a60-4ce0-b69b-d7bff3cf8940
+›
+java:S3008`"_Rename this field "PersonDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò«ÒÛJ$3e87e1ce-a30a-4d02-ae20-3718a2c9fb62
+
+java:S3008d"aRename this field "PersonDictionaryTrPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¨½àJ$4ac72333-ca91-49a6-955d-e9b3675d916d
+Ÿ
+java:S3008h"^Rename this field "PlaceDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¹‡şÿÿÿÿJ$4832a163-bb64-49f6-9922-0136c858ab91
+¡
+java:S3008l"`Rename this field "PlaceDictionaryTrPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÆĞªıÿÿÿÿJ$002ecfaf-cf33-44c1-816f-86d1f18a4f24
+¡
+java:S3008p"eRename this field "OrganizationDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦òÌ—J$8dc86cac-a571-4e03-be64-9b02bd3f503f
+¨
+java:S3008t"gRename this field "OrganizationDictionaryTrPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤™‚‘ûÿÿÿÿJ$3ef74284-d0e0-456e-82a9-f20d4202e7dc
+›
+java:S3008}"_Rename this field "PinyinDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ŞİJ$a06c5d1f-c512-4a04-9207-095d29b82d69
+¦
+java:S3008‚"iRename this field "TranslatedPersonDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÙJ$704ab896-c940-445d-afe5-e0e4a8b2c53e
+¤
+java:S3008‡"gRename this field "JapanesePersonDictionaryPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½®›ŸJ$19063ad4-4c57-4fd0-ae0c-f55465002eac
+”
+java:S3008Œ"WRename this field "CharTypePath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş—•J$ffd36b93-7ee2-4281-8d75-d1df6e2f316c
+•
+java:S3008‘"XRename this field "CharTablePath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºØØJ$be216d67-8e9b-4c66-9de0-c22e4d217d1f
+¡
+java:S3008–"dRename this field "PartOfSpeechTagDictionary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¨ëÜJ$64595bf7-cade-4f3d-b05e-63e6393378e7
+›
+java:S3008›"^Rename this field "WordNatureModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»“‘ÙJ$934adbf1-9e7e-4489-b782-176ec1b43d08
+œ
+java:S3008¡"ZRename this field "MaxEntModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¥ÉÜûÿÿÿÿJ$59d9da6b-6e60-4f64-aa2d-3ce9e2f2be56
+
+java:S3008¥"\Rename this field "NNParserModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú®š¯øÿÿÿÿJ$fc5e279e-d750-4b05-be74-0955f0ce2238
+¡
+java:S3008©"dRename this field "PerceptronParserModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üåõ§J$5257162f-891b-47b9-ad54-7c458eb94e58
+ 
+java:S3008¯"^Rename this field "CRFSegmentModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…î³ûÿÿÿÿJ$4a52ca07-a02f-4229-8f6d-0a20b5438f5c
+ 
+java:S3008µ"^Rename this field "HMMSegmentModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ØÃ£üÿÿÿÿJ$f71e2e8e-e9f1-41dc-b69f-c94803038594
+—
+java:S3008¹"ZRename this field "CRFCWSModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¦™çJ$309cb525-7f3d-4c97-8a62-70021469a9d7
+œ
+java:S3008½"ZRename this field "CRFPOSModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°âçÁùÿÿÿÿJ$e2f6943f-2e43-470b-a3ee-19ff4e145ea4
+—
+java:S3008Á"ZRename this field "CRFNERModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¤•ÙJ$6df7aa06-1a9d-4f7b-a48a-277b4ada1169
+£
+java:S3008Å"aRename this field "PerceptronCWSModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤åùÈùÿÿÿÿJ$49b0abe1-4ef2-43bc-8ddf-aca0de210de2
+£
+java:S3008É"aRename this field "PerceptronPOSModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¬øøşÿÿÿÿJ$0938ce65-228a-4ae4-a13b-c4f02878f7f2
+
+java:S3008Í"aRename this field "PerceptronNERModelPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àôû¶J$fa5bb291-951b-4b72-9d48-5200d9088ab7
+–
+java:S3008Ñ"YRename this field "ShowTermNature" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ê‡«J$f08d4a8e-211e-4a51-8278-4f446aae3f62
+•
+java:S3008Õ"XRename this field "Normalization" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å’J$4f911a40-fa1e-49a2-b8ae-19470d709e3d
+–
+java:S3008Ú"TRename this field "IOAdapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÓšûûÿÿÿÿJ$6a474513-c86c-4649-ab80-be953423fd59
+^
+java:S2386K"Make this member "protected".(š¿ú£üÿÿÿÿJ$f632ebde-7dc3-4178-8f7a-bf0a21831f84
+{
+java:S1118:":Add a private constructor to hide the implicit public one.(‡€ŒØÿÿÿÿÿJ$c808d98b-0f68-4edf-a232-d224e3b4d1f8
+k
+java:S1197K"*Move the array designators [] to the type.(š¿ú£üÿÿÿÿJ$219b6390-75a4-4bab-8b72-03e60fab9620
+w
+java:S1133¡"5Do not forget to remove this deprecated code someday.(Ã¥ÉÜûÿÿÿÿJ$336c5c2b-21f5-4dbe-bc0e-d3794fbdb581
+i
+java:S1123¡"'Add the missing @Deprecated annotation.(Ã¥ÉÜûÿÿÿÿJ$571ca7e2-2376-4764-bdc1-42629788fecd
+w
+java:S1133¯"5Do not forget to remove this deprecated code someday.(›…î³ûÿÿÿÿJ$5e9c19b6-b262-41c8-b32a-bce64fd5ea99
+i
+java:S1123¯"'Add the missing @Deprecated annotation.(›…î³ûÿÿÿÿJ$4156d843-eab7-4690-82ba-4efcac40a0e4
+w
+java:S1133µ"5Do not forget to remove this deprecated code someday.(¿ØÃ£üÿÿÿÿJ$7bab79d9-3687-4036-a459-0cba39831010
+i
+java:S1123µ"'Add the missing @Deprecated annotation.(¿ØÃ£üÿÿÿÿJ$8927255f-b868-4cce-8862-deb4c518f91a
+v
+java:S4719ì"9Replace charset name argument with StandardCharsets.UTF_8(¯ç•¸J$24c4612b-9f6c-4d9d-8682-018368193b76
+…
+java:S5361û"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¤‚¾õJ$b401b2b8-7b52-4180-a5c0-3b40783a4fde
+y
+java:S1874¥"7Remove this use of "MaxEntModelPath"; it is deprecated.(ÀÊÜšúÿÿÿÿJ$c56118c4-5e3e-4e28-966a-daaf452a8165
+y
+java:S1874¥"7Remove this use of "MaxEntModelPath"; it is deprecated.(ÀÊÜšúÿÿÿÿJ$7298e92b-4941-4bc6-949d-de309f3b9b9a
+x
+java:S1874¨";Remove this use of "CRFSegmentModelPath"; it is deprecated.(İã–çJ$866b0bab-3ec9-4fec-8a7b-cb7168b9b6be
+x
+java:S1874¨";Remove this use of "CRFSegmentModelPath"; it is deprecated.(İã–çJ$f51a07f5-0c51-431a-8df4-7489db342870
+x
+java:S1874©";Remove this use of "HMMSegmentModelPath"; it is deprecated.(áÔÿ¶J$8c0f9924-3300-484e-9602-635166cb1f73
+x
+java:S1874©";Remove this use of "HMMSegmentModelPath"; it is deprecated.(áÔÿ¶J$b1b605e3-c520-44b7-9d35-cb80b65436c4
+x	java:S125Á"<This block of commented-out lines of code should be removed.(òÈïçJ$fc0aa4a5-e318-4c0b-ad00-e1db165e22ed
+x	java:S125İ"<This block of commented-out lines of code should be removed.(òÈïçJ$7795a342-33a6-46d6-8b03-9328c45bec07

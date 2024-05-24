@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>文件列表</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/cerulean/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="mb-4">文件列表</h1>
+				<!-- 添加提示信息，使用 Thymeleaf 的 th:if 来控制是否显示 -->
+        <div th:if="${message}" class="alert alert-success" role="alert">
+            <p th:text="${message}"></p>
+        </div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>文件名</th>
+                    <th>MD5串</th>
+                    <th>Expires</th>
+                    <th>操作</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr th:each="file : ${fileList}">
+                    <td th:text="${file.fileName}"></td>
+                    <td th:text="${file.md5}"></td>
+                    <td th:text="${file.expires}"></td>
+                    <td>
+                        <a th:href="@{'' + ${file.downloadUrl} + '?md5=' + ${file.md5} + '&expires=' + ${file.expires}}" download="downloadedFile.txt" class="btn btn-primary">
+                            下载
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h1>文件上传</h1>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="file">选择文件：</label>
+                <input type="file" class="form-control-file" name="file" />
+            </div>
+            <button type="submit" class="btn btn-success">上传</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+2024-24-29 14:24:15 [main] INFO  c.j.e.t.p.ProductElasticsearchApplication - Starting ProductElasticsearchApplication using Java 1.8.0_401 on DESKTOP-CKBJLED with PID 22036 (D:\PracticeProjectFile\mypracticefile\springboot-practice\elasticsearch-thymeleaf\target\classes started by admin in D:\PracticeProjectFile\mypracticefile\springboot-practice)
+2024-24-29 14:24:15 [main] INFO  c.j.e.t.p.ProductElasticsearchApplication - No active profile set, falling back to 1 default profile: "default"
+2024-24-29 14:24:16 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Elasticsearch repositories in DEFAULT mode.
+2024-24-29 14:24:16 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 0 Elasticsearch repository interfaces.
+2024-24-29 14:24:16 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Reactive Elasticsearch repositories in DEFAULT mode.
+2024-24-29 14:24:16 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 Reactive Elasticsearch repository interfaces.
+2024-24-29 14:24:18 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-24-29 14:24:18 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-24-29 14:24:18 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-24-29 14:24:18 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.79]
+2024-24-29 14:24:18 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-24-29 14:24:18 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3725 ms
+2024-24-29 14:24:24 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-24-29 14:24:24 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-24-29 14:24:24 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-24-29 14:24:24 [main] INFO  c.j.e.t.p.ProductElasticsearchApplication - Started ProductElasticsearchApplication in 11.004 seconds (JVM running for 14.152)

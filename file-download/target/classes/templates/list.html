@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>文件列表</title>
+    <link rel="stylesheet" th:href="@{/webjars/bootstrap/4.5.2/css/bootstrap.min.css}" />
+</head>
+<body>
+    <div class="container">
+        <h2>文件列表</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>文件名</th>
+                    <th>操作</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr th:each="file : ${files}">
+                    <td th:text="${file.name}"></td>
+                    <td>
+                        <a th:href="@{'/download/' + ${file.name}(token=${file.token})}" class="btn btn-primary">下载</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

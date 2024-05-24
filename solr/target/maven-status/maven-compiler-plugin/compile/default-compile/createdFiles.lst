@@ -1,0 +1,6 @@
+com\jiabin\solr\practice\service\SolrService.class
+com\jiabin\solr\practice\controller\IndexController.class
+com\jiabin\solr\practice\controller\SolrController.class
+com\jiabin\solr\practice\service\impl\SolrServiceImpl.class
+com\jiabin\solr\practice\SearchApplication.class
+com\jiabin\solr\practice\utils\DateUtils.class

@@ -1,0 +1,30 @@
+
+›
+java:S1488¾"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~J$407b925c-9286-497d-a7bb-c263977ded44
+	java:S116`"PRename this field "code_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÚÊùÿÿÿÿJ$40b50384-b404-47a2-a4d9-3b66b944f0ef
+	java:S116o"PRename this field "note_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôğù¬ûÿÿÿÿJ$26b39be2-bfa1-4969-a8df-ded7f87f40ba
+¥
+java:S4144”"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 635.(ôŠĞÇùÿÿÿÿJ$9d6acf07-2e1c-4ca3-9eea-6903c4ac70ba
+h
+java:S1948o"'Make "note_" transient or serializable.(Ôğù¬ûÿÿÿÿJ$d314488d-1f0d-48ac-bcc7-0b8e1ced16c6
+˜
+java:S3077o"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ôğù¬ûÿÿÿÿJ$980a87c3-9162-4c83-a61f-8a0a6a3fff92
+ƒ
+java:S1126Ó"AReplace this if-then-else statement by a single return statement.(®ÈäîÿÿÿÿÿJ$9c0d4437-94d3-47c6-86fa-4dfa917a2dd9
+‘	java:S116Û"PRename this field "code_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÚÊùÿÿÿÿJ$eda8a335-3008-4d8a-8b65-7079988a6553
+Œ	java:S116†"PRename this field "note_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ê™J$40e7a058-d58f-48c1-9031-39880aa6375e
+e	java:S108á")Either remove or fill this block of code.(º„ç½J$39ea5915-4796-426c-84f6-9a3e7a1d0578
+•
+java:S2975Œ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾ÒûÿÿÿÿJ$fceab91a-6347-4856-9118-f7bca531ee05
+j
+java:S1185Œ"(Remove this method to simply inherit it.(Îõ¾ÒûÿÿÿÿJ$e95efc96-b2b9-4e37-9424-d11d93971696
+j
+java:S1185"(Remove this method to simply inherit it.(ÑÍ“ËûÿÿÿÿJ$98194dc7-ce9a-4e49-9516-d0213b0313d8
+j
+java:S1185–"(Remove this method to simply inherit it.(Ã•ŒƒüÿÿÿÿJ$88ae154e-c694-44cd-8156-31732864689b
+j
+java:S1185›"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿJ$8bb9fbf3-ad64-4c04-94d0-95a4f38c6271
+e
+java:S1185 "(Remove this method to simply inherit it.(§ß—¡J$23e420cd-c3db-469e-a127-3a310c531e17
+e
+java:S1185¦"(Remove this method to simply inherit it.(¿¸Ú©J$5205d503-613b-450e-8e8a-f9b2fab68dff

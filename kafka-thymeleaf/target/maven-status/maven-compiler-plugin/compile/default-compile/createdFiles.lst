@@ -1,0 +1,10 @@
+com\jiabin\kafka\thymeleaf\practice\OrderKafkaApplication.class
+com\jiabin\kafka\thymeleaf\practice\repository\OrderRepository.class
+com\jiabin\kafka\thymeleaf\practice\service\TestDataProducerService.class
+com\jiabin\kafka\thymeleaf\practice\runner\TestDataGenerationRunner.class
+com\jiabin\kafka\thymeleaf\practice\conf\KafkaConfig.class
+com\jiabin\kafka\thymeleaf\practice\service\OrderConsumerService.class
+com\jiabin\kafka\thymeleaf\practice\service\OrderProducerService.class
+com\jiabin\kafka\thymeleaf\practice\conf\JacksonConfig.class
+com\jiabin\kafka\thymeleaf\practice\controller\OrderController.class
+com\jiabin\kafka\thymeleaf\practice\entity\Order.class

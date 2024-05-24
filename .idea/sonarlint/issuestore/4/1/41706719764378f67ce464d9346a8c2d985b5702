@@ -1,0 +1,5 @@
+
+­
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8Ğ€ßíñ1J$63556f63-e5af-41a5-80bc-01f47a2ddc1e
+
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(îß— ûÿÿÿÿ8Ø€ßíñ1J$3880d7fc-7486-4984-89ce-ef2f2a1416a3

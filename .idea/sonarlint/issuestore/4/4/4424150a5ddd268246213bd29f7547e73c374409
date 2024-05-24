@@ -1,0 +1,46 @@
+
+ˆ	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(ó¯¦™8Òşò1J$693c95c9-3d25-4554-821f-eac2c2252ced
+g	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(¹Ô¿áüÿÿÿÿ8«ó“ò1
+z
+java:S2629M"7Use the built-in formatting to construct this argument.(”œ­8Õşò1J$c12e3a20-26b1-4359-848f-ba8cbf39eda2
+l
+java:S2629Z"$Invoke method(s) only conditionally.(û¶¯ùÿÿÿÿ8Úşò1J$0c4c0c0b-2be1-4f1a-b15e-3ccdb99dc875
+z
+java:S2629o"7Use the built-in formatting to construct this argument.(ô¾¾¢8Úşò1J$12af0e14-d064-4db6-a69d-abc4d5c103ed
+z
+java:S2629"7Use the built-in formatting to construct this argument.(ÎÙ’Ê8Ûşò1J$249468ce-fe3b-476d-953d-dd6f94e4368f
+{
+java:S2629Š"7Use the built-in formatting to construct this argument.(ÎÙ’Ê8Ûşò1J$51653bdb-5580-4f53-9c99-b591bdbf8cd2
+~
+java:S2696-"6Make the enclosing method "static" or remove this set.(ˆìŞÌûÿÿÿÿ8ºşò1J$a1e96f17-6da5-43c1-aff5-0012dfe7c2d9
+¯
+java:S11301"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ó¯¦™8Ãşò1J$af6b867c-8d5d-4849-94d4-2c976e07f430
+ƒ
+java:S34572"AFormat specifiers should be used instead of string concatenation.(‰§ûR8¼şò1J$3b2d31aa-0518-4f94-9f3f-e5fd2399892b
+‰
+java:S3457<"AFormat specifiers should be used instead of string concatenation.(Šø‰Ùùÿÿÿÿ8Àşò1J$03ecca95-0fb3-4059-80c4-19de1a1e818b
+
+java:S1130B"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¹Ô¿áüÿÿÿÿ8¥ø“ò1
+„
+java:S3457C"AFormat specifiers should be used instead of string concatenation.( ±§ı8Äşò1J$1e289dfe-38df-496d-8b43-2584eeccc800
+‰
+java:S3457H"AFormat specifiers should be used instead of string concatenation.(‚ú®­úÿÿÿÿ8Èşò1J$b0ebd8ac-385b-4572-ae24-215bc6e81d5c
+„
+java:S3457M"AFormat specifiers should be used instead of string concatenation.(”œ­8Ëşò1J$6a135ce9-90b0-4924-b999-dc8b37b95812
+}	java:S125_"<This block of commented-out lines of code should be removed.(ÎÂ‡I8Ğşò1J$5216d83a-b6de-4776-bf5b-aff66607c173
+‰
+java:S3457f"AFormat specifiers should be used instead of string concatenation.(òŒ—ùøÿÿÿÿ8Ñşò1J$a7391819-206f-4f11-8463-1e360e878683
+w
+java:S2864l"4Iterate over the "entrySet" instead of the "keySet".( ˆßö8Õşò1J$38e5d5f4-d845-42df-87e8-fa7eb730121b
+„
+java:S3457o"AFormat specifiers should be used instead of string concatenation.(ô¾¾¢8Öşò1J$05c5a74f-5269-4158-9bf9-6f02a50778a1
+w
+java:S2864t"4Iterate over the "entrySet" instead of the "keySet".(áÚö»8Øşò1J$b03c116c-478d-4d17-a82e-f4cfd5e5570f
+„
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ÎÙ’Ê8Úşò1J$5408f798-6c39-46b0-853c-664215a845cc
+…
+java:S3457"AFormat specifiers should be used instead of string concatenation.(÷¯Éì8¦Ëıò1J$5d82e2b4-0943-4c5c-be00-30fce8fb64c3
+…
+java:S3457Š"AFormat specifiers should be used instead of string concatenation.(ÎÙ’Ê8ßşò1J$4a924dc3-2c27-48a2-a46a-335e1cbf7c04
+…
+java:S3457"AFormat specifiers should be used instead of string concatenation.(÷¯Éì8áşò1J$73c671c4-0d1f-494a-80bd-1cb8f7d2dfa4

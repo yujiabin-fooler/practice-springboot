@@ -1,0 +1,13 @@
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\HttpPracticeApplication.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\api\CommonResult.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\domain\PmsBrand.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\api\IErrorCode.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\config\HttpInterfaceConfig.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\domain\LoginInfo.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\api\CommonPage.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\controller\HttpInterfaceController.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\component\TokenHolder.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\config\Swagger2Config.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\remote\UmsAdminApi.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\remote\PmsBrandApi.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\http\src\main\java\com\jiabin\http\practice\api\ResultCode.java

@@ -1,0 +1,47 @@
+
+Œ	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß”â¢J$59b7fe4c-7394-46f8-a863-aa1b2e2d2d03
+	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€J$226a6373-9e66-4c70-8948-699715b10ab2
+›
+java:S1488Õ"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~J$70aa88c1-0c9c-47c8-8535-1c14accd2c07
+o
+java:S1199Ç"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿJ$f915afb1-2243-438b-9254-429aec396c76
+‰	java:S116w"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡Ñ÷J$0e3c7fb8-d3ed-499c-b344-2c3b46906187
+Ž	java:S116‚"RRename this field "number_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ÷ž˜J$7c24c23f-e092-4ea5-814a-a48eafe0a975
+¬
+java:S4144ž"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 645.(ì¯Â”ýÿÿÿÿ8¹ÑüÊê1J$ab7cea60-f7f0-4d75-8d45-d7e111992139
+m
+java:S1948‚")Make "number_" transient or serializable.(Æ÷ž˜8©ªáÊê1J$1d44dbc1-cec1-4e1f-ae83-85f03c0e9c19
+“
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(§ÿðÿÿÿÿÿJ$d7e8b3a4-9da5-4e4a-95c7-5d29437f2408
+j
+java:S1940?")Use the opposite operator ("==") instead.(«‹¦œøÿÿÿÿJ$55b089d1-2cc0-4948-838d-cfa261fb8b35
+e
+java:S1940I")Use the opposite operator ("==") instead.(×„ÎÃJ$af9fd7ae-8eeb-4575-a6ac-297f4275c494
+€
+java:S1155³">Use isEmpty() to check whether the collection is empty or not.(×Çþ™úÿÿÿÿJ$3973bc50-499d-4397-88b1-72991020586d
+ƒ
+java:S1126è"AReplace this if-then-else statement by a single return statement.(®ÈäîÿÿÿÿÿJ$a2a3be36-6faf-4f70-bd90-5604e263819e
+‘	java:S116€"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³ÄJ$f2a4a6ce-57ab-4326-b04b-b197b28c4d28
+Š	java:S116‚"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡Ñ÷J$ca33d040-ce9d-4d61-82f2-76dfddee13e6
+Ž	java:S116¡"RRename this field "number_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å÷ØãJ$48b251ad-88b1-4210-bb1c-9732f2ea6730
+e	java:S108ü")Either remove or fill this block of code.(º„ç½J$ddca9252-3f28-438a-8ce6-1cf4911f60c5
+€
+java:S1854 "CRemove this useless assignment to local variable "from_bitField0_".(ÆÓ¡€J$cdf22312-7738-4959-8a86-36a93ad6e47d
+q
+java:S1481 "4Remove this unused "from_bitField0_" local variable.(ÆÓ¡€J$dc3a8be7-ef2a-4f29-8fda-3d8ad34f900c
+•
+java:S2975¬"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾ÒûÿÿÿÿJ$3f20ef60-8d6a-4e0d-a4ed-5dabfad43fc5
+q
+java:S1185¬"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ8äªáÊê1J$7d32e067-3df1-4b57-8c1d-b6d0f6187deb
+q
+java:S1185°"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ8åªáÊê1J$6fdc4c60-9d8f-4d80-ad07-ad6fbb880782
+q
+java:S1185¶"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ8æªáÊê1J$5188d323-de90-4fb0-99c8-4297344cbf2c
+q
+java:S1185»"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ8çªáÊê1J$e0388a95-526c-4f77-8fc9-a5ab8608b1e1
+l
+java:S1185À"(Remove this method to simply inherit it.(§ß—¡8çªáÊê1J$fdd9f84d-ecb8-48cb-a320-9385a86e2743
+l
+java:S1185Æ"(Remove this method to simply inherit it.(¿¸Ú©8èªáÊê1J$186b052d-69f9-46f3-9570-003c0eddc058
+f
+java:S1940£")Use the opposite operator ("==") instead.(¦ÁÕ“J$d9b5f278-8fd9-4949-96c3-f2b7161834ed

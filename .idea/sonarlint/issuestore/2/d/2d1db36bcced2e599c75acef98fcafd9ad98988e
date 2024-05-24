@@ -1,0 +1,9 @@
+
+œ
+java:S1488Q"`Immediately return this expression instead of assigning it to the temporary variable "fileList".(Ö¬î¼J$af53d628-c2ec-4541-92c5-66f6b17df2de
+•
+java:S2095;"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ8Ø¶ƒ½ò1J$cfefdba8-59ea-44ea-813a-8e5e1093d6db
+­
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8Ü¶ƒ½ò1J$2dc6bb0d-54b1-47a1-97ad-9430bc0aa2b7
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ß¶ƒ½ò1J$0139eb32-a346-421c-82ac-34b4d690feaa

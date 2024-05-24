@@ -1,0 +1,8 @@
+com\jiabin\exceptionhandler\practice\pojo\User.class
+com\jiabin\exceptionhandler\practice\web\UserRestController.class
+com\jiabin\exceptionhandler\practice\result\ResultBody.class
+com\jiabin\exceptionhandler\practice\exception\BaseErrorInfoInterface.class
+com\jiabin\exceptionhandler\practice\exception\GlobalExceptionHandler.class
+com\jiabin\exceptionhandler\practice\enums\CommonEnum.class
+com\jiabin\exceptionhandler\practice\exception\BizException.class
+com\jiabin\exceptionhandler\practice\ExceptionHandlerPracticeApplication.class

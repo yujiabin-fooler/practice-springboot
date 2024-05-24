@@ -1,0 +1,9 @@
+
+
+java:S11926"NDefine a constant instead of duplicating this literal "Authorization" 3 times.(ÒÕÊÅüÿÿÿÿJ$704935d1-adf1-4973-b6f6-85294e4e1412
+
+java:S2259k"CA "NullPointerException" could be thrown; "field" is nullable here.(˜ÂÓ˜J$339552d3-8486-44ae-a09a-fdc7d13be418
+l
+java:S1874E"0Remove this use of "forPaths"; it is deprecated.(ÈÜÂ³J$1639af05-571e-4e00-b356-a5d58c0b71e8
+h
+java:S3011k",This accessibility update should be removed.(˜ÂÓ˜J$48a2eda4-63b2-48ac-a512-f452fc0755f5

@@ -1,0 +1,17 @@
+
+m
+java:S1854"KRemove this useless assignment to local variable "personalInfoRecordsList".(ìúë±ÿÿÿÿÿ8­çÜŞê1
+^
+java:S1481"<Remove this unused "personalInfoRecordsList" local variable.(ìúë±ÿÿÿÿÿ8±çÜŞê1
+G	java:S106"+Replace this use of System.out by a logger.(Ì›ŒŠ8²çÜŞê1
+Q
+java:S1611#"/Remove the parentheses around the "v" parameter(Õç¦ïıÿÿÿÿ8¸çÜŞê1
+\
+java:S6213$":Rename this variable to not match a restricted identifier.(ëè´×øÿÿÿÿ8¸çÜŞê1
+L	java:S106:"+Replace this use of System.out by a logger.(ô—“…úÿÿÿÿ8ÂçÜŞê1
+L	java:S106^"+Replace this use of System.out by a logger.(ÎÑê‹úÿÿÿÿ8ÈçÜŞê1
+S
+java:S1854v"6Remove this useless assignment to local variable "id".(Ï»¸ù8ÌçÜŞê1
+D
+java:S1481v"'Remove this unused "id" local variable.(Ï»¸ù8ÍçÜŞê1
+L	java:S106y"+Replace this use of System.out by a logger.(ìÛ´íıÿÿÿÿ8ÎçÜŞê1

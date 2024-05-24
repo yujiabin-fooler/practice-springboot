@@ -1,0 +1,14 @@
+
+b	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(äÿšè8«©ü•ò1
+…
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄÞ8²ÈÊ•ò1J$827fe14d-9538-4c42-96f0-8e6ea5cb11ce
+…
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄÞ8³ÈÊ•ò1J$bf79f18b-bd27-433a-aeb5-5c94dfb40f4e
+…
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄÞ8³ÈÊ•ò1J$286bd222-9f55-4e1a-8570-2442e0b037ea
+…
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄÞ8³ÈÊ•ò1J$2588edef-617a-49d3-b85f-c3cfdf5eff0a
+
+java:S1854‚"=Remove this useless assignment to local variable "suspended".(ï¶š„ÿÿÿÿÿJ$5e0c37b8-375c-4d07-8142-e11ed406703d
+p
+java:S1481‚".Remove this unused "suspended" local variable.(ï¶š„ÿÿÿÿÿJ$ec102e75-7f04-4d93-9f28-37ada95f4df6

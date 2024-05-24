@@ -1,0 +1,9 @@
+
+
+java:S1488%"]Immediately return this expression instead of assigning it to the temporary variable "users".(“¼ÒµúÿÿÿÿJ$7d60b986-a74e-4a2c-a103-2f22d34671cc
+™
+java:S14889"]Immediately return this expression instead of assigning it to the temporary variable "count".(Äã³J$2275220b-9e25-4dcc-a405-b3bc62b1c24a
+™
+java:S1488@"]Immediately return this expression instead of assigning it to the temporary variable "count".(ÙíÙ„J$96c1844f-6f9a-4540-a3fc-c17631ae7efa
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$2bde9a6c-3298-4573-b16d-dd1bbd1e70e9

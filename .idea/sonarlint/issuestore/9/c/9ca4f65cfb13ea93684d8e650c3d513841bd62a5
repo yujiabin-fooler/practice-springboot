@@ -1,0 +1,11 @@
+
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄÞ8ë¯˜ºò1J$fffc6c11-99d3-43d4-a719-243664422d5d
+’
+java:S4488&"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•´ªÂÿÿÿÿÿ8Å³˜ºò1J$55aacba9-7d0e-44b3-a3dd-21a6cadcf9c4
+Š
+java:S4488,"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ëôõw8È³˜ºò1J$cf5e47d7-92d7-4055-a7e7-5ef7ccc50469
+–
+java:S44882"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(Ú®Ô¼øÿÿÿÿ8Ê³˜ºò1J$7ea774b0-077e-4284-86d5-7dd6d71e5766
+‹
+java:S44889"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ä€¥¨8Ì³˜ºò1J$699b2c96-9f54-4afc-8836-d55ebf3c69df

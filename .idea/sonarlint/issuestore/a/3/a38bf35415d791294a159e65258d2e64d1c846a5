@@ -1,0 +1,29 @@
+
+Q
+java:S3740+"/Provide the parametrized type for this generic.(›ÈŽšøÿÿÿÿ8«¡Øéñ1
+Q
+java:S3740,"/Provide the parametrized type for this generic.(Õ‰’µùÿÿÿÿ8«¡Øéñ1
+L
+java:S3740;"/Provide the parametrized type for this generic.(Ä”™Ê8¬¡Øéñ1
+Q
+java:S3740<"/Provide the parametrized type for this generic.(Õ‰’µùÿÿÿÿ8¬¡Øéñ1
+L
+java:S3740K"/Provide the parametrized type for this generic.(ÿÙ´à8¬¡Øéñ1
+¦
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$d116060f-2316-424d-aa87-f16ee8acb730
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$b07e4f31-3ebc-426a-a6d6-35b92fb892d5
+t
+java:S1874"3Remove this use of "description"; it is deprecated.(÷ÊðªúÿÿÿÿJ$96ab0356-64a8-4f2c-a7f9-35c739377a7e
+‰
+java:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†ÉãýÿÿÿÿJ$57be143f-b4b4-472b-8415-d135dde5ba4e
+‹
+java:S4488)"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿJ$6257607a-470e-4854-8184-438d90954ea8
+†
+java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ð„˜ÚJ$264fe9a8-e27a-4bb0-a95e-f7900ec9878a
+‰
+java:S4488I"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ó¼ñìûÿÿÿÿJ$37446633-62be-4a94-b690-cdde6518601c
+‰
+java:S4488W"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏÊÃ×ûÿÿÿÿJ$11406d36-1f50-492c-81ab-65fc808f7ea1
+„
+java:S4488b"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ðÄâÿJ$a565c745-bde5-43a0-961e-b4747ac2019f

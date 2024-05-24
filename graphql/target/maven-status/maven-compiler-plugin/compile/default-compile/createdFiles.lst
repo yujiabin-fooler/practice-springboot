@@ -1,0 +1,8 @@
+com\jiabin\graphql\practice\model\Book.class
+com\jiabin\graphql\practice\queryresolvers\BookMutation.class
+com\jiabin\graphql\practice\queryresolvers\BookQuery.class
+com\jiabin\graphql\practice\BookAPIApplication.class
+com\jiabin\graphql\practice\queryresolvers\BookAuthorResolver.class
+com\jiabin\graphql\practice\model\Author.class
+com\jiabin\graphql\practice\repository\AuthorRepository.class
+com\jiabin\graphql\practice\repository\BookRepository.class

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>任务列表</title>
+    <!-- 添加Bootstrap CSS -->
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<div class="container mt-4">
+    <h2>任务列表</h2>
+     <a th:href="@{/tasks/create}" class="btn btn-primary">添加任务</a> <!-- 添加任务按钮 -->
+    <table class="table">
+        <thead>
+            <tr>
+                <th>任务名称</th>
+                <th>分组</th>
+                <th>Cron表达式</th>
+                <th>运行状态</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="task : ${tasks}">
+                <td th:text="${task.name}"></td>
+                <td th:text="${task.group}"></td>
+                <td th:text="${task.cronExpression}"></td>
+                <td th:text="${task.status}"></td>
+                <td>
+                    <a th:href="@{'/tasks/edit?taskId=' + ${task.id}}" class="btn btn-sm btn-primary">编辑</a>
+                   	<a href="#" th:onclick="'startTask(' + ${task.id} + '); return false;'"  class="btn btn-sm btn-success">执行任务</a>
+                   	<a href="#" th:onclick="'startOnceTask(' + ${task.id} + '); return false;'"  class="btn btn-sm btn-success">执行一次</a>
+                    <a href="#" th:onclick="'stopTask(' + ${task.id} + '); return false;'"  class="btn btn-sm btn-info">暂停</a>
+                    <a href="#" th:onclick="'resumeTask(' + ${task.id} + '); return false;'"  class="btn btn-sm btn-success">恢复运行</a>
+                    <a href="#" th:onclick="'delTask(' + ${task.id} + '); return false;'"  class="btn btn-sm btn-danger">删除</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function startTask(taskId) {
+        $.post("/tasks/start?taskId=" + taskId, function(data) {
+            // 处理成功或失败的响应
+            location.reload();
+        });
+    }
+    function startOnceTask(taskId) {
+        $.post("/tasks/startOnce?taskId=" + taskId, function(data) {
+            // 处理成功或失败的响应
+            location.reload();
+        });
+    }
+
+    function stopTask(taskId) {
+        $.post("/tasks/stop?taskId=" + taskId, function(data) {
+            // 处理成功或失败的响应
+            location.reload();
+        });
+    }
+    function resumeTask(taskId) {
+        $.post("/tasks/resume?taskId=" + taskId, function(data) {
+            // 处理成功或失败的响应
+            location.reload();
+        });
+    }
+    function delTask(taskId) {
+        $.post("/tasks/delete?taskId=" + taskId, function(data) {
+            // 处理成功或失败的响应
+            location.reload();
+        });
+    }
+</script>
+</body>
+</html>

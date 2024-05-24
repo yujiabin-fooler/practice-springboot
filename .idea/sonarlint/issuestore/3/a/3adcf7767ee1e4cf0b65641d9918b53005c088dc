@@ -1,0 +1,5 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Þ×Ïöùÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+E	java:S1060"+Replace this use of System.out by a logger.(¸†²øÿÿÿÿÿ

@@ -1,0 +1,11 @@
+
+~
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞJ$7abfa583-2ca5-41fb-955c-69951eb66b96
+~
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞJ$efcae677-bf11-4901-af9e-df7911b0b1bf
+~
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞJ$83dab243-f172-4d60-b417-b08158cb983f
+•
+java:S3305#"YInject this field value directly into "userDetailsService", the only method that uses it.(“÷âJ$5653cce5-cc10-4091-b29e-f1eea910a772
+{
+java:S1161Y":Add the "@Override" annotation above this method signature(ò—ŞëıÿÿÿÿJ$da104c08-0c18-4e3e-a03c-1d67d693e5ee

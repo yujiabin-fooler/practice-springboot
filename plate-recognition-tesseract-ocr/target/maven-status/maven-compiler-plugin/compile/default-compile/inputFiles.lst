@@ -1,0 +1,16 @@
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\entity\Line.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\train\SVMTrain.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\controller\LicensePlateRecognitionController.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\util\GenerateIdUtil.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\NumberPlateApplication.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\util\ImageUtil.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\enumtype\PlateColor.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\util\FileUtil.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\entity\PlateRecoResult.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\enumtype\Direction.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\util\Constant.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\util\PlateUtil.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\conf\TesseractConfig.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\conf\NativeLoader.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\conf\ImagePreprocessing.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\plate-recognition-tesseract-ocr\src\main\java\com\jiabin\ocr\recognition\practice\enumtype\PlateHSV.java

@@ -1,0 +1,123 @@
+
+Q
+java:S37405"/Provide the parametrized type for this generic.(ÃÑÏ¨üÿÿÿÿ8œ“Øéñ1
+L
+java:S3740G"/Provide the parametrized type for this generic.(‡ö·ü8“Øéñ1
+L
+java:S3740f"/Provide the parametrized type for this generic.(´ÊÉİ8¡“Øéñ1
+L
+java:S3740w"/Provide the parametrized type for this generic.(ÈÓŸ÷8è”Øéñ1
+R
+java:S3740‚"/Provide the parametrized type for this generic.(Ú±üÿÿÿÿÿ8Â˜Øéñ1
+R
+java:S3740"/Provide the parametrized type for this generic.(§óÊƒúÿÿÿÿ8Ã˜Øéñ1
+M
+java:S3740¥"/Provide the parametrized type for this generic.(îŞ¸8Ä˜Øéñ1
+R
+java:S3740¹"/Provide the parametrized type for this generic.(Ëï®ûÿÿÿÿÿ8Å˜Øéñ1
+M
+java:S3740Ï"/Provide the parametrized type for this generic.(³Àé’8Æ˜Øéñ1
+R
+java:S3740Ş"/Provide the parametrized type for this generic.(®ş•Ñşÿÿÿÿ8Æ˜Øéñ1
+M
+java:S3740í"/Provide the parametrized type for this generic.(èĞ¡»8Ç˜Øéñ1
+R
+java:S3740ƒ"/Provide the parametrized type for this generic.(ôÑ¦¬úÿÿÿÿ8È˜Øéñ1
+M
+java:S3740"/Provide the parametrized type for this generic.(£¥Âê8Ê˜Øéñ1
+R
+java:S3740¹"/Provide the parametrized type for this generic.(üÈˆåúÿÿÿÿ8Ì˜Øéñ1
+R
+java:S3740Ê"/Provide the parametrized type for this generic.(Í¤¶”ıÿÿÿÿ8Î˜Øéñ1
+„
+java:S1192…"GDefine a constant instead of duplicating this literal "123456" 3 times.(”Ğ‘‘J$88329ac2-8500-4b6f-8433-9cb6381bdde2
+’
+java:S30081"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÍ“·úÿÿÿÿJ$8bab5435-2313-46b0-a6b0-607047e8455c
+o
+java:S1874,"3Remove this use of "description"; it is deprecated.(Ú¤ëJ$e5823f91-ebc2-4279-b967-922651b71659
+w
+java:S1854A";Remove this useless assignment to local variable "strList".(©™¹„J$3e637a1d-fb84-4f38-a639-2f76574fe5fe
+y
+java:S1854>"8Remove this useless assignment to local variable "date".(€Ş„™úÿÿÿÿJ$b723242d-97ca-4d38-b573-17a6773f5ff4
+t
+java:S1854;"8Remove this useless assignment to local variable "bArr".(ß‚°ûJ$f0f73623-2a9b-4627-b801-9ea671ac5f06
+s
+java:S18548"8Remove this useless assignment to local variable "aStr".(¾ßĞJ$b4ef9c17-61c8-414a-9e1f-aef710e416dc
+d
+java:S14818")Remove this unused "aStr" local variable.(¾ßĞJ$2261a86e-6ce4-4b80-bce0-63b8708d9e96
+e
+java:S1481;")Remove this unused "bArr" local variable.(ß‚°ûJ$77b3965c-a3e1-46ed-8446-033981c2f539
+j
+java:S1481>")Remove this unused "date" local variable.(€Ş„™úÿÿÿÿJ$5cdf6f6e-e5d5-43e6-a2d0-d8fc213ba89b
+h
+java:S1481A",Remove this unused "strList" local variable.(©™¹„J$161b6b70-2ad8-4d3f-bb44-b6e924c3fa8c
+
+java:S1854`">Remove this useless assignment to local variable "betweenDay".(ÆèùÄøÿÿÿÿJ$18f8c96c-de12-4e29-baa7-831f5807a2dd
+x
+java:S1854\"<Remove this useless assignment to local variable "endOfDay".(È¿ÖJ$4bb51d6e-d89a-437e-a378-860eb543070d
+
+java:S1854[">Remove this useless assignment to local variable "beginOfDay".(ÛáèÊÿÿÿÿÿJ$3be62e5a-d933-40d0-8a28-c0ed9e528f7f
+u
+java:S1854Y"9Remove this useless assignment to local variable "month".(–›¤€J$b6235673-28b7-4f60-87d3-5ea2de02a420
+y
+java:S1854W"8Remove this useless assignment to local variable "year".(µâì±úÿÿÿÿJ$74f013f9-4eab-4f58-97d5-e2b9626da425
+{
+java:S1854U":Remove this useless assignment to local variable "format".(Îµ „ûÿÿÿÿJ$16c7abf9-925c-42b6-aae4-7b4c8b58c568
+t
+java:S1854Q"8Remove this useless assignment to local variable "date".(ñ˜±âJ$184e3717-a750-404f-8e25-a36d0cf3ceae
+t
+java:S1854N"8Remove this useless assignment to local variable "date".(×ı¯èJ$ef1bf8f8-2cea-41df-b152-c8969d7a7c2d
+t
+java:S1854L"8Remove this useless assignment to local variable "date".(ĞÇ¿ËJ$933e3c8a-91a1-415c-b2bb-50fd2d58e4b0
+y
+java:S1854J"8Remove this useless assignment to local variable "date".(”ïà¬ûÿÿÿÿJ$227fd30b-7c09-4145-905a-a270db3a569e
+l
+java:S1481U"+Remove this unused "format" local variable.(Îµ „ûÿÿÿÿJ$32b2e105-e736-47a8-abc0-168e84d830fc
+j
+java:S1481W")Remove this unused "year" local variable.(µâì±úÿÿÿÿJ$a290c810-bcb5-443b-9e5e-610c4000c168
+f
+java:S1481Y"*Remove this unused "month" local variable.(–›¤€J$83f9664a-ac47-42b0-ad2a-9d6f65842e1e
+p
+java:S1481["/Remove this unused "beginOfDay" local variable.(ÛáèÊÿÿÿÿÿJ$bee36714-a8c0-4efb-9c61-69416f55299c
+i
+java:S1481\"-Remove this unused "endOfDay" local variable.(È¿ÖJ$a6a09aad-72cd-44b5-8101-105613b0cee8
+p
+java:S1481`"/Remove this unused "betweenDay" local variable.(ÆèùÄøÿÿÿÿJ$dfdea0c6-7565-4ffd-a0d4-f5de1e249bd2
+|
+java:S1854†":Remove this useless assignment to local variable "method".(ê¶¬úÿÿÿÿJ$aee179c4-bd32-4383-a6e5-644ef4b9f735
+x
+java:S1854„";Remove this useless assignment to local variable "methods".(ÚØõJ$0a63ebfb-fc94-453f-b5bf-96425d1de3f4
+i
+java:S1481„",Remove this unused "methods" local variable.(ÚØõJ$70dd68a2-cb57-4b5c-b5d4-c6a5dd834254
+m
+java:S1481†"+Remove this unused "method" local variable.(ê¶¬úÿÿÿÿJ$e6885eb8-9df9-4277-8a3e-179e4888d2c6
+y
+java:S1854š"<Remove this useless assignment to local variable "roundNum".(À®„îJ$1aa06699-57f5-4f2e-a431-150b4fbca88a
+|
+java:S1854˜":Remove this useless assignment to local variable "result".(ìÔ„ŞûÿÿÿÿJ$1635d203-c21d-4808-a349-b1e176850354
+|
+java:S1854—":Remove this useless assignment to local variable "result".(Ã–¸´ûÿÿÿÿJ$2d1b1480-9182-4118-8d4a-60c518a68de6
+|
+java:S1854–":Remove this useless assignment to local variable "result".(ªğ€‰øÿÿÿÿJ$f71e2e4e-176f-4253-b030-8cf1f5973efb
+|
+java:S1854•":Remove this useless assignment to local variable "result".(ú«ÓÍıÿÿÿÿJ$c512713b-d35a-4c43-a927-fe37327bced6
+m
+java:S1481“"+Remove this unused "result" local variable.(›¡Ã ıÿÿÿÿJ$91730e65-8966-4b24-bdca-02c4e9b0b5f6
+j
+java:S1481š"-Remove this unused "roundNum" local variable.(À®„îJ$7636cc22-2cb9-4596-9ab0-4b2f422afca0
+s
+java:S1874®"1Remove this use of "mapToBean"; it is deprecated.(É‘¦ÁüÿÿÿÿJ$c448eab5-0f5e-4a7e-8f6e-3f0b6d106d11
+x
+java:S1854Æ";Remove this useless assignment to local variable "newList".(ìì‰ÍJ$fc9f8a33-c3d2-48c5-8a85-843ed47229ed
+{
+java:S1854Å">Remove this useless assignment to local variable "newHashSet".(´å¦ÁJ$961cae1b-7583-4fb4-a429-aa40ad2aca95
+w
+java:S1854Ä":Remove this useless assignment to local variable "newMap".(Ÿİ¿ÑJ$5f451654-190e-423e-914d-06eb7614873f
+h
+java:S1481Ä"+Remove this unused "newMap" local variable.(Ÿİ¿ÑJ$4ec5936c-1308-471e-a2f2-e488cef06e50
+l
+java:S1481Å"/Remove this unused "newHashSet" local variable.(´å¦ÁJ$487aac8b-935b-48e1-98fa-f7c824ad0d0d
+i
+java:S1481Æ",Remove this unused "newList" local variable.(ìì‰ÍJ$b86b800a-dee6-4fc3-b453-f263a8af3392
+p
+java:S1874ä"3Remove this use of "description"; it is deprecated.(±¾œÔJ$8e68da5a-5fe2-457b-af7d-e6197e993911

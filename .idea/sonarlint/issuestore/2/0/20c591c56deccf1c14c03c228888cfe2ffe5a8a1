@@ -1,0 +1,18 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ê…“Çé1J$beef200e-6308-4b20-8406-f9b0968283da
+
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(õø‰8ñ…“Çé1J$9ceedb44-9361-4fd4-aeab-465cd7436440
+m	java:S106"+Replace this use of System.out by a logger.(»ü„–8ò…“Çé1J$11c48a13-5144-42e1-b4da-de4fecc9160a
+‹
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Òß¢İ8ò…“Çé1J$7774d5da-21cd-4299-942d-7f519e3c1114
+r	java:S106""+Replace this use of System.out by a logger.(ÚŞ™øÿÿÿÿ8ó…“Çé1J$51feb7d8-5d67-46a9-bb88-ca589c478902
+‘
+java:S4488&"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(«×çš8ó…“Çé1J$066bb3dc-b986-4581-a661-6d1500e52064
+m	java:S106("+Replace this use of System.out by a logger.(ó¿Ïü8ó…“Çé1J$3739ab54-9b3e-40b6-964b-a2798b44a02c
+‹
+java:S4488,"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¾Ñ¢‚8ô…“Çé1J$93e2decc-b99b-49c1-b4ee-861f7f699f00
+r	java:S106."+Replace this use of System.out by a logger.(èœ²†üÿÿÿÿ8ô…“Çé1J$a0cbf200-f5cf-432a-b9d0-0b31b6ca1f2c
+
+java:S44883"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ß†ÍŒüÿÿÿÿ8ô…“Çé1J$88555f3f-dbc1-4d87-8bf0-f043db93b492
+m	java:S1065"+Replace this use of System.out by a logger.(›îï‡8õ…“Çé1J$6a064453-610e-471b-a4f8-8f8aa6e93b93

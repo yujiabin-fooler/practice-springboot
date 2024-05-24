@@ -1,0 +1,10 @@
+
+†	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(çÂ´ûşÿÿÿÿJ$14e27f31-89b2-4c44-b90e-3bcd8e55823d
+†	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(ÚÛ›ÇüÿÿÿÿJ$54f5e47d-216a-4848-a0f2-c3f2e84454bd
+Â
+java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çÂ´ûşÿÿÿÿJ$fe46d483-cce1-490c-adb2-5e947ffc7310
+Â
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚÛ›ÇüÿÿÿÿJ$251a6349-88d2-4551-b549-8c8269b22f6b
+w	java:S125Q"<This block of commented-out lines of code should be removed.(¹ÿ¬üJ$5098d73c-5d96-4f09-aa97-39447434bc24
+
+java:S1155t">Use isEmpty() to check whether the collection is empty or not.(úÉ“ùÿÿÿÿJ$1974c625-6ca0-4e65-8ebc-773cf389a77b

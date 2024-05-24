@@ -1,0 +1,8 @@
+
+
+java:S11924"NDefine a constant instead of duplicating this literal "videoFileName" 3 times.(ï°¾§ùÿÿÿÿJ$043a1959-c875-4187-a313-f04485c37c16
+Š
+java:S2259#"NA "NullPointerException" could be thrown; "originalFilename" is nullable here.(°æ¾…J$ab6dde19-eec9-4733-9749-085a880f64be
+š
+java:S21426"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$88266887-097f-4de6-82bb-af9f476b2fb6
+w	java:S125D"<This block of commented-out lines of code should be removed.(†…üJ$0f26fb53-66f2-467d-a107-10b147eab406

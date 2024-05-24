@@ -1,0 +1,27 @@
+
+†	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(¯’ƒìøÿÿÿÿJ$f3634ae2-2338-412c-afc7-6ba9a9c2c6da
+‡	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(»…ŸòûÿÿÿÿJ$9dd7aa34-bbec-46ea-b550-8eb5f9927477
+‡
+java:S11929"KDefine a constant instead of duplicating this literal "apply_user" 4 times.(ÆÎ’ÌJ$f4b7bbe0-843b-4ddf-b377-568694951889
+ˆ
+java:S1192:"GDefine a constant instead of duplicating this literal "status" 4 times.(Ò¹üÿÿÿÿÿJ$a9076173-f9de-4e65-9613-62138d72525e
+
+java:S1488U"\Immediately return this expression instead of assigning it to the temporary variable "list".(‰©İñşÿÿÿÿJ$bdf4555d-d9a0-47bd-a648-32d2c9a1ed53
+_
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8’¹Ê•ò1
+_
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8’¹Ê•ò1
+_
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ8è¹Ê•ò1
+_
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ8è¹Ê•ò1
+_
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞ8è¹Ê•ò1
+s
+java:S11354"2Complete the task associated to this TODO comment.(«¾ÖşÿÿÿÿJ$14fb699c-57c9-4bdb-aee8-da0850f8d346
+o
+java:S1135€"2Complete the task associated to this TODO comment.(²ÛßéJ$148cce1d-5f65-4a52-a6bc-14610dca3ebe
+I
+java:S1168ˆ"+Return an empty collection instead of null.(¥¹ï8û¼Ê•ò1
+o
+java:S1135ã"2Complete the task associated to this TODO comment.(ü¤ÕÈJ$311e903a-0b9d-4441-b31e-569d8269450a

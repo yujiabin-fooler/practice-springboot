@@ -1,0 +1,26 @@
+server:
+  port: 8082
+spring:
+  kafka:
+    topic: myKafkaTest
+    consumer:
+      client-id: 1
+      bootstrap-servers: 127.0.0.1:9092
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+
+      properties:
+        interceptor.classes: com.xxkfz.simplememory.interceptor.CustomConsumerInterceptor
+        # 默认消费者组
+      group-id: crm-user-service
+        # 最早未被消费的offset
+      auto-offset-reset: earliest
+        # 批量一次最大拉取数据量
+      max-poll-records: 4000
+       # 是否自动提交
+      enable-auto-commit: false
+       # 自动提交时间间隔，单位ms
+      auto-commit-interval: 1000
+      batch:
+        # 批消费并发量，小于或等于Topic的分区数
+        concurrency: 3

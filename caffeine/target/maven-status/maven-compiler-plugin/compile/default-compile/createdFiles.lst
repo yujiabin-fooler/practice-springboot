@@ -1,0 +1,7 @@
+com\jiabin\caffeine\practice\UserService.class
+com\jiabin\caffeine\practice\repository\UserRepository.class
+com\jiabin\caffeine\practice\entity\User.class
+com\jiabin\caffeine\practice\UserCaffeineApplication.class
+com\jiabin\caffeine\practice\init\DataInitializer.class
+com\jiabin\caffeine\practice\conf\CacheConfig.class
+com\jiabin\caffeine\practice\controller\UserController.class

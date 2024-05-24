@@ -1,0 +1,4 @@
+com\jiabin\graylog\practice\service\DemoService.class
+com\jiabin\graylog\practice\controller\HelloWorldController.class
+com\jiabin\graylog\practice\DemoApplication.class
+com\jiabin\graylog\practice\service\DemoServiceImpl.class

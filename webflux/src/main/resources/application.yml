@@ -1,0 +1,17 @@
+server:
+    port: 8280
+
+    
+spring:
+    application:
+             name: springboot2
+             
+
+management:
+  endpoint:
+    shutdown:
+      enabled: true
+
+
+
+

@@ -1,0 +1,72 @@
+
+›
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â÷®øÿÿÿÿJ$ddafc4fb-0f5e-444a-88e0-d0b43364360b
+–
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(×…›ˆJ$7e1bbfbf-314b-4182-924f-ac033b49b7ab
+–
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(×…›ˆJ$d91c776c-37cd-48ac-9a83-6847866834d0
+›
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ø¥óÿÿÿÿÿJ$e440d9fa-3ad7-4e11-98b8-d269f994a77b
+›
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ø¥óÿÿÿÿÿJ$11bb77d8-1a22-49d4-83e2-3ff752651297
+›
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ø¥óÿÿÿÿÿJ$38fc2887-f507-4fbb-b53b-0dc59a84a832
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ÜˆàÿÿÿÿÿJ$cbc5855e-7e81-41f6-87c9-1744657a0ba4
+›
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ”ÜøúÿÿÿÿJ$bc15d6f8-51a4-4aad-8ec2-71d3f24afc36
+›
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(í¬¿¼ùÿÿÿÿJ$a8545d9b-fcf4-473f-95db-48db1ba8c57c
+’	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ıøœüÿÿÿÿJ$f7116b2d-f78d-4d95-bb82-fe9c80880b3d
+	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆµŸJ$3c095a74-3c82-4016-99ab-fc662641dafe
+	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆµŸJ$d0391275-771d-4a1c-a356-0831a8946fa9
+	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆµŸJ$4e4c4b3c-d69a-4e47-ac1a-3504de689410
+’	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¬¿¼ùÿÿÿÿJ$d0f29b58-c981-40d8-b6d4-1cc750dbe581
+’	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ó€‚ıÿÿÿÿJ$03531f7b-6853-4e32-9519-dfa7b80e13fa
+’	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÄé¢ùÿÿÿÿJ$f1b35233-ab8e-4cc8-a436-911d9a180905
+	java:S116$"MRename this field "W1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷»­ÅùÿÿÿÿJ$0ad9e6f7-76f7-4517-8c6f-b07c5fd5589d
+	java:S116%"MRename this field "W2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê˜´ôøÿÿÿÿJ$fcf05c73-0e72-451c-9d99-14c809f29ba6
+‡	java:S116&"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µµĞˆJ$81126103-cdda-4190-9dd4-1daccaf97f7e
+™	java:S116*"YRename this field "forms_alphabet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ ©ÿÿÿÿÿJ$d91be3c2-59ce-44bb-81af-6529f0e93080
+–	java:S116+"[Rename this field "postags_alphabet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÀ«ŠJ$2a147bb3-a216-48c9-b66e-7a13bd055b88
+›	java:S116,"[Rename this field "deprels_alphabet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÉú ÿÿÿÿÿJ$ce4611ee-8ff6-41ac-980e-a30973f36523
+	java:S1160"bRename this field "cluster4_types_alphabet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸óÅ®J$cb6ffe71-ec46-4381-8387-a5734db538aa
+	java:S1164"bRename this field "cluster6_types_alphabet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Öµ›J$d24778ac-c415-4ac4-b841-777355806b54
+œ	java:S1168"aRename this field "cluster_types_alphabet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ´“ÌJ$b5f2b156-acef-4fca-a1ae-ab6cb21b62a6
+¤	java:S116:"dRename this field "precomputation_id_encoder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÊ×»ÿÿÿÿÿJ$11cbd61d-c1d6-4ecd-b0ba-791b79bff4ee
+›	java:S116>"[Rename this field "form_to_cluster4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç³ŞùÿÿÿÿJ$7b70461c-33c8-4945-9bb7-ae590668eae6
+•	java:S116?"[Rename this field "form_to_cluster6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ„šJ$d2c6d540-f5c0-4b30-b10b-b8aa60623d30
+•	java:S116@"ZRename this field "form_to_cluster" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÂîìJ$3bc7ea5b-ca5f-4805-9303-ab66fcaa530d
+›	java:S116n"[Rename this field "nr_feature_types" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ï±ºùÿÿÿÿJ$03610631-f97c-4ae8-a660-94a343afb093
+—	java:S116s"WRename this field "use_distance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ÿî²ÿÿÿÿÿJ$8d79d409-1e3d-494f-a42a-c0ebebd3f398
+–	java:S116w"VRename this field "use_valency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şŒ¢ÜıÿÿÿÿJ$303de3ee-111e-4d86-934f-973cb8b1a76c
+‘	java:S116{"VRename this field "use_cluster" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö­Ï J$cfd91cbd-c2de-4cd9-b4e5-4b8f46e45f69
+˜
+java:S3008}"WRename this field "model_header" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îŸö”úÿÿÿÿJ$9cd753e5-77c0-4a87-bb7e-3fbfc4c5e79c
+s
+java:S2696 "6Make the enclosing method "static" or remove this set.(¸ŒÃÍJ$a2b27f9e-9fc1-44ca-9f4b-d8aab2d96f03
+j
+java:S4274"(Replace this assert with a proper check.(æÆ´ÙşÿÿÿÿJ$1443248e-c921-4ff9-a224-3db2cd466b2b
+s
+java:S2696ô"6Make the enclosing method "static" or remove this set.(êñ“ŒJ$7565ced2-a9a0-4901-a048-6b64b78e03f8
+	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë“øøÿÿÿÿJ$e1176546-6604-457c-9f1a-d2eb7061c8c2
+v
+java:S2130¨"9Use "Integer.parseInt" for this string-to-int conversion.(¦¾–¹J$39a096c5-ba94-40ad-8141-4f5c5a786c1d
+{
+java:S2130©"9Use "Integer.parseInt" for this string-to-int conversion.(Ç¾š–şÿÿÿÿJ$efae86b8-77eb-4b9d-88e8-6f0138a83712
+Š	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÛáJ$07e7487b-744c-4128-883e-44406ad90ece
+{
+java:S2130¹"9Use "Integer.parseInt" for this string-to-int conversion.(¹ªº°ûÿÿÿÿJ$1a0c763e-78ac-4a23-baef-80438af5e9fa
+Š	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¦–¹J$ae0f0c0d-fec3-4f76-ae0d-21a6fd0c7670
+v
+java:S2130Æ"9Use "Integer.parseInt" for this string-to-int conversion.(±±…‘J$64b51b14-cc6c-43db-a10a-5f34acebc7ff
+	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŒ½ìøÿÿÿÿJ$db34cd58-db60-4710-9198-7e1a08af824a
+v
+java:S2130Ö"9Use "Integer.parseInt" for this string-to-int conversion.(±±…‘J$230f5d5f-34e8-45ed-9ae7-737932d9cef0
+‰	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓšùJ$ce573378-f8ef-4af8-bbb0-2bc28509429b
+	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’’û¬úÿÿÿÿJ$e3e62712-3270-4d7e-8267-3c2d7e7f484c
+‡
+java:S1659ÿ"EDeclare "cluster4" and all following declarations on a separate line.(³ø¥óÿÿÿÿÿJ$36c49d4b-8764-4030-9e7f-881dc8d5f336
+x	java:S125«"<This block of commented-out lines of code should be removed.(•êãÜJ$b6f94956-75ad-4b45-955c-7fcabf5d76e2
+
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(âıŒ²J$9e76a86c-5e1c-4d00-b091-c7b852e62453

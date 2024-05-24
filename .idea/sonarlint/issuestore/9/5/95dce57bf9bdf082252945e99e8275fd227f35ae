@@ -1,0 +1,5 @@
+
+â
+java:S1598" This file "ClientController.java" should be located in "com\jiabin\grpc\client\practice\controller" directory, not in "D:\PracticeProjectFile\mypracticefile\springboot-practice\grpc\grpc-client\src\main\java\com.jiabin.grpc.client.practice\controller"(Do not use dots in directory names).(û…è‹øÿÿÿÿJ$f395c6bd-21ae-47bf-81ae-30b63bb7d665
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$666d5989-af0b-42b4-823d-792bf7f4d394

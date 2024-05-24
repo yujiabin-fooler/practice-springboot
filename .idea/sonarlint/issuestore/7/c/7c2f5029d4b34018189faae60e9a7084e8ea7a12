@@ -1,0 +1,9 @@
+
+¦
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$b82a7df5-f648-4aaa-a37a-0447d4ab350b
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$0190d6c8-668e-4939-a474-fb74f263150f
+o
+java:S1874"3Remove this use of "description"; it is deprecated.(ÇÒ”J$0824ee7e-f774-4810-9d7e-f8285fc6670d
+‹
+java:S4488#"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÃèïûÿÿÿÿJ$247f2c2e-c278-47d6-a890-147b47947443

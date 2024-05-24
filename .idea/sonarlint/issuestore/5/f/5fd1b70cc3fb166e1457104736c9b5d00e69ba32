@@ -1,0 +1,11 @@
+
+š
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾­ÒˆýÿÿÿÿJ$9f1d15a8-99fc-4bc4-b6f9-6bcd4b170045
+Â
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’­– þÿÿÿÿJ$18a02bb0-38ae-4290-9a84-e9f57239ec1f
+k	java:S106+"+Replace this use of System.out by a logger.(ºýžØÿÿÿÿÿJ$caf626b2-04d1-46bb-a5fa-fea2371dd4d9
+e	java:S1067"+Replace this use of System.out by a logger.(Ö¡ªXJ$85c05e01-3d31-4ef8-a49d-f2f632585d77
+f	java:S106K"+Replace this use of System.out by a logger.(áÇÔëJ$3cad72a7-26d5-43e3-96be-dd417b030222
+f	java:S106M"+Replace this use of System.out by a logger.(ÅòŸˆJ$1283e65c-43ff-4f14-b932-a933a67b16f8
+f	java:S106O"+Replace this use of System.out by a logger.(®òªùJ$badee595-7ad8-418a-bf56-bbeac974dddc
+k	java:S106P"+Replace this use of System.out by a logger.(Ö†íúüÿÿÿÿJ$5e0250bc-d3c4-4862-8282-546f8058dab5

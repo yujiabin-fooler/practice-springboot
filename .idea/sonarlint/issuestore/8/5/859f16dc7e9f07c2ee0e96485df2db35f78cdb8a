@@ -1,0 +1,7 @@
+
+ 	java:S116"eRename this field "REDIS_KEY_PREFIX_AUTH_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…†ìÔJ$57c8ae7d-50d8-4cdf-b6e9-4d1cdfef58a9
+£	java:S116"cRename this field "AUTH_CODE_EXPIRE_SECONDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÛ“ÓøÿÿÿÿJ$5defaca6-d6ee-4239-8371-d5f6e54bf9c5
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$c210c2f3-4bf8-4014-b4b7-b83776a2b92b
+Y
+java:S2119"Save and re-use this "Random".(¼ÝÅfJ$701162a3-ae34-44a3-afc0-34ef0f8e83f4

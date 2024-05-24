@@ -1,0 +1,8 @@
+com\jiabin\drools\practice\controller\ProductController.class
+com\jiabin\drools\practice\conf\DroolsConfig.class
+com\jiabin\drools\practice\repository\ProductRepository.class
+com\jiabin\drools\practice\entity\Product.class
+com\jiabin\drools\practice\service\DiscountService.class
+com\jiabin\drools\practice\service\ProductService.class
+com\jiabin\drools\practice\entity\Discount.class
+com\jiabin\drools\practice\ProductDroolsApplication.class

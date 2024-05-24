@@ -1,0 +1,32 @@
+
+›
+java:S1488á"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~J$c5cf1bab-5572-498f-828f-50f573eb2516
+	java:S116e"PRename this field "code_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÚÊùÿÿÿÿJ$1709ae0a-e2b6-4363-9bd2-20a4e073dafd
+	java:S116t"PRename this field "note_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôğù¬ûÿÿÿÿJ$5253375a-86eb-426f-b49b-c1e1a1cfa2e7
+	java:S116¢"ORename this field "sum_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó´±ÒıÿÿÿÿJ$a5597377-df45-4aff-872f-4e5887dd44f3
+¬
+java:S4144Ü"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 707.(«•–Àıÿÿÿÿ8‡¹Ëê1J$6e8d7e78-87d1-4aaf-b3ee-53c9830099c4
+h
+java:S1948t"'Make "note_" transient or serializable.(Ôğù¬ûÿÿÿÿJ$9ee1f961-a45d-4453-9d75-33a900fbfa5a
+˜
+java:S3077t"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ôğù¬ûÿÿÿÿJ$cb72ea73-a69a-4054-9a1b-3502a87765e0
+~
+java:S1126ò"AReplace this if-then-else statement by a single return statement.(Áî¹ŒJ$c97386dd-7364-4c37-9b92-de855d41a397
+‘	java:S116„"PRename this field "code_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÚÊùÿÿÿÿJ$c419ea3b-cf60-499d-aa34-855719b66032
+Œ	java:S116¯"PRename this field "note_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ê™J$f004d02e-4242-4d51-88b1-f051aa07a5a5
+	java:S116"ORename this field "sum_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó´±ÒıÿÿÿÿJ$70002fd2-c5da-4941-9699-26b91226d867
+e	java:S108„")Either remove or fill this block of code.(º„ç½J$d7d27047-7411-46a2-af92-0f31beffa22d
+•
+java:S2975²"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾ÒûÿÿÿÿJ$06761ca9-4fbf-425c-a1bf-05dd89ab35aa
+j
+java:S1185²"(Remove this method to simply inherit it.(Îõ¾ÒûÿÿÿÿJ$20436e4e-46f1-442a-b159-9189fc6d8063
+j
+java:S1185¶"(Remove this method to simply inherit it.(ÑÍ“ËûÿÿÿÿJ$dc420f6a-e01a-4059-9369-3fb570c9408e
+j
+java:S1185¼"(Remove this method to simply inherit it.(Ã•ŒƒüÿÿÿÿJ$176b2b7d-1e52-4246-9726-347f3392c78b
+j
+java:S1185Á"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿJ$3a28d7fa-60cb-4105-a618-48dfb845dd56
+e
+java:S1185Æ"(Remove this method to simply inherit it.(§ß—¡J$078e820b-646c-412f-9cdb-740b7784b7cd
+e
+java:S1185Ì"(Remove this method to simply inherit it.(¿¸Ú©J$ddfe77ac-1682-45f8-b2dd-30437fae67c5

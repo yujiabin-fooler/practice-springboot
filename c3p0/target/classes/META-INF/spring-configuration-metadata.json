@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "c3p0",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.jiabin.c3p0.practice.config.C3p0Configuration",
+      "sourceMethod": "dataSource()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

@@ -1,0 +1,22 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 56789
+    username: root
+    password: root
+    virtual-host: mqDocker76
+    listener:
+      simple:
+        # 多消费者轮询模式
+        prefetch: 1  #每个消费者都能收到的未被消费的最大消息数量
+        # manual：手动，auto：根据情况确认，none：自动确认
+        # 设置消费端手动,返回分为：ack（无异常），nack（存在异常），reject（否定确认）
+        acknowledge-mode: manual
+    # 确认消息已发送到交换机(Exchange)
+    publisher-returns: true
+    # 确认消息已发送到队列(Queue)
+    # none：值是禁用发布确认模式，是默认值
+    # correlated：值是发布消息成功到交换器后会触发回调方法
+    publisher-confirm-type: correlated
+
+

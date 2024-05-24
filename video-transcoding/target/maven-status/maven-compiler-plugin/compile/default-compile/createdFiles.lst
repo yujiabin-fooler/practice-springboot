@@ -1,0 +1,5 @@
+com\jiabin\video\transcoding\practice\controller\VideoStreamingController.class
+com\jiabin\video\transcoding\practice\VideoTranscodingApplication.class
+com\jiabin\video\transcoding\practice\service\VideoTranscodingService.class
+com\jiabin\video\transcoding\practice\controller\VideoController.class
+com\jiabin\video\transcoding\practice\conf\FFmpegConfig.class

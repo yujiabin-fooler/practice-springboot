@@ -1,0 +1,12 @@
+com\jiabin\flink\practice\job\DataSetBatch.class
+com\jiabin\flink\practice\job\DataStreamAPI$2.class
+com\jiabin\flink\practice\job\SocketJob.class
+com\jiabin\flink\practice\job\DataStreamAPI.class
+com\jiabin\flink\practice\service\FlinkJobService.class
+com\jiabin\flink\practice\DemoApplication.class
+com\jiabin\flink\practice\job\StringProcessingJob$1.class
+com\jiabin\flink\practice\job\DataSetBatch$MyFlatMapper.class
+com\jiabin\flink\practice\job\SocketJob$1.class
+com\jiabin\flink\practice\job\FlinkWebUI.class
+com\jiabin\flink\practice\job\StringProcessingJob.class
+com\jiabin\flink\practice\job\DataStreamAPI$1.class

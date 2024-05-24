@@ -1,0 +1,6 @@
+com\jiabin\video\m3u8\practice\VideoM3u8Application.class
+com\jiabin\video\m3u8\practice\resource\VideoResource.class
+com\jiabin\video\m3u8\practice\conf\CorsConfiguration$1.class
+com\jiabin\video\m3u8\practice\conf\CorsConfiguration.class
+com\jiabin\video\m3u8\practice\controller\PlayController.class
+com\jiabin\video\m3u8\practice\controller\VideoController.class

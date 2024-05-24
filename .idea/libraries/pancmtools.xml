@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pancmtools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/package/lib/pancmtools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

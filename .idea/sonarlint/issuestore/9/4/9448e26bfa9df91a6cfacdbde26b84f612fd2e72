@@ -1,0 +1,5 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8îÅúéñ1J$d0892a69-104b-4be2-9fad-1ef8b9d70ca9
+˜
+java:S3305"PInject this field value directly into "webClient", the only method that uses it.(“ãÉµüÿÿÿÿ8óÅúéñ1J$a8b8cd55-538f-45fa-bfab-22ed27139078

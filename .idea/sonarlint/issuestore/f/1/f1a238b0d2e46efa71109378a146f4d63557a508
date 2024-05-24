@@ -1,0 +1,75 @@
+
+Œ	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß”â¢J$06493874-d9f7-49ae-b208-4b328746ba1e
+e
+java:S1604º"(Make this anonymous inner class a lambda(ş¦•ÃJ$9a129ca0-0f1d-4855-be1e-159fb3a0e1ab
+›
+java:S1488“"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~J$9bb6e1fa-a2ba-4f6c-bdfc-bf6f351e83ad
+€
+java:S2589©"7Remove this expression which always evaluates to "true"(ìÆè‘úÿÿÿÿ8µ¯Å¹ò1J$d69e49a3-4320-45f5-a3b2-2c9233bfb7f0
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿJ$6a339f6f-fd91-4f5d-bb98-a09f6c5fd9e6
+p
+java:S1172	"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿJ$49d3e178-0912-4e1b-91cc-b67e079cdb96
+Š	java:S116›"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡Ñ÷J$4eb7432b-5280-4b50-bb9c-0c5db8278038
+‘	java:S116¨"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ğ¸«úÿÿÿÿJ$8ea60150-e87b-4b95-a9e9-9906f9a6de2a
+	java:S116Ò"ORename this field "age_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à”ÅšÿÿÿÿÿJ$36b275c0-2ddd-4b24-b623-a875ab4f3dd8
+’	java:S116ß"QRename this field "state_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¿•ÚüÿÿÿÿJ$1f025e92-d9c3-48d6-8da9-27f728015a9b
+¬
+java:S4144¡"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 778.(ŒÓ²Æıÿÿÿÿ8é¯Å¹ò1J$ace42895-a28c-417e-8031-9d66b424826e
+i
+java:S1948¨"'Make "name_" transient or serializable.(¥Ğ¸«úÿÿÿÿJ$838a51c2-948a-4ca9-b597-38367864d84d
+™
+java:S3077¨"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¥Ğ¸«úÿÿÿÿJ$ebaeeff5-5c8a-4c4b-8b9e-eda6b1031ae9
+l
+java:S4524h"+Move this default to the end of the switch.(Î—­ŠşÿÿÿÿJ$80f32dc8-dbca-43f2-be06-e0076fcce0c2
+w
+java:S1161ì":Add the "@Override" annotation above this method signature(Û‹Ö‡J$ad09c17d-4910-4d89-8a91-5a387fb6649a
+|
+java:S1161õ":Add the "@Override" annotation above this method signature(¹õˆÏùÿÿÿÿJ$dae6895c-87b0-4474-9a84-69f03ee97beb
+w
+java:S1161…":Add the "@Override" annotation above this method signature(œè“J$ccf091d3-d446-4a97-92e8-24ab9c555c67
+Š	java:S116¬"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡Ñ÷J$4bb715e2-f1ab-45b6-80fe-c91d8f785f68
+‘	java:S116Ò"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øá™şúÿÿÿÿJ$e2453d4c-760d-4c16-a6c4-237bd569f526
+	java:S116«"ORename this field "age_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à”ÅšÿÿÿÿÿJ$7611c8c6-189b-4e64-a303-02f4ed0c58eb
+’	java:S116Ñ"QRename this field "state_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¿•ÚüÿÿÿÿJ$c67eff06-3626-48d5-8ddd-93b90d3a2fa6
+e	java:S108µ")Either remove or fill this block of code.(º„ç½J$faae6cc7-aa73-47d1-b635-8af6b96d0e48
+w
+java:S1161¸":Add the "@Override" annotation above this method signature(öË·šJ$e55271fc-1333-49e1-91bc-527009cdd5cd
+w
+java:S1161Æ":Add the "@Override" annotation above this method signature(²íğ‘J$571de242-a37c-4bc0-b067-4c32549fafe9
+•
+java:S2975à"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾ÒûÿÿÿÿJ$7af51179-d141-4854-ab9a-aebb19e50f67
+|
+java:S1161à":Add the "@Override" annotation above this method signature(Îõ¾ÒûÿÿÿÿJ$c8ff1dd4-b428-4b9a-be65-ceec2c18248b
+g
+java:S1905á"*Remove this unnecessary cast to "Builder".(¥ùšÏJ$fc9bb68e-80ae-421c-9488-548bc01bf910
+|
+java:S1161ã":Add the "@Override" annotation above this method signature(ÑÍ“ËûÿÿÿÿJ$eecfc12e-f2a0-4141-9da4-de5a3d308ce6
+g
+java:S1905æ"*Remove this unnecessary cast to "Builder".(ê„£J$40f7d8b5-cbe1-4c87-bd56-ef0115860ceb
+|
+java:S1161è":Add the "@Override" annotation above this method signature(Ã•ŒƒüÿÿÿÿJ$cd5f0f52-7aa9-4bc9-be69-fd2b01a95a77
+l
+java:S1905ê"*Remove this unnecessary cast to "Builder".(Æ÷¾¢ûÿÿÿÿJ$8ff3a969-8af7-4163-8c75-e52e2ee38146
+|
+java:S1161ì":Add the "@Override" annotation above this method signature(»¤Å“ûÿÿÿÿJ$ff081cc6-670b-4181-90bb-8d9c62d9a4fb
+g
+java:S1905î"*Remove this unnecessary cast to "Builder".(ƒ¦†J$d211a7a6-3f35-4793-9184-f550405c774d
+w
+java:S1161ğ":Add the "@Override" annotation above this method signature(§ß—¡J$7deb4915-46b8-41a4-a5e4-b048fab9d09c
+l
+java:S1905ó"*Remove this unnecessary cast to "Builder".(ˆÎ…•şÿÿÿÿJ$74e0b85f-ce8b-41c3-8b88-3f5e45898e21
+w
+java:S1161õ":Add the "@Override" annotation above this method signature(¿¸Ú©J$4ad1ad00-9c44-4b68-92b5-f77c2df473fe
+f
+java:S1905ø"*Remove this unnecessary cast to "Builder".(İ¤Â\J$c2afc5ae-183c-4905-9b47-1fd299325885
+w
+java:S1161ú":Add the "@Override" annotation above this method signature(”×Ñ¾J$70a7adae-da89-42e3-b4fb-f07f74e78684
+w
+java:S1161–":Add the "@Override" annotation above this method signature(Û‹Ö‡J$664be1fb-3643-497b-ac53-a7db5d5ddb30
+|
+java:S1161š":Add the "@Override" annotation above this method signature(˜œö¾ûÿÿÿÿJ$b24c236f-19d9-4fb5-a89e-f107b0b0cbe4
+w
+java:S1161ö":Add the "@Override" annotation above this method signature(´çÍêJ$bef3644a-fc52-4e60-b610-135456e607ea
+w
+java:S1161û":Add the "@Override" annotation above this method signature(¥ªóÃJ$43f92b16-58f2-4e99-bca5-03afb0a27d59

@@ -1,0 +1,6 @@
+com\jiabin\springbotpackage\practice\service\impl\UserServiceImpl.class
+com\jiabin\springbotpackage\practice\web\UserRestController.class
+com\jiabin\springbotpackage\practice\PackagePracticeApplication.class
+com\jiabin\springbotpackage\practice\service\UserService.class
+com\jiabin\springbotpackage\practice\pojo\User.class
+com\jiabin\springbotpackage\practice\dao\UserDao.class

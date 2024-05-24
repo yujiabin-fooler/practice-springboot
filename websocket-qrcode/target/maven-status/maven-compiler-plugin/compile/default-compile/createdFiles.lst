@@ -1,0 +1,4 @@
+com\jiabin\websocket\qrcode\practice\conf\LoginWebSocket.class
+com\jiabin\websocket\qrcode\practice\conf\WebSocketConfig.class
+com\jiabin\websocket\qrcode\practice\controller\LoginController.class
+com\jiabin\websocket\qrcode\practice\ScanLoginApplication.class

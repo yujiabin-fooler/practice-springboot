@@ -1,0 +1,13 @@
+
+é	java:S116 "SRename this field "ENDPOINT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁµÊ£J$f7bfe504-e2bb-409b-be9d-b31bbe457025
+ë	java:S116""VRename this field "BUCKET_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É·¨ˆJ$670218ac-a2b2-4522-805b-db0fb9725cb7
+ê	java:S116$"URename this field "ACCESS_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á˜æ“J$48aa6ba7-0bdd-4363-ab28-fe5be6bc3804
+ê	java:S116&"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à˜ıªJ$a759548b-2734-4ee6-b625-070f32618dca
+¶
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(Ìú°Ò˘ˇˇˇˇJ$c46820fc-7770-42de-8487-044f1c638e08
+o
+java:S1874"3Remove this use of "description"; it is deprecated.(Õ”©ÜJ$890c2fcd-5d4d-4fe8-b72e-89e2ea1fa3cf
+ã
+java:S4488)"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(À‰¢å˛ˇˇˇˇJ$42aaee7e-0265-4f68-821d-a3f4000b85ee
+Ö
+java:S4488I"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÖΩã6J$3175975e-bfc7-4ead-9dbf-c962200a72bd

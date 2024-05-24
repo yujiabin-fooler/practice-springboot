@@ -1,0 +1,4 @@
+com\jiabin\hikari\practice\HiKariPracticeApplication.class
+com\jiabin\hikari\practice\controller\HelloWorldController.class
+com\jiabin\hikari\practice\repository\UserRepository.class
+com\jiabin\hikari\practice\entity\User.class

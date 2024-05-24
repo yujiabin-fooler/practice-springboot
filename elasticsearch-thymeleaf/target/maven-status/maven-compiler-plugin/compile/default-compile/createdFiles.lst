@@ -1,0 +1,8 @@
+com\jiabin\elasticsearch\thymeleaf\practice\entity\Product.class
+com\jiabin\elasticsearch\thymeleaf\practice\mapper\ProductMapper.class
+com\jiabin\elasticsearch\thymeleaf\practice\entity\WebLog.class
+com\jiabin\elasticsearch\thymeleaf\practice\service\impl\ProductServiceImpl.class
+com\jiabin\elasticsearch\thymeleaf\practice\aspect\LogAspect.class
+com\jiabin\elasticsearch\thymeleaf\practice\controller\ProductController.class
+com\jiabin\elasticsearch\thymeleaf\practice\service\ProductService.class
+com\jiabin\elasticsearch\thymeleaf\practice\ProductElasticsearchApplication.class

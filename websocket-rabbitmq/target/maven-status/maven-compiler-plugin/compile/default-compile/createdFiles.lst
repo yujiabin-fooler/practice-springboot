@@ -1,0 +1,5 @@
+com\jiabin\websocket\rabbitmq\practice\ChatApplication.class
+com\jiabin\websocket\rabbitmq\practice\conf\StaticResourceConfig.class
+com\jiabin\websocket\rabbitmq\practice\entity\ChatMessage.class
+com\jiabin\websocket\rabbitmq\practice\conf\WebSocketConfig.class
+com\jiabin\websocket\rabbitmq\practice\controller\ChatController.class

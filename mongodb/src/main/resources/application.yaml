@@ -1,0 +1,16 @@
+server:
+  port: 8088
+
+
+spring:
+  data:
+    mongodb:
+      # 需要用户名和密码认证
+      #uri:  mongodb://username:password@ip:port/dbname
+      #uri: mongodb://admin:123456@127.0.0.1:27017/admin
+
+
+      #不需要用户名和密码认证
+      #uri:  mongodb://ip:port/dbname
+      uri: mongodb://127.0.0.1:27017/testMongoDB
+

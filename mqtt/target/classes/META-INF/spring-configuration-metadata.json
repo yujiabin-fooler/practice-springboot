@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "rabbitmq.mqtt",
+      "type": "com.jiabin.mqtt.practice.config.MqttConfig",
+      "sourceType": "com.jiabin.mqtt.practice.config.MqttConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rabbitmq.mqtt.default-topic",
+      "type": "java.lang.String",
+      "description": "RabbitMQ的MQTT默认topic",
+      "sourceType": "com.jiabin.mqtt.practice.config.MqttConfig"
+    },
+    {
+      "name": "rabbitmq.mqtt.password",
+      "type": "java.lang.String",
+      "description": "RabbitMQ连接密码",
+      "sourceType": "com.jiabin.mqtt.practice.config.MqttConfig"
+    },
+    {
+      "name": "rabbitmq.mqtt.url",
+      "type": "java.lang.String",
+      "description": "RabbitMQ的MQTT连接地址",
+      "sourceType": "com.jiabin.mqtt.practice.config.MqttConfig"
+    },
+    {
+      "name": "rabbitmq.mqtt.username",
+      "type": "java.lang.String",
+      "description": "RabbitMQ连接用户名",
+      "sourceType": "com.jiabin.mqtt.practice.config.MqttConfig"
+    }
+  ],
+  "hints": []
+}

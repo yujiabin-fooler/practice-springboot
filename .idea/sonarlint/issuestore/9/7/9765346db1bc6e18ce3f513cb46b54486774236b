@@ -1,0 +1,15 @@
+
+ï
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ω£ÅÛJ$079202b4-4420-4dbe-a801-e859bee87af4
+ë
+java:S2095<"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¬Ó¢∑8í›ˇ¬Ú1J$aa42b185-02d9-492c-a6dc-fa289e812cda
+Ö
+java:S6813!"BRemove this field injection and use constructor injection instead.(ÍÊƒﬁ8È·ˇ¬Ú1J$f986d07c-f749-4b33-9d37-23c1ca17b88c
+°
+java:S1149W"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ω£ÅÛJ$6fd58ef1-b1c7-41f4-9ff9-582d6f18625f
+Ç	java:S899;"BDo something with the "boolean" value returned by "createNewFile".(¨≥Òˇ˚ˇˇˇˇJ$a915e55a-cb63-4922-98ac-7d4290e69170
+g
+java:S1075O"&Remove this hard-coded path-delimiter.(ıﬁ˚¯ˇˇˇˇJ$2b0eaea9-c5cc-4187-94cc-4c001372bb58
+{	java:S899a";Do something with the "boolean" value returned by "delete".(„á§˚˛ˇˇˇˇJ$66ba71c0-179e-4155-8a58-6ce0691d3a0d
+è
+java:S4042a"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(„á§˚˛ˇˇˇˇJ$bd15bfef-c7e2-47be-9352-d2725e31f5f8

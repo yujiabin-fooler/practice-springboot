@@ -1,0 +1,6 @@
+com\jiabin\session\mongdb\practice\repository\UserRepository.class
+com\jiabin\session\mongdb\practice\controller\UserController.class
+com\jiabin\session\mongdb\practice\entity\User.class
+com\jiabin\session\mongdb\practice\UserSessionMongodbApplication.class
+com\jiabin\session\mongdb\practice\conf\SecurityConfig.class
+com\jiabin\session\mongdb\practice\init\InitUser.class

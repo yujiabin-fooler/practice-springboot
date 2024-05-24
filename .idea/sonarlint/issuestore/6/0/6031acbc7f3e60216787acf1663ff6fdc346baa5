@@ -1,0 +1,13 @@
+
+~
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞJ$976bd4cd-3477-4e57-84a6-6f6d63b0c86b
+~
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞJ$e7dc728b-7e35-4170-a593-825089d3fee4
+ˆ
+java:S3252P"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isEmpty".(æ®÷›J$6364ee1c-7d1d-41e8-b860-91176d1552ca
+ˆ
+java:S3252e"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isEmpty".(æ®÷›J$cd23b4f2-2ded-49de-a8c6-38d09ba14b76
+‰
+java:S3252œ"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isEmpty".(æ®÷›J$f58d294f-6705-46a8-b13a-87057e9e0489
+k
+java:S1068+"*Remove this unused "LOGGER" private field.(àµ–úÿÿÿÿJ$ef1cb88c-cdcd-4532-ba69-cb1946d85c2c

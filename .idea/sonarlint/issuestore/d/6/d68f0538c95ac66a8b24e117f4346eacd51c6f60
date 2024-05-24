@@ -1,0 +1,20 @@
+
+š
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¢‹æøÿÿÿÿJ$b6454ee7-6f20-4408-8d71-6623d622bb29
+š
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ããñ¢øÿÿÿÿJ$7204b7ac-057d-4787-8b90-937ba645a0ac
+”	java:S135K"YReduce the total number of break and continue statements in this loop to use at most one.(ã‡¬êJ$4931a3a9-91a7-4346-b019-6d83b3609020
+v
+java:S1141Q"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$b12d881e-0ab9-4f7c-beed-be220c641f29
+—
+java:S14503"VRemove the "msgList" field and declare it as a local variable in the relevant methods.(èÆå—üÿÿÿÿJ$bcb93135-02f2-4bfe-937a-fcc54f8a6b54
+“
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ê‡ıàÿÿÿÿÿJ$09e51359-57ab-40ca-9a85-b673bcfff3b4
+W
+java:S3626U"Remove this redundant jump.(ÉŠ©ƒJ$93a52c37-b58a-4cb1-bdb4-18c1c7f61154
+š
+java:S2142`"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$79be2cc2-2f18-4d04-9d6b-a1fe918cee36
+v
+java:S6213K":Rename this variable to not match a restricted identifier.(ã‡¬êJ$ad0787e7-b0dc-41ff-be21-f6656bdf1f84
+š
+java:S2142d"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‘í†J$34d993d3-d7f2-4096-9eba-c97aee87a15d

@@ -1,0 +1,10 @@
+com\jiabin\redis\jpa\practice\conf\RedisConfig.class
+com\jiabin\redis\jpa\practice\controller\SeckillController.class
+com\jiabin\redis\jpa\practice\entity\Product.class
+com\jiabin\redis\jpa\practice\repository\ProductRepository.class
+com\jiabin\redis\jpa\practice\service\OrderService.class
+com\jiabin\redis\jpa\practice\repository\OrderRepository.class
+com\jiabin\redis\jpa\practice\service\ProductService.class
+com\jiabin\redis\jpa\practice\entity\Order.class
+com\jiabin\redis\jpa\practice\service\SeckillService.class
+com\jiabin\redis\jpa\practice\ProductSeckillApplication.class

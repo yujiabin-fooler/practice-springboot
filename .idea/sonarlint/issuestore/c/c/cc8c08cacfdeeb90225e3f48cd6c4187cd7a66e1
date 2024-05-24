@@ -1,0 +1,27 @@
+
+†	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(ÔÁñÍøÿÿÿÿJ$81cb5a45-8e17-48b0-982a-6df14774306f
+†	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(õÜ—ºþÿÿÿÿJ$2be8bed4-9a87-422e-9ff1-62765b1ac672
+€	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(ìá¤
+J$864072bd-d9b0-4e82-9c0d-fefa6413b75c
+”
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏßÉeJ$6db21f6f-95d3-4050-a4db-5f0c4d0d1e93
+•
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÎ³ÙJ$cda9f6be-1fc5-46ca-9c78-87bd7e7341b3
+’
+java:S1192®"UDefine a constant instead of duplicating this literal "productCommentCount" 10 times.(ñÓòÑJ$ad4ac70f-fd75-4fb1-8564-b3a4867e8cda
+…
+java:S1192°"HDefine a constant instead of duplicating this literal "bigPic" 12 times.(©§Ÿ‘J$a6705088-34a9-4f71-8b16-0232465b9d09
+Š
+java:S1192ø"MDefine a constant instead of duplicating this literal "firstLetter" 12 times.(œæ¥©J$0d977ae4-c424-48ea-80b6-5041eebcd5d2
+
+java:S1192ò"NDefine a constant instead of duplicating this literal "productCount" 10 times.(µÆëÒúÿÿÿÿJ$19214b0b-ec98-47bb-8e83-ac4a1f607b68
+Œ
+java:S1192ú"ODefine a constant instead of duplicating this literal "factoryStatus" 10 times.(ºäÖñJ$cb117d7c-0a4c-4289-a0f7-b260cd1b7bb9
+‰
+java:S1192¶"LDefine a constant instead of duplicating this literal "showStatus" 10 times.(¾–ÊƒJ$18e2d51b-7960-4995-9575-fba8f4b7f4d6
+œ
+java:S14888"`Immediately return this expression instead of assigning it to the temporary variable "criteria".(¶Õ¯ìJ$cbb99dbe-fadb-4cec-bb68-f15012d09d2e
+y
+java:S11551">Use isEmpty() to check whether the collection is empty or not.(Á½¼sJ$7684d5a0-db52-4fa9-bc9f-3bca6f2a2187
+
+java:S1155K">Use isEmpty() to check whether the collection is empty or not.(í´ÕûüÿÿÿÿJ$c51c1ad9-144e-4cad-b804-0baff0f5064f

@@ -1,0 +1,35 @@
+server:
+  port: 8083
+
+spring:
+  kafka:
+    # 配置消息的主题
+    topic: myKafkaTest
+    producer:
+      client-id: 1
+      #  kafka server的地址，如果有多个，使用逗号分割
+      bootstrap-servers: 127.0.0.1:9092
+      #  生产者消息key和消息value的序列化处理类
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      #  生产者发送失败时，重试次数
+      retries: 3
+      properties:
+        # 自定义消费者拦截器
+        interceptor.classes: com.xxkfz.simplememory.interceptor.CustomProducerInterceptor
+        #自定义分区器
+        partitioner.classes: com.xxkfz.simplememory.partitioner.CustomPartitioner
+        # acks=0 ： 生产者在成功写入消息之前不会等待任何来自服务器的响应。
+        # acks=1 ： 只要集群的首领节点收到消息，生产者就会收到一个来自服务器成功响应。
+        # acks=all ：只有当所有参与复制的节点全部收到消息时，生产者才会收到一个来自服务器的成功响应。
+      acks: 1
+        # 批量发送的消息数量
+      batch-size: 1000
+        # 32MB的批处理缓冲区
+      buffer-memory: 33554432
+    listener:
+      # 在侦听器容器中运行的线程数。
+      concurrency: 5
+      #listner负责ack，每调用一次，就立即commit
+      ack-mode: manual_immediate
+      missing-topics-fatal: false
