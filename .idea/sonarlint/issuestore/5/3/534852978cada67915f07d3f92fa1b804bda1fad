@@ -1,0 +1,42 @@
+
+[	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(ÿş˜
+a	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(»ÄüÓıÿÿÿÿ
+a	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(•³²ºùÿÿÿÿ
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(¸Ùğ‰ûÿÿÿÿ
+e
+java:S1192¡"IDefine a constant instead of duplicating this literal "the_geom" 3 times.(Ëò›Ìıÿÿÿÿ
+E	java:S106K"+Replace this use of System.out by a logger.(ƒô®µøÿÿÿÿ
+?	java:S106f"+Replace this use of System.out by a logger.(£¾’S
+@	java:S106g"+Replace this use of System.out by a logger.(ÄºÎ”
+m
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÉÀÒÒşÿÿÿÿ
+>
+java:S1872‚"'Use an "instanceof" comparison instead.(ë·ñØ
+F	java:S106‰"+Replace this use of System.out by a logger.(§¸€şÿÿÿÿ
+A	java:S106‹"+Replace this use of System.out by a logger.(³Ú»÷
+A	java:S106¥"+Replace this use of System.out by a logger.(©Šš
+B
+java:S1075Å"&Remove this hard-coded path-delimiter.(ë…¢öøÿÿÿÿ
+A	java:S106Ù"+Replace this use of System.out by a logger.(©Šš
+V
+java:S4719©":Replace Charset.forName() call with StandardCharsets.UTF_8(×çÑ¨ıÿÿÿÿ
+z
+java:S1157½"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Çøœ—
+
+java:S1157¿"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¢ıÄšÿÿÿÿÿ
+y
+java:S1157Á"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(’éŞS
+y
+java:S1157Ã"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Äíœ
+V
+java:S1854‹"@Remove this useless assignment to local variable "multiPolygon".(‰¥›c
+T
+java:S1854‡">Remove this useless assignment to local variable "lineString".(Ô‘î~
+@	java:S106ù"+Replace this use of System.out by a logger.(´ø_
+X
+java:S1075ü"ARefactor your code to get this URI from a customizable parameter.(¡ı‘ı
+E
+java:S1481‡"/Remove this unused "lineString" local variable.(Ô‘î~
+G
+java:S1481‹"1Remove this unused "multiPolygon" local variable.(‰¥›c
+A	java:S106"+Replace this use of System.out by a logger.(—ñ¦

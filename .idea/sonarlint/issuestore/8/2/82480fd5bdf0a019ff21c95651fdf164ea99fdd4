@@ -1,0 +1,5 @@
+
+A
+java:S1874
+"+Remove this use of "run"; it is deprecated.(Ïš­
+E	java:S106"+Replace this use of System.out by a logger.(½¦ÿÿÿÿÿ

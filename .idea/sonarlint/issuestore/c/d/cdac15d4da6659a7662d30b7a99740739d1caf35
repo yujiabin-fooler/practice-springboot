@@ -1,0 +1,5 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+Y
+java:S5344)">Don't use the default "PasswordEncoder" relying on plain-text.(‚‰Ýªûÿÿÿÿ

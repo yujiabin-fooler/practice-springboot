@@ -1,0 +1,6 @@
+
+¼
+java:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(å±°MJ$146163a6-0ee5-4606-b32e-073d636fc9f3
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$6e7e1f8e-9ddd-47ce-bfe4-c7347fdcb73c
+f	java:S106("+Replace this use of System.out by a logger.(”ùôßJ$47f0cb7e-75fe-4753-8fe6-22efcd9352d1

@@ -1,0 +1,17 @@
+
+o
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(²«’
+^
+java:S3518"CMake sure this expression can't be zero before doing this division.(ìé«™ùÿÿÿÿ
+X
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞ
+M
+java:S1135"2Complete the task associated to this TODO comment.(Ç–ˆşÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "ss".(ìé«™ùÿÿÿÿ
+B
+java:S1481"'Remove this unused "ss" local variable.(ìé«™ùÿÿÿÿ
+t
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€

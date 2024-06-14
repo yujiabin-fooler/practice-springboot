@@ -1,0 +1,18 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(÷ó“Æüÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ôÃ…”
+J
+java:S3740#"/Provide the parametrized type for this generic.(Ë˜ú¼ÿÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "order" 3 times.(Ó’”ùÿÿÿÿ
+^
+java:S2259"CA "NullPointerException" could be thrown; "order" is nullable here.(÷á¸¬ùÿÿÿÿ
+^
+java:S2259"CA "NullPointerException" could be thrown; "order" is nullable here.(Å›‹øÿÿÿÿ
+^
+java:S2259%"CA "NullPointerException" could be thrown; "order" is nullable here.(§×Ç€ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(İ‚±ò
+@	java:S106"+Replace this use of System.out by a logger.(õŸ¨ë
+?	java:S106&"+Replace this use of System.out by a logger.(¤‡¤l

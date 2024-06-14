@@ -1,0 +1,22 @@
+
+b
+java:S1301À"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÆ‘ˆ
+`
+java:S2583Œ"DChange this condition so that it does not always evaluate to "false"(Ô¸¬Óúÿÿÿÿ
+\
+java:S1845."FRename field "z" to prevent any misunderstanding/clash with field "Z".(Üî°†
+\
+java:S1845/"FRename field "m" to prevent any misunderstanding/clash with field "M".(â¼¿İ
+E
+java:S2093O"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+D	java:S108Í")Either remove or fill this block of code.(Î—­Šşÿÿÿÿ
+D	java:S108µ")Either remove or fill this block of code.(Î—­Šşÿÿÿÿ
+D	java:S108ô")Either remove or fill this block of code.(Î—­Šşÿÿÿÿ
+R	java:S125æ"<This block of commented-out lines of code should be removed.(ß¿ÿˆ
+;
+java:S1068."%Remove this unused "z" private field.(Üî°†
+;
+java:S1068/"%Remove this unused "m" private field.(â¼¿İ
+[
+java:S1144"?Remove this unused private "readGeometryCollectionText" method.(±Öêòúÿÿÿÿ

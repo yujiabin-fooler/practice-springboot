@@ -1,0 +1,50 @@
+
+Jjavascript:S3504*")Unexpected var, use let or const instead.(Òœ©ûÿÿÿÿ
+Ajavascript:S878+"!Unexpected use of comma operator.(‹´ºÆüÿÿÿÿ
+Ejavascript:S3504O")Unexpected var, use let or const instead.(É÷ìŸ
+Ejavascript:S3504")Unexpected var, use let or const instead.(Ÿ˜‡ 
+Fjavascript:S3504")Unexpected var, use let or const instead.(èïá©
+Vjavascript:S1481"9Remove the declaration of the unused 'wrapHtml' variable.(èïá©
+€javascript:S2703“"cAdd the "let", "const" or "var" keyword to this declaration of "wrapStartHtml" to make it explicit.(¢ß¢¹
+ƒjavascript:S2703º"aAdd the "let", "const" or "var" keyword to this declaration of "wrapEndHtml" to make it explicit.(¶ºÇñúÿÿÿÿ
+Xjavascript:S1125İ"6Refactor the code to avoid using this boolean literal.(’ª™¤ùÿÿÿÿ
+Sjavascript:S1125é"6Refactor the code to avoid using this boolean literal.(›Ğî˜
+Kjavascript:S3504ë")Unexpected var, use let or const instead.(â—ó‡øÿÿÿÿ
+yjavascript:S2392ë"WConsider moving declaration of 'x' as it is referenced outside current binding context.(â—ó‡øÿÿÿÿ
+Fjavascript:S3504í")Unexpected var, use let or const instead.(¶®æÀ
+4javascript:S2814í"'x' is already defined.(¶®æÀ
+Kjavascript:S3504ï")Unexpected var, use let or const instead.(ä‡î¦ıÿÿÿÿ
+Fjavascript:S3504ğ")Unexpected var, use let or const instead.(ò•³–
+Fjavascript:S3504„")Unexpected var, use let or const instead.(É÷ìŸ
+Sjavascript:S1125†"6Refactor the code to avoid using this boolean literal.(›Ğî˜
+Fjavascript:S3504‡")Unexpected var, use let or const instead.(ó®åñ
+Ujavascript:S1481‡"8Remove the declaration of the unused 'vOffset' variable.(ó®åñ
+Rjavascript:S1854‡"5Remove this useless assignment to variable "vOffset".(ó®åñ
+Kjavascript:S3504")Unexpected var, use let or const instead.(´·ÕÂÿÿÿÿÿ
+pjavascript:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(êæ«%
+Ejavascript:S3504¿")Unexpected var, use let or const instead.(©¼­w
+Fjavascript:S3504À")Unexpected var, use let or const instead.(İœºë
+Fjavascript:S3504Á")Unexpected var, use let or const instead.(ôŸÑ–
+Fjavascript:S3504÷")Unexpected var, use let or const instead.(É÷ìŸ
+Sjavascript:S1481÷"6Remove the declaration of the unused '_this' variable.(É÷ìŸ
+Fjavascript:S3504’")Unexpected var, use let or const instead.(è¼Í—
+Bjavascript:S878“"!Unexpected use of comma operator.(‹´ºÆüÿÿÿÿ
+Fjavascript:S3504°")Unexpected var, use let or const instead.(É÷ìŸ
+Kjavascript:S3504Ø")Unexpected var, use let or const instead.(×“´úıÿÿÿÿ
+cjavascript:S2004Ù"ARefactor this code to not nest functions more than 4 levels deep.(ÒÑé­úÿÿÿÿ
+Ejavascript:S3504„")Unexpected var, use let or const instead.(Ÿ˜‡ 
+Kjavascript:S3504…")Unexpected var, use let or const instead.(ªçš‡ıÿÿÿÿ
+Kjavascript:S3504¾")Unexpected var, use let or const instead.(Õ±½©úÿÿÿÿ
+8javascript:S1874¾"'event' is deprecated.(Õ±½©úÿÿÿÿ
+Kjavascript:S3504¿")Unexpected var, use let or const instead.(òàË‘ùÿÿÿÿ
+Zjavascript:S1481¿"8Remove the declaration of the unused 'scrollX' variable.(òàË‘ùÿÿÿÿ
+Wjavascript:S1854¿"5Remove this useless assignment to variable "scrollX".(òàË‘ùÿÿÿÿ
+Kjavascript:S3504À")Unexpected var, use let or const instead.(’µ¬§úÿÿÿÿ
+Zjavascript:S1481À"8Remove the declaration of the unused 'scrollY' variable.(’µ¬§úÿÿÿÿ
+Wjavascript:S1854À"5Remove this useless assignment to variable "scrollY".(’µ¬§úÿÿÿÿ
+Fjavascript:S3504Á")Unexpected var, use let or const instead.(‡¼Ò¡
+Kjavascript:S3504Â")Unexpected var, use let or const instead.(Ì³šãıÿÿÿÿ
+Fjavascript:S3504Ğ")Unexpected var, use let or const instead.(É÷ìŸ
+Fjavascript:S3504à")Unexpected var, use let or const instead.(Ï¼Ç
+Fjavascript:S3504ê")Unexpected var, use let or const instead.(è¾ªŞ
+Kjavascript:S3504ğ")Unexpected var, use let or const instead.(Ô¶·ûÿÿÿÿ
