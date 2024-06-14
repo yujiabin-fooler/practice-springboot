@@ -1,0 +1,5 @@
+com\jiabin\testcontainers\practice\service\ProductService.class
+com\jiabin\testcontainers\practice\entity\Product.class
+com\jiabin\testcontainers\practice\controller\HelloWorldController.class
+com\jiabin\testcontainers\practice\TestContainersPracticeApplication.class
+com\jiabin\testcontainers\practice\Repository\ProductRepository.class

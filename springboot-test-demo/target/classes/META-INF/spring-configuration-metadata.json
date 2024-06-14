@@ -1,0 +1,29 @@
+{
+  "groups": [
+    {
+      "name": "com.person",
+      "type": "com.jiabin.springboot.test.demo.starter.PersonProperties",
+      "sourceType": "com.jiabin.springboot.test.demo.starter.PersonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jiabin.springboot.test.demo.starter.PersonProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "com.person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.jiabin.springboot.test.demo.starter.PersonProperties"
+    },
+    {
+      "name": "com.person.sex",
+      "type": "java.lang.String",
+      "sourceType": "com.jiabin.springboot.test.demo.starter.PersonProperties",
+      "defaultValue": "M"
+    }
+  ],
+  "hints": []
+}

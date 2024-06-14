@@ -1,0 +1,7 @@
+
+¡
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "personService".(œ…—ÈJ$0872775f-6d81-4a5a-9911-cb2610145c81
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$8a47af1f-1a41-426d-b1b1-0798c0c6ade8
+•
+java:S3305"TInject this field value directly into "personService", the only method that uses it.(–žó¼ûÿÿÿÿJ$19bf7752-f20e-4940-a7c0-a641ae9608e2

@@ -1,0 +1,6 @@
+D:\PracticeProjectFile\mypracticefile\springboot-practice\sharding-jdbc\src\main\java\com\jiabin\sharding\jdbc\practice\ShardingJdbcPracticeApplication.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\sharding-jdbc\src\main\java\com\jiabin\sharding\jdbc\practice\service\OrderService.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\sharding-jdbc\src\main\java\com\jiabin\sharding\jdbc\practice\domain\Order.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\sharding-jdbc\src\main\java\com\jiabin\sharding\jdbc\practice\repository\OrderRepository.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\sharding-jdbc\src\main\java\com\jiabin\sharding\jdbc\practice\controller\OrderController.java
+D:\PracticeProjectFile\mypracticefile\springboot-practice\sharding-jdbc\src\main\java\com\jiabin\sharding\jdbc\practice\domain\Status.java

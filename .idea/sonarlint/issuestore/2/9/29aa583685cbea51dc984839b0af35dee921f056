@@ -1,0 +1,11 @@
+
+­
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8¦éÅ‡2J$5a19b749-bc1b-4ac6-b18a-11d0542cb662
+z
+java:S1854)"7Remove this useless assignment to local variable "msg".(¬…ì¢8ÑéÅ‡2J$3d8ab63c-12e9-4467-afed-fe35b78b12c9
+k
+java:S1481)"(Remove this unused "msg" local variable.(¬…ì¢8ÙéÅ‡2J$d234ca15-dfa5-4805-81c7-223e6babacb5
+¡
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶È8æéÅ‡2J$a6ec48ef-cefd-448d-8fcf-a996f9ad9dea
+h
+java:S2129/" Remove this "String" constructor(Ñöëöüÿÿÿÿ8ïéÅ‡2J$dd69849f-593b-4880-a82f-d0936a584090

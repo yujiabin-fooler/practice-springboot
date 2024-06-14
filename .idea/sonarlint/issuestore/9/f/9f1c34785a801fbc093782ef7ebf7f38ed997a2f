@@ -1,0 +1,8 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÅôÑµJ$20663930-21f8-40df-b0d3-1a3cf3ed8c85
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(÷¤ïàûÿÿÿÿJ$d853fd7a-e4cf-4228-8835-2a39ed8aecfa
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÍÉí‹ûÿÿÿÿJ$a704e99a-314d-4603-a6ed-e8743697c57b
+­
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÍÉí‹ûÿÿÿÿJ$cfd2d77d-992b-4321-b62c-1edd23b5e7e6
+q
+java:S1128"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿJ$c6d5dccd-b745-4900-a9c9-28285fd75cae

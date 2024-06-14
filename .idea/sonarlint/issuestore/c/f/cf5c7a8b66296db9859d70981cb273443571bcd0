@@ -1,37 +1,37 @@
 
-‡	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(§ÛòÂùÿÿÿÿJ$5c87e63b-5f01-4590-a14b-bd4ee69efbcd
-‚	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(Ñ×ÇJ$51cfaaf5-71f0-4255-85ad-1a54ca0b7670
+‡	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(§ÛòÂùÿÿÿÿJ$0078fb29-eb65-4bb7-8450-8024cacb4ccc
+‚	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(Ñ×ÇJ$6301b36b-ce69-4bd3-8966-c8922fdd9059
 ž
-java:S1192A"cDefine a constant instead of duplicating this literal "å‘ç”Ÿå¼‚å¸¸,è¿›è¡Œæ‰‹åŠ¨å›žæ»šï¼" 3 times.(›¦Ï>J$816629a5-6779-4ae4-abc3-492af1d17d2e
+java:S1192A"cDefine a constant instead of duplicating this literal "å‘ç”Ÿå¼‚å¸¸,è¿›è¡Œæ‰‹åŠ¨å›žæ»šï¼" 3 times.(›¦Ï>J$32802ca5-beed-4193-9ada-5123307d45a9
 “
-java:S1192*"RDefine a constant instead of duplicating this literal "æŸ¥è¯¢çš„æ•°æ®1:" 4 times.(†…ñøÿÿÿÿJ$671b1a5b-87ec-4717-9176-ff65be35fcef
+java:S1192*"RDefine a constant instead of duplicating this literal "æŸ¥è¯¢çš„æ•°æ®1:" 4 times.(†…ñøÿÿÿÿJ$d6348752-de17-4616-8c48-0ea56ec1d9eb
 “
-java:S1192-"RDefine a constant instead of duplicating this literal "æŸ¥è¯¢çš„æ•°æ®2:" 4 times.(Á£ÍúÿÿÿÿJ$ddea0701-1d5e-4559-8093-58fe378d02eb
+java:S1192-"RDefine a constant instead of duplicating this literal "æŸ¥è¯¢çš„æ•°æ®2:" 4 times.(Á£ÍúÿÿÿÿJ$f928da49-fc65-42a3-b2ce-56f24266ad8d
 Ñ
-java:S4449œ"ŽAnnotate the parameter with @javax.annotation.Nullable in method 'rollback' declaration, or make sure that null can not be passed as argument.(ÊþŽ›øÿÿÿÿJ$66176756-f0f6-40b9-8433-889535cef083
+java:S4449œ"ŽAnnotate the parameter with @javax.annotation.Nullable in method 'rollback' declaration, or make sure that null can not be passed as argument.(ÊþŽ›øÿÿÿÿJ$859236e1-9382-457a-8b23-5b59d73e055e
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$ffc5bacd-342e-4670-a6e2-49d4fa247f84
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$3f8d01e7-062f-49c9-af22-5d01c3b240cb
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$e177f04b-c1dc-46f2-aa04-28c6140c63a8
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$4bd8cda3-3841-46f2-be29-3e2b8359d014
 ~
-java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄÞJ$fbf80152-33a7-4725-a6c1-ced0fcdc3ac0
-k	java:S106*"+Replace this use of System.out by a logger.(†…ñøÿÿÿÿJ$8b148cdd-0cbb-4790-b4a4-d453a5c1dc46
-k	java:S106-"+Replace this use of System.out by a logger.(Á£ÍúÿÿÿÿJ$b3397126-9140-4084-a0ee-8cdd725b1fad
-k	java:S106;"+Replace this use of System.out by a logger.(†…ñøÿÿÿÿJ$547227b6-1859-43b1-8662-a76467f30b97
-k	java:S106>"+Replace this use of System.out by a logger.(Á£ÍúÿÿÿÿJ$29ed51be-4f53-469e-a402-da63e0e7b5f8
-e	java:S106A"+Replace this use of System.out by a logger.(›¦Ï>J$40da97dc-fbeb-4ef1-863c-383a380d2a0c
-k	java:S106S"+Replace this use of System.out by a logger.(§”™˜þÿÿÿÿJ$b5b10d38-d5d8-4e55-b4cf-e53f935bbae9
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄÞJ$13df2a72-9b6e-472d-bf55-0a4ba8f5f062
+k	java:S106*"+Replace this use of System.out by a logger.(†…ñøÿÿÿÿJ$a3699fc3-a32a-42e2-b3bc-4cf56beb2166
+k	java:S106-"+Replace this use of System.out by a logger.(Á£ÍúÿÿÿÿJ$c4749f79-89a1-4527-88f1-dbfb0776a388
+k	java:S106;"+Replace this use of System.out by a logger.(†…ñøÿÿÿÿJ$88af5893-1a52-4da4-8947-5815526eb8b3
+k	java:S106>"+Replace this use of System.out by a logger.(Á£ÍúÿÿÿÿJ$026f0a45-f66f-4aea-8f57-8ebd8507b3c2
+e	java:S106A"+Replace this use of System.out by a logger.(›¦Ï>J$d21d6299-f808-40ec-b084-4982f47cbec7
+k	java:S106S"+Replace this use of System.out by a logger.(§”™˜þÿÿÿÿJ$ea8fd7f3-5430-4fbd-9a13-b3d36df46546
 –
-java:S6809V"UCall transactional methods via an injected dependency instead of directly via 'this'.(Î›ÞüÿÿÿÿJ$6807dc6e-214e-47d1-92d3-d0e30c3efb2e
-e	java:S106X"+Replace this use of System.out by a logger.(›¦Ï>J$9578d62a-2ee9-409d-8f3d-94722f93fe8e
+java:S6809V"UCall transactional methods via an injected dependency instead of directly via 'this'.(Î›ÞüÿÿÿÿJ$f6df11b7-1409-46fa-95ac-543b64b084d6
+e	java:S106X"+Replace this use of System.out by a logger.(›¦Ï>J$f8a318c1-f01c-48bf-91ce-171249c8bc12
 ¯
-java:S1130a"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(„Š÷çøÿÿÿÿJ$fb060352-b997-4093-a5b6-807be0bcca9c
-f	java:S106c"+Replace this use of System.out by a logger.(’Ã¥žJ$24487aec-226b-4dd3-919c-22c43c80d139
+java:S1130a"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(„Š÷çøÿÿÿÿJ$64ca1271-41f8-4308-9141-b30fff46ec97
+f	java:S106c"+Replace this use of System.out by a logger.(’Ã¥žJ$129a04a6-7b27-471b-b5ae-44983ddb3904
 ª
-java:S1130f"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ˆÐÙóJ$fb362288-c858-4693-8dfd-cc292027e0ae
-e	java:S106m"+Replace this use of System.out by a logger.(ÕÑª-J$19391da5-65d0-4d04-9f30-8a35cdd4ed86
-l	java:S106†"+Replace this use of System.out by a logger.(§”™˜þÿÿÿÿJ$f77457e4-b547-4a35-a9da-9359e3508ab2
-g	java:S106‰"+Replace this use of System.out by a logger.(’Ã¥žJ$bc479aa0-19a2-4e9a-b0de-b0f93b579d53
-f	java:S106"+Replace this use of System.out by a logger.(ÕÑª-J$cdfb8ab0-2b0a-48fa-9f62-6816ae801799
-l	java:S106”"+Replace this use of System.out by a logger.(”ó½ÍûÿÿÿÿJ$21e945c6-1bb4-40b8-b60b-8f4780515fee
-f	java:S106š"+Replace this use of System.out by a logger.(›¦Ï>J$50daccaa-8665-4383-a98a-5b52295e16ac
+java:S1130f"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ˆÐÙóJ$4fc45fc5-6cf6-449a-b22f-4d4d2475a905
+e	java:S106m"+Replace this use of System.out by a logger.(ÕÑª-J$fbcd0c4d-cb42-45c5-9c3a-706e0dc643bd
+l	java:S106†"+Replace this use of System.out by a logger.(§”™˜þÿÿÿÿJ$7870902d-df74-4df6-9f1c-fa20181d1629
+g	java:S106‰"+Replace this use of System.out by a logger.(’Ã¥žJ$c29db898-374c-453c-b2e4-3004bde7ea79
+f	java:S106"+Replace this use of System.out by a logger.(ÕÑª-J$0999744d-ea92-4564-bad7-09cc69f27ba3
+l	java:S106”"+Replace this use of System.out by a logger.(”ó½ÍûÿÿÿÿJ$6d917792-6021-40a9-ac78-8f822f3e7582
+f	java:S106š"+Replace this use of System.out by a logger.(›¦Ï>J$5a1bb2dc-4b14-469c-a95b-2ad75a497d84

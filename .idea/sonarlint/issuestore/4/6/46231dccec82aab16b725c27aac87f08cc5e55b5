@@ -1,0 +1,7 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8â§„’2J$71ecd208-10a9-4630-a8a2-05537e3fee80
+¢
+java:S3305"ZInject this field value directly into "captchaCacheService", the only method that uses it.(ùúŒşùÿÿÿÿ8ô§„’2J$db69d1ef-5ecc-47ac-8201-f7214574db08
+Š
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‰›¥8¨„’2J$bd0638bf-97f0-416e-be21-d83b28f1eab7

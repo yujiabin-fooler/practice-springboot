@@ -1,0 +1,4 @@
+com\jiabin\springboot\test\demo\starter\PersonProperties.class
+com\jiabin\springboot\test\demo\config\PersonServiceAutoConfiguration.class
+com\jiabin\springboot\test\demo\service\PersonService.class
+META-INF\spring-configuration-metadata.json

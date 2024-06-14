@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 /**
  * TerminalService
  *
- * @author dukunbiao(null)  2022-07-02
  * https://github.com/dkbnull/SpringBootDemo
  */
 @Service

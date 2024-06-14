@@ -1,0 +1,10 @@
+
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$dc3c2c58-f472-41ce-be80-b07caa3f0d8c
+b
+java:S1452"&Remove usage of generic wildcard type.(ğ°«ĞJ$146fe17b-1858-43ba-be16-052a6245e040
+b
+java:S14521"&Remove usage of generic wildcard type.(û¤ç¨J$0307711f-5074-452e-ad46-863b1f759151
+f	java:S1066"+Replace this use of System.out by a logger.(¤·ÄÙJ$cad9f715-09d5-4f0b-b0e0-d5510f4dd58c
+k	java:S106;"+Replace this use of System.out by a logger.(ˆõ”şÿÿÿÿJ$52de5353-16fb-4efb-97b7-4d28c7715f3d
+e	java:S106@"+Replace this use of System.out by a logger.(óëàJ$370059ec-c46b-480c-a8a4-7ecd9b033a73

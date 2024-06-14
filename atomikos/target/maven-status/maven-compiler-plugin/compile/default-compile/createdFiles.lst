@@ -1,0 +1,11 @@
+com\jiabin\atomikos\practice\mapper1\ManyService1.class
+com\jiabin\atomikos\practice\controller\HelloWorldController.class
+com\jiabin\atomikos\practice\mapper1\UserInfoMapper1.class
+com\jiabin\atomikos\practice\AtomikosPracticeApplication.class
+com\jiabin\atomikos\practice\config\MyBatisConfig1.class
+com\jiabin\atomikos\practice\config\DBConfig1.class
+com\jiabin\atomikos\practice\config\MyBatisConfig2.class
+com\jiabin\atomikos\practice\entity\UserInfo.class
+com\jiabin\atomikos\practice\mapper2\ManyService2.class
+com\jiabin\atomikos\practice\mapper2\UserInfoMapper2.class
+com\jiabin\atomikos\practice\config\DBConfig2.class

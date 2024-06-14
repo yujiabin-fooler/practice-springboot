@@ -1,0 +1,5 @@
+com\jiabin\springtask\schedule\practice\config\ThreadPoolTaskSchedulerConfig.class
+com\jiabin\springtask\schedule\practice\SpringTaskSchedulerPracticeApplication.class
+com\jiabin\springtask\schedule\practice\task\ProgrammaticallyScheduledTasks.class
+com\jiabin\springtask\schedule\practice\task\ScheduledTasks.class
+com\jiabin\springtask\schedule\practice\task\RunnableTask.class

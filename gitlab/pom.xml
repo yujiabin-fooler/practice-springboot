@@ -20,6 +20,7 @@
         <version>2.3.0.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <dependencies>
         <!--SpringBoot Web功能起步依赖-->
         <dependency>

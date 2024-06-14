@@ -1,0 +1,19 @@
+
+‡	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(û ıŠşÿÿÿÿJ$d3ed20c4-4906-432d-901f-dc75b28feae3
+‡	java:S112é"FDefine and throw a dedicated exception instead of using a generic one.(ï¦Ë£üÿÿÿÿJ$7cd99d90-9912-4409-bb7c-9c4a4ffbee1f
+‘	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õìùªûÿÿÿÿJ$18e12161-826c-4c97-94fa-ba656f406223
+Œ	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯­J$4095a13a-deb9-4c66-9c2c-29d48abb4381
+Œ	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò®¹öJ$8df64b35-954a-43ee-9e22-9c57213e8808
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û»ŠçıÿÿÿÿJ$e6016144-1171-4a65-9820-5628c6fcb356
+’	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôäÓàøÿÿÿÿJ$f7e4de5a-4429-4157-ab84-374bfb04316e
+	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Î‡İJ$65cc9f2d-5c94-4f2c-aafd-5ff36af3d87b
+Ô
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(íŒ’J$9ed132a0-db3c-4a79-afe6-92b02fa80b85
+¼
+java:S1130¡"Remove the declaration of thrown exception 'org.locationtech.jts.io.ParseException', as it cannot be thrown from method's body.(ï¢¡ÕJ$3da2db36-6127-463e-a386-8bb2a60247d1
+Á
+java:S1130ª"Remove the declaration of thrown exception 'org.locationtech.jts.io.ParseException', as it cannot be thrown from method's body.(öªèİşÿÿÿÿJ$f55f48bc-0377-4113-9a36-7b9d78f8470a
+k
+java:S1905¾")Remove this unnecessary cast to "double".(ğ®ƒÿÿÿÿÿJ$9e7496bb-46ae-4dc9-a0df-5f5560dc9234
+k
+java:S1905¾")Remove this unnecessary cast to "double".(ğ®ƒÿÿÿÿÿJ$6f7565e9-c44d-4ad1-b929-f97ccd3d620d

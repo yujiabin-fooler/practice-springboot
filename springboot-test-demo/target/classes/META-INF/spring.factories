@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.jiabin.springboot.test.demo.config.PersonServiceAutoConfiguration
+

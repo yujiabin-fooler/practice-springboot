@@ -1,0 +1,13 @@
+com\jiabin\security\practice\entity\Role.class
+com\jiabin\security\practice\config\WebSecurityConfig$1.class
+com\jiabin\security\practice\config\CustomFilterInvocationSecurityMetadataSource.class
+com\jiabin\security\practice\controller\HelloWorldController.class
+com\jiabin\security\practice\entity\Menu.class
+com\jiabin\security\practice\entity\User.class
+com\jiabin\security\practice\mapper\MenuMapper.class
+com\jiabin\security\practice\service\UserService.class
+com\jiabin\security\practice\mapper\UserMapper.class
+com\jiabin\security\practice\SecurityPracticeApplication.class
+com\jiabin\security\practice\config\CustomAccessDecisionManager.class
+com\jiabin\security\practice\config\WebSecurityConfig.class
+com\jiabin\security\practice\mapper\RoleMapper.class

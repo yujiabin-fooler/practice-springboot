@@ -1,0 +1,7 @@
+
+’
+java:S1845J"QRename method "delete" to prevent any misunderstanding/clash with field "delete".(ßÁªÍúÿÿÿÿJ$36cdb587-f3c5-4d9f-8811-00cbd2aa460d
+Ž
+java:S1845O"MRename method "save" to prevent any misunderstanding/clash with field "save".(é¨îÇùÿÿÿÿJ$e2fe954f-13c6-45bb-b8ac-c67668b9dda1
+p
+java:S19480"/Make "changeHandler" transient or serializable.(û–œ¦þÿÿÿÿJ$49299500-36f7-4f0c-bb19-45ac66adc24c

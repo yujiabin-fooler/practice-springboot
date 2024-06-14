@@ -1,20 +1,20 @@
 
 ™
-java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "queue".(ÎÊĞ´J$0e92b632-01ac-40cb-83ba-71efcfdf276e
+java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "queue".(ÎÊĞ´J$774b5e7e-6e1f-4282-a26b-a286dd207fc2
 
-java:S14889"]Immediately return this expression instead of assigning it to the temporary variable "queue".( ©ç£ÿÿÿÿÿJ$8e262554-6cef-42ad-ab51-4dde2b74739f
+java:S14889"]Immediately return this expression instead of assigning it to the temporary variable "queue".( ©ç£ÿÿÿÿÿJ$10cebfc6-ee1a-4e02-9704-6ebad0778f41
 ¢
-java:S1488G"fImmediately return this expression instead of assigning it to the temporary variable "fanoutExchange".(ŞÆüãJ$77d02de9-d89f-45f8-b557-18bad9194026
+java:S1488G"fImmediately return this expression instead of assigning it to the temporary variable "fanoutExchange".(ŞÆüãJ$4ed0ba86-2253-4612-af24-7e5553601432
 ›
-java:S1488Q"_Immediately return this expression instead of assigning it to the temporary variable "binding".(º£©¦J$766e1bf9-85d3-457a-ade8-81beca58bd93
+java:S1488Q"_Immediately return this expression instead of assigning it to the temporary variable "binding".(º£©¦J$b8254566-255d-421d-8b12-b3e331c316f0
 ›
-java:S1488W"_Immediately return this expression instead of assigning it to the temporary variable "binding".(»ìèÇJ$bf49c48b-ecae-4030-896d-74f2fabb426b
-š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯Òò½úÿÿÿÿJ$926835b7-b54f-4516-a9dd-7d725a9e7a6c
-•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦³‡ÇJ$19112eb3-6d24-41a2-a5b0-b86adfe94a12
-•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û££ôJ$41fda72f-c958-4993-944b-a2c9cc8f7834
+java:S1488W"_Immediately return this expression instead of assigning it to the temporary variable "binding".(»ìèÇJ$68dd02b9-5713-47e5-b471-117613154ef5
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯Òò½úÿÿÿÿJ$f05a07ca-9aa5-4614-a69d-02adadbce0c1
+•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦³‡ÇJ$8eedd853-2cce-47c3-9338-6fbf576a92c6
+•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û££ôJ$715c6469-4c91-4a53-863e-0d65952dab3a
 †
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¯Òò½úÿÿÿÿJ$94d05562-3a84-48fc-ae27-969dbb657c4a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¯Òò½úÿÿÿÿJ$1cd29289-4b77-42ae-ad4b-d92e2af1043b
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¦³‡ÇJ$e365bb22-6cf7-4081-9624-37763ffd2d27
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¦³‡ÇJ$bdaad45e-b087-4fbc-becd-75aca7976873
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(û££ôJ$88aabf1c-e757-44ed-a751-4079b1a9cb7a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(û££ôJ$2f4385df-705c-49eb-8f15-5006e69e0494
