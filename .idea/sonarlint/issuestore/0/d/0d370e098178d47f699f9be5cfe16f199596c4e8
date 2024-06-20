@@ -1,7 +1,7 @@
 
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$6dfb7302-9255-4df0-8ec2-650e08a0d171
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$f2818779-87fa-477a-ba38-d33f5f73e9c8
 „
-java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ëýè¾J$a8f260a7-c62b-4318-a088-620236bd63d4
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ëýè¾J$17a9c5c6-b44e-4d4b-ab74-95c26a2cbd59
 „
-java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(©÷û”J$c6c09fa3-6d37-4df2-b305-a66764460cc1
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(©÷û”J$9c003b20-b66a-4d31-8642-822e3d83aaaf

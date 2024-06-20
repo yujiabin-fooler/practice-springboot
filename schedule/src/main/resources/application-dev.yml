@@ -1,0 +1,21 @@
+## environment-dev
+
+## tomcat server
+server:
+  port: 8848
+
+spring:
+  ## datasource
+  datasource:
+    user:
+      url: "jdbc:mysql://localhost:3306/springbootpracticedb?useUnicode=true&characterEncoding=utf8&useJDBCCompliantTimezoneShift=true\
+          &useLegacyDatetimeCode=false&serverTimezone=GMT%2b8&useSSL=true&allowMultiQueries=true&autoReconnect=true"
+      username: root
+      password: root
+    receiveAddress:
+      url: "jdbc:mysql://localhost:3306/springbootpracticedb?useUnicode=true&characterEncoding=utf8&useJDBCCompliantTimezoneShift=true\
+                &useLegacyDatetimeCode=false&serverTimezone=GMT%2b8&useSSL=true&allowMultiQueries=true&autoReconnect=true"
+      username: root
+      password: root
+
+

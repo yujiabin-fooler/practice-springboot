@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option optimize_for = CODE_SIZE;
+option java_package = "com.jiabin.jetcache.practice.model.entity";
+option java_outer_classname = "TreePb";
+
+import "com/ljq/demo/springboot/mybatisplus/model/protobuf/Student.proto";
+
+// 学生植树
+message Tree {
+    // 树木品种
+    string tree_type = 2;
+    // 植树时间
+    uint32 plant_date = 3;
+    // 种树学生信息
+    Student student = 4;
+    // 学生选修课
+    ElectiveCourse elective_course = 5;
+    // 教师
+    repeated Teacher teachers = 6;
+}

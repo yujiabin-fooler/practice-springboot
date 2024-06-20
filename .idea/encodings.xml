@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/activemq/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/activemq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activiti-workflow/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/activiti/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/activiti/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/actuator/src/main/java" charset="UTF-8" />
@@ -19,6 +20,8 @@
     <file url="file://$PROJECT_DIR$/async/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/atomikos/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/atomikos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aws-iot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aws-iot/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/c3p0/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/c3p0/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cache/src/main/java" charset="UTF-8" />
@@ -90,6 +93,7 @@
     <file url="file://$PROJECT_DIR$/elastic-apm/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elastic-job/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elastic-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticsearch-elasticresttemplate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elasticsearch-thymeleaf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elasticsearch-thymeleaf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elasticsearch/src/main/java" charset="UTF-8" />
@@ -114,6 +118,8 @@
     <file url="file://$PROJECT_DIR$/fastdfs/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fastmybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fastmybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ffmpeg-media/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ffmpeg-media/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/file-download/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/file-download/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fileupload/src/main/java" charset="UTF-8" />
@@ -196,6 +202,7 @@
     <file url="file://$PROJECT_DIR$/jdbctemplate/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jenkins/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jenkins/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jetcache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jsch/src/main/java" charset="UTF-8" />
@@ -227,6 +234,8 @@
     <file url="file://$PROJECT_DIR$/kafka/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/keycloak/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/keycloak/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knife4j-openapi3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knife4j-openapi3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/log4j/src/main/java" charset="UTF-8" />
@@ -253,6 +262,7 @@
     <file url="file://$PROJECT_DIR$/mockito/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mockmvc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mockmvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongodb-mongotemplate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mongodb/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mongodb/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mq-rabbit/src/main/java" charset="UTF-8" />
@@ -269,10 +279,14 @@
     <file url="file://$PROJECT_DIR$/multidatasource-mybatis-annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multidatasource-mybatis-xml/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multidatasource-mybatis-xml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multidatasource-read-write-sperate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multidatasource-read-write-sperate/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multidatasource/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multidatasource/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multipartfile-fileupload/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multipartfile-fileupload/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-web/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-annotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-generator/src/main/java" charset="UTF-8" />
@@ -305,6 +319,8 @@
     <file url="file://$PROJECT_DIR$/nacos/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/neo4j/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/neo4j/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netty-protobuf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netty-protobuf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netty/src/main/java" charset="UTF-8" />
@@ -313,6 +329,8 @@
     <file url="file://$PROJECT_DIR$/nginx-file-download/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oauth2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oauth2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/opencv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/opencv/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/openfeign/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/openfeign/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oss-rabbitmq-springtask-jwt/src/main/java" charset="UTF-8" />
@@ -402,12 +420,35 @@
     <file url="file://$PROJECT_DIR$/rocketmq/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rokctmq/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rokctmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-kafka/rq-kafka-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-kafka/rq-kafka-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-kafka/rq-kafka-producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-kafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-rabbitmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-rocketmq/rocketmq-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-rocketmq/rocketmq-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-rocketmq/rocketmq-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-rocketmq/rocketmq-producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-rocketmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/rq-rocketmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rq/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rss/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rss/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/s3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sa-token/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sa-token/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-quartz-group/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-quartz-group/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-xxljob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-xxljob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scheduled-task/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scheduled-task/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seat-saga-model/src/main/java" charset="UTF-8" />
@@ -436,6 +477,8 @@
     <file url="file://$PROJECT_DIR$/session/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shardingjdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shardingjdbc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sitemap/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sitemap/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smartdoc/src/main/java" charset="UTF-8" />
@@ -454,6 +497,8 @@
     <file url="file://$PROJECT_DIR$/spring-shell/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-task-scheduler/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-task-scheduler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-starter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-swagger2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-swagger2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-test-configproperties-demo/src/main/java" charset="UTF-8" />
@@ -470,6 +515,8 @@
     <file url="file://$PROJECT_DIR$/swagger/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swagger3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swagger3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tablesaw/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tablesaw/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test/src/main/java" charset="UTF-8" />
@@ -498,16 +545,34 @@
     <file url="file://$PROJECT_DIR$/video-transcoding/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vue-element/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vue-element/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springboot-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springbot-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/springbot-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webflux/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webflux/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webrtc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webrtc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket-jwt/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket-jwt/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket-qrcode/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket-qrcode/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket-rabbitmq/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket-rabbitmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket-spring/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/websocket/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webuploader/src/main/java" charset="UTF-8" />
@@ -536,6 +601,14 @@
     <file url="file://$PROJECT_DIR$/zipkin/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zookeeper-distributionlock/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zookeeper-distributionlock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-dubbo/dubbo-consumer-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-dubbo/dubbo-consumer-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-dubbo/dubbo-provider-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-dubbo/dubbo-provider-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-dubbo/dubbo-provider-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-dubbo/dubbo-provider-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-dubbo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zookeeper-serviceregistry/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zookeeper-serviceregistry/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zookeeper/src/main/java" charset="UTF-8" />

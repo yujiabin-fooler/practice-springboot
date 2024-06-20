@@ -1,0 +1,62 @@
+## config
+
+## server
+server:
+  port: 8400
+
+## spring config
+spring:
+  activiti:
+    check-process-definitions: false
+    database-schema-update: true
+    process-definition-location-prefix: classpath:/
+  datasource:
+    url: "jdbc:mysql://127.0.0.1:3306/demo_activiti?useUnicode=true&characterEncoding=utf8\
+      &useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2b8\
+      &useSSL=true&allowMultiQueries=true&autoReconnect=true&nullCatalogMeansCurrent=true"
+    username: root
+    password: "root"
+    hikari:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+
+## mybatis
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.jiabin.activiti.workflow.practice.model.entity
+
+## mybatis log
+logging:
+  level:
+    com.jiabin.activiti.workflow.practice.dao: debug
+
+
+# Swagger config
+swagger:
+  enable: true
+
+## aliyun oss
+## 配置说明参考: com.jiabin.springboot.common.practice.config.OSSConfig.class
+oss:
+  endpoint: oss-cn-hangzhou.aliyuncs.com
+  url: https://xxxx.oss-cn-hangzhou.aliyuncs.com/
+  accessKeyId: your_accessKey_id
+  accessKeySecret: your_accessKey_secret
+  bucketName: your_bucket_name
+
+## sftp 附件上传配置
+uploadSftp:
+  host: 172.16.140.10
+  port: 22
+  username: root
+  password: root
+  path: /home/ljq/upload
+
+
+
+
+
+
+## pdf export config
+pdfExport:
+  fontSimsun: static/font/simsun.ttc
+  employeeKpiFtl: templates/pdf_export_employee_kpi.ftl

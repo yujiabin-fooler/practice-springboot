@@ -1,0 +1,15 @@
+# config
+server:
+  port: 9100
+
+# netty 配置
+netty:
+  port: 9120
+  port2: 9125
+  portUdp: 9130
+
+# spring
+spring:
+  application:
+    name: demo-netty-server
+

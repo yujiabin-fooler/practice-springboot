@@ -1,0 +1,11 @@
+
+l
+java:S2160"+Override the "equals" method in this class.(¯•¾ïûÿÿÿÿJ$af3a968c-75a4-441b-a618-d4b646766899
+“
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(–ŒÅÉùÿÿÿÿJ$6aeb9220-9ef9-4e3f-aa9b-5f1379898db4
+{
+java:S1117r":Rename "offset" which hides the field declared at line 52.(ÊŞ°—ıÿÿÿÿJ$948474df-d1ae-42fc-9b88-8fecede32dc8
+~
+java:S1117w"=Rename "direction" which hides the field declared at line 67.(ô‹ºøÿÿÿÿJ$fde25532-b12a-4204-83d6-f4ac622d769d
+€
+java:S1117…">Rename "properties" which hides the field declared at line 72.(ú¾ÖûÿÿÿÿJ$d6e6069f-0267-45e2-b340-3927a5b3a720

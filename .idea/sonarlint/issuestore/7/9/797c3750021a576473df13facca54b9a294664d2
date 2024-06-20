@@ -1,0 +1,15 @@
+
+
+java:S1192""RDefine a constant instead of duplicating this literal "request param: {}" 5 times.(Ó…ÌÅJ$fa2fd204-8e7a-444d-8956-b9482fd1170e
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ºÊƒªƒ2
+H
+java:S1452!"&Remove usage of generic wildcard type.(á—Üºüÿÿÿÿ8ÀÊƒªƒ2
+H
+java:S1452."&Remove usage of generic wildcard type.(ó›Ÿ°ùÿÿÿÿ8ÁÊƒªƒ2
+C
+java:S1452;"&Remove usage of generic wildcard type.(ÒŒï´8ÂÊƒªƒ2
+C
+java:S1452I"&Remove usage of generic wildcard type.(™áû®8ÃÊƒªƒ2
+H
+java:S1452V"&Remove usage of generic wildcard type.(ŞÉ²ıÿÿÿÿ8ÄÊƒªƒ2

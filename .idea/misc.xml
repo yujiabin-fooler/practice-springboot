@@ -256,6 +256,29 @@
         <option value="$PROJECT_DIR$/atomikos/pom.xml" />
         <option value="$PROJECT_DIR$/async/pom.xml" />
         <option value="$PROJECT_DIR$/zookeeper-serviceregistry/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc-web/pom.xml" />
+        <option value="$PROJECT_DIR$/websocket-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/websocket-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger3/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/shardingjdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/schedule/pom.xml" />
+        <option value="$PROJECT_DIR$/schedule-xxljob/pom.xml" />
+        <option value="$PROJECT_DIR$/schedule-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/schedule-quartz-group/pom.xml" />
+        <option value="$PROJECT_DIR$/multidatasource-read-write-sperate/pom.xml" />
+        <option value="$PROJECT_DIR$/opencv/pom.xml" />
+        <option value="$PROJECT_DIR$/knife4j-openapi3/pom.xml" />
+        <option value="$PROJECT_DIR$/ffmpeg-media/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-iot/pom.xml" />
+        <option value="$PROJECT_DIR$/activiti-workflow/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch-elasticresttemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jetcache/pom.xml" />
+        <option value="$PROJECT_DIR$/mongodb-mongotemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/rq/pom.xml" />
+        <option value="$PROJECT_DIR$/web-mvc/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

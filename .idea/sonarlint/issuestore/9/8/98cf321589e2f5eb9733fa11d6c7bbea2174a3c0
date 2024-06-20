@@ -1,0 +1,57 @@
+
+l
+java:S3740è"/Provide the parametrized type for this generic.(é¡ÂJ$1daffb9b-7a76-4113-8318-3a96fac97cf2
+
+java:S1192²"LDefine a constant instead of duplicating this literal "$createTime" 4 times.(Ìì™İûÿÿÿÿJ$69f2e392-57a7-46bc-90c4-956bf870739c
+Š
+java:S1192©"HDefine a constant instead of duplicating this literal "aveRead" 7 times.(Ä‡ÄøÿÿÿÿJ$c13dddd2-6994-4460-87d1-c5d5c54aeb68
+
+java:S1192"KDefine a constant instead of duplicating this literal "countLike" 23 times.(×´´»ıÿÿÿÿJ$48ba2ce9-7c4b-4da7-b14e-27c065e87483
+‡
+java:S1192§"JDefine a constant instead of duplicating this literal "totalBlog" 7 times.(ºÌÇ’J$44fa44f4-f105-41bc-b229-56d68611c174
+Š
+java:S1192«"HDefine a constant instead of duplicating this literal "aveLike" 7 times.(˜¬˜§ıÿÿÿÿJ$819d9f56-39e1-4782-8c42-3f6ca9e811d7
+‡
+java:S1192o"FDefine a constant instead of duplicating this literal "title" 3 times.(…ĞÂ¸ûÿÿÿÿJ$89777c80-3cbe-4dd1-9c04-186954fce637
+’
+java:S1192‡"PDefine a constant instead of duplicating this literal "clientTimestamp" 3 times.(¼®˜¤ÿÿÿÿÿJ$e26d0c86-285c-4020-836d-c6a8a9ec234f
+
+java:S1192"KDefine a constant instead of duplicating this literal "countRead" 23 times.(×´´»ıÿÿÿÿJ$77c1d4aa-ac5c-4167-97a6-13b473ac091b
+„
+java:S1192r"HDefine a constant instead of duplicating this literal "author" 13 times.(Ì£®ÆJ$2e2d2fc3-cab1-4791-aea8-d3eb56ff681c
+†
+java:S1192ª"JDefine a constant instead of duplicating this literal "totalLike" 7 times.(±õ‰9J$6260714d-8f64-4b93-a6e9-404b7e9c12a0
+‡
+java:S1192}"KDefine a constant instead of duplicating this literal "updateTime" 6 times.(¶—ÃJ$e002b98b-0501-4b0c-b51e-28d0688bbc7b
+Œ
+java:S1192¨"JDefine a constant instead of duplicating this literal "totalRead" 7 times.(ö²ßÚûÿÿÿÿJ$4fa18b68-bbde-4c62-8629-9289b26db215
+‰
+java:S1192Õ"GDefine a constant instead of duplicating this literal "minute" 3 times.(ô¶ÉüùÿÿÿÿJ$17db5912-d420-4822-acda-68b0b7107d0b
+‹
+java:S1192Û"IDefine a constant instead of duplicating this literal "%Y-%m-%d" 3 times.(ñ‹‹éşÿÿÿÿJ$6492c85b-37eb-4061-9f57-3c7c75ae909f
+ˆ
+java:S1192"FDefine a constant instead of duplicating this literal "month" 5 times.(ô€ÑœúÿÿÿÿJ$8da5a48e-d01a-42f5-8ac5-533aab8465ea
+
+java:S1192¬"KDefine a constant instead of duplicating this literal "createTime" 5 times.(ÒšÄÄüÿÿÿÿJ$065f10d0-b551-4acc-91f7-cb04fbfb8112
+…
+java:S1192Ş"IDefine a constant instead of duplicating this literal "halfHour" 4 times.(öè+J$7c0a7c12-c02c-4b4a-954e-e1f3376ac61c
+‘
+java:S2259ê"TA "NullPointerException" could be thrown; "getUniqueMappedResult()" can return null.(¾áĞ˜J$8d8ca24c-ca9a-4d4f-96b3-761ac8a77275
+~
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞJ$10311c5b-50de-4ddd-b73b-ea9560adef38
+
+java:S3252i"OUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isNotBlank".(«ËîÃÿÿÿÿÿJ$b5894a86-1571-44d5-b5c5-303b70ab4b10
+‹
+java:S3252l"OUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isNotBlank".(Íš£úJ$3008ab49-6f65-4421-9184-3ceeeb9ce80a
+
+java:S3252q"OUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isNotBlank".(Ñ—ÂûÿÿÿÿJ$24769372-fdd8-477d-8c80-d001bdf8c633
+‹
+java:S3252t"OUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isNotBlank".(ÒÇ¨˜J$5009a6a3-25f8-4fd3-92cd-f8661826bd75
+Œ
+java:S3252"OUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isNotBlank".(ãÕ³¿J$33241c04-553f-477b-b124-71ef1cce1f34
+Œ
+java:S3252 "OUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isNotBlank".(ÕÄĞ§J$74bfc8bd-2da8-4673-b54f-0f442d7313f3
+Œ
+java:S3252¼"OUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isNotBlank".(ª«‚¿J$70e6791a-c266-4fd3-9d09-82c829af95f1
+‹
+java:S1871ó"IThis case's code block is the same as the block for the case on line 491.(İ–Ò˜ÿÿÿÿÿJ$f1c26db6-00f1-4c05-b4f0-b7ef7f3085a1

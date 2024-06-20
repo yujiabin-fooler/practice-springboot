@@ -10,16 +10,20 @@
         <module name="kafka-thymeleaf" />
         <module name="aop" />
         <module name="sse" />
+        <module name="mongodb-mongotemplate" />
+        <module name="mvc-web" />
         <module name="mybatis-generator" />
         <module name="actuator" />
         <module name="grpc-client" />
         <module name="springboot-test-configproperties-demo" />
         <module name="hazelcast" />
         <module name="rabbit" />
+        <module name="springboot-starter" />
         <module name="wechat-mp" />
         <module name="spring-batch" />
         <module name="grpc-nacos" />
         <module name="s3" />
+        <module name="rq-rocketmq" />
         <module name="cache" />
         <module name="hystrix" />
         <module name="spring-shell" />
@@ -33,6 +37,7 @@
         <module name="redis-bitmap" />
         <module name="sharding-jdbc" />
         <module name="groovy" />
+        <module name="dubbo-provider-api" />
         <module name="spring-security" />
         <module name="fastmybatis" />
         <module name="hutool" />
@@ -43,6 +48,7 @@
         <module name="webrtc" />
         <module name="lucene" />
         <module name="dubbo-nacos-xml" />
+        <module name="knife4j-openapi3" />
         <module name="logback" />
         <module name="async-scheduled" />
         <module name="freemarker" />
@@ -51,6 +57,7 @@
         <module name="hana" />
         <module name="chatgpt" />
         <module name="prometheus-grafana" />
+        <module name="rq-kafka-consumer" />
         <module name="activemq" />
         <module name="multipartfile-fileupload" />
         <module name="rocketmq" />
@@ -67,6 +74,7 @@
         <module name="rocketmq-transanction" />
         <module name="oss-rabbitmq-springtask-jwt" />
         <module name="jsp-jpa" />
+        <module name="schedule-xxljob" />
         <module name="oauth2" />
         <module name="vavr" />
         <module name="elastic-job" />
@@ -76,7 +84,9 @@
         <module name="postgre" />
         <module name="compressed-files" />
         <module name="captcha" />
+        <module name="springbot-common" />
         <module name="video-m3u8" />
+        <module name="springboot-dao" />
         <module name="jsp-thymeleaf" />
         <module name="zabbix" />
         <module name="seat-saga-model" />
@@ -93,7 +103,9 @@
         <module name="graylog" />
         <module name="http" />
         <module name="seata-tcc-model" />
+        <module name="schedule-quartz" />
         <module name="tika" />
+        <module name="springboot-base" />
         <module name="easy-es" />
         <module name="pulsar" />
         <module name="rabbitmq-deadqueue" />
@@ -110,8 +122,11 @@
         <module name="redis-bitmaps" />
         <module name="docker" />
         <module name="caffeine" />
+        <module name="ffmpeg-media" />
         <module name="face-detection" />
         <module name="solr" />
+        <module name="springboot-web" />
+        <module name="rq-kafka" />
         <module name="statemachine" />
         <module name="prometheus" />
         <module name="docker-plugin" />
@@ -122,6 +137,7 @@
         <module name="multidatasource-mybatis-annotation" />
         <module name="netty-protobuf" />
         <module name="multidatasource" />
+        <module name="schedule" />
         <module name="guava-retry" />
         <module name="pdf" />
         <module name="springboot-swagger2" />
@@ -149,11 +165,14 @@
         <module name="python" />
         <module name="event-mq" />
         <module name="capture-video-shot" />
+        <module name="multidatasource-read-write-sperate" />
+        <module name="jetcache" />
         <module name="hutool-fastjson" />
         <module name="retrofit" />
         <module name="mapstruct" />
         <module name="grafana" />
         <module name="session-mongodb" />
+        <module name="rocketmq-consumer" />
         <module name="springdoc" />
         <module name="logging" />
         <module name="hanlp" />
@@ -163,6 +182,8 @@
         <module name="pagehelper" />
         <module name="debezium" />
         <module name="geotools" />
+        <module name="springboot-model" />
+        <module name="websocket-demo" />
         <module name="ehcache" />
         <module name="fileupload" />
         <module name="vaadin" />
@@ -189,14 +210,17 @@
         <module name="swagger2" />
         <module name="timefold-solver" />
         <module name="xxl-job-executor-sample-frameless" />
+        <module name="swagger3" />
         <module name="gzip" />
         <module name="rabbitmq" />
         <module name="redis-lua" />
         <module name="webuploader" />
         <module name="elastic-apm" />
         <module name="mybatis-plus" />
+        <module name="dubbo-consumer-client" />
         <module name="sa-token" />
         <module name="session-jdbc" />
+        <module name="activiti-workflow" />
         <module name="nacos-dubbo-consumer" />
         <module name="mail" />
         <module name="tidb" />
@@ -204,14 +228,18 @@
         <module name="javamail" />
         <module name="redis-ratelimit" />
         <module name="multidatasource-ds-annotation" />
+        <module name="aws-iot" />
         <module name="redisson" />
         <module name="swagger" />
         <module name="docker-compose" />
         <module name="springboot-test-demo" />
+        <module name="dubbo-provider-client" />
+        <module name="rq-rabbitmq" />
         <module name="websocket" />
         <module name="mybatis-xml" />
         <module name="plate-recognition-tesseract-ocr" />
         <module name="fastdfs" />
+        <module name="schedule-quartz-group" />
         <module name="dubbo-nacos-propertysource" />
         <module name="xxl-job-admin" />
         <module name="sitemap" />
@@ -226,10 +254,13 @@
         <module name="activiti" />
         <module name="encypt" />
         <module name="gitlab" />
+        <module name="websocket-spring" />
         <module name="exceptionHandler" />
         <module name="multidatasource-jdbctemplate" />
         <module name="dynamic-sql" />
         <module name="docker-file" />
+        <module name="shardingjdbc" />
+        <module name="springboot-service" />
         <module name="webflux" />
         <module name="generator" />
         <module name="erupt-job" />
@@ -248,10 +279,14 @@
         <module name="nacos-durid" />
         <module name="arthas2" />
         <module name="rabbitmq-thymeleaf" />
+        <module name="netty-demo" />
         <module name="kafka-producer" />
+        <module name="rocketmq-producer" />
         <module name="quartz" />
         <module name="drools" />
+        <module name="elasticsearch-elasticresttemplate" />
         <module name="nacos-website" />
+        <module name="rq-kafka-producer" />
         <module name="spel" />
         <module name="async" />
         <module name="dubbo-provider" />
@@ -260,6 +295,7 @@
         <module name="tablesaw" />
         <module name="knife4j" />
         <module name="properties" />
+        <module name="opencv" />
         <module name="hikari" />
       </profile>
       <profile name="Annotation profile for rocketmq-dashboard" enabled="true">
@@ -277,11 +313,13 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="activiti" options="-parameters" />
+      <module name="activiti-workflow" options="-parameters" />
       <module name="arthas" options="-parameters" />
       <module name="arthas2" options="-parameters" />
       <module name="async" options="-parameters" />
       <module name="async-scheduled" options="-parameters" />
       <module name="atomikos" options="-parameters" />
+      <module name="aws-iot" options="-parameters" />
       <module name="caffeine" options="-parameters" />
       <module name="captcha" options="-parameters" />
       <module name="capture-video-shot" options="-parameters" />
@@ -296,11 +334,15 @@
       <module name="drone" options="-parameters" />
       <module name="drools" options="-parameters" />
       <module name="druid" options="-parameters" />
+      <module name="dubbo-consumer-client" options="-parameters" />
+      <module name="dubbo-provider-api" options="-parameters" />
+      <module name="dubbo-provider-client" options="-parameters" />
       <module name="dynamic-sql" options="-parameters" />
       <module name="easy-es" options="-parameters" />
       <module name="easy-excel" options="-parameters" />
       <module name="easypoi" options="-parameters" />
       <module name="elastic-apm" options="-parameters" />
+      <module name="elasticsearch-elasticresttemplate" options="-parameters" />
       <module name="elasticsearch-thymeleaf" options="-parameters" />
       <module name="elk" options="-parameters" />
       <module name="email-attachment" options="-parameters" />
@@ -308,6 +350,7 @@
       <module name="exceptionHandler" options="-parameters" />
       <module name="face-detection" options="-parameters" />
       <module name="fastdfs" options="-parameters" />
+      <module name="ffmpeg-media" options="-parameters" />
       <module name="file-download" options="-parameters" />
       <module name="fileupload" options="-parameters" />
       <module name="flink" options="-parameters" />
@@ -332,25 +375,31 @@
       <module name="hutool" options="-parameters" />
       <module name="itextpdf" options="-parameters" />
       <module name="jenkins" options="-parameters" />
+      <module name="jetcache" options="-parameters" />
       <module name="jsch" options="-parameters" />
       <module name="json-desensitize" options="-parameters" />
       <module name="jsonpath" options="-parameters" />
       <module name="jwt" options="-parameters" />
       <module name="kafka-thymeleaf" options="-parameters" />
       <module name="keycloak" options="-parameters" />
+      <module name="knife4j-openapi3" options="-parameters" />
       <module name="logstash" options="-parameters" />
       <module name="lombok" options="-parameters" />
       <module name="mail" options="-parameters" />
       <module name="mapstruct" options="-parameters" />
       <module name="minio" options="-parameters" />
       <module name="mockmvc" options="-parameters" />
+      <module name="mongodb-mongotemplate" options="-parameters" />
       <module name="mqtt" options="-parameters" />
+      <module name="mvc-web" options="-parameters" />
       <module name="mybatis-generator" options="-parameters" />
       <module name="nacos-durid" options="-parameters" />
       <module name="nacos-website" options="-parameters" />
       <module name="neo4j" options="-parameters" />
+      <module name="netty-demo" options="-parameters" />
       <module name="nginx-file-download" options="-parameters" />
       <module name="oauth2" options="-parameters" />
+      <module name="opencv" options="-parameters" />
       <module name="oss-rabbitmq-springtask-jwt" options="-parameters" />
       <module name="picocli" options="-parameters" />
       <module name="plate-recognition-tesseract-ocr" options="-parameters" />
@@ -368,14 +417,20 @@
       <module name="redis-om" options="-parameters" />
       <module name="redis-ratelimit" options="-parameters" />
       <module name="retrofit" options="-parameters" />
+      <module name="rocketmq-consumer" options="-parameters" />
+      <module name="rocketmq-producer" options="-parameters" />
+      <module name="rq-kafka-consumer" options="-parameters" />
+      <module name="rq-kafka-producer" options="-parameters" />
       <module name="rss" options="-parameters" />
       <module name="sa-token" options="-parameters" />
+      <module name="schedule" options="-parameters" />
       <module name="security" options="-parameters" />
       <module name="session" options="-parameters" />
       <module name="session-jdbc" options="-parameters" />
       <module name="session-mongodb" options="-parameters" />
       <module name="session-redis" options="-parameters" />
       <module name="sharding-jdbc" options="-parameters" />
+      <module name="shardingjdbc" options="-parameters" />
       <module name="sitemap" options="-parameters" />
       <module name="smartdoc" options="-parameters" />
       <module name="spel" options="-parameters" />
@@ -383,12 +438,15 @@
       <module name="spring-security" options="-parameters" />
       <module name="spring-shell" options="-parameters" />
       <module name="spring-task-scheduler" options="-parameters" />
+      <module name="springboot-starter" options="-parameters" />
       <module name="springboot-test-configproperties-demo" options="-parameters" />
       <module name="springboot-test-demo" options="-parameters" />
+      <module name="springboot-web" options="-parameters" />
       <module name="sse" options="-parameters" />
       <module name="statemachine" options="-parameters" />
       <module name="swagger" options="-parameters" />
       <module name="swagger2" options="-parameters" />
+      <module name="swagger3" options="-parameters" />
       <module name="tablesaw" options="-parameters" />
       <module name="test" options="-parameters" />
       <module name="testcontainers" options="-parameters" />

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jiabin.springboot.dao.practice.user.UserDao">
+
+    <!-- 用户查询结果 userResultMap-->
+    <resultMap id="userMap" type="com.jiabin.springboot.model.practice.entity.UserDO">
+        <result property="id" column="id"/>
+        <result property="userName" column="user_name"/>
+        <result property="userPasscode" column="user_passcode"/>
+        <result property="userEmail" column="user_email"/>
+        <result property="userInsertTime" column="user_insert_time"/>
+        <result property="userUpdateTime" column="user_update_time"/>
+        <result property="userStatus" column="user_status"/>
+        <result property="userVersion" column="user_version"/>
+        <result property="userDel" column="user_del"/>
+    </resultMap>
+
+    <!-- 用户表基础字段 -->
+    <sql id="user_base_field">
+        `id`,
+        `user_name`,
+        `user_passcode`,
+        `user_email`,
+        `user_insert_time`,
+        `user_update_time`,
+        `user_status`,
+        `user_version`,
+        `user_del`
+	</sql>
+
+    <!-- 查询用户列表 -->
+    <select id="queryListComplex" parameterType="java.util.Map" resultMap="userMap">
+        select u.id, u.user_name, u.user_passcode, u.user_email, u.user_insert_time, u.user_update_time, u.user_status,
+            u.user_version, u.user_del
+        from `user` u
+        where u.user_del = 0
+        <choose>
+            <when test="properties != null and direction.trim() != ''">
+                ORDER BY ${properties} ${direction}
+            </when>
+            <otherwise>
+                ORDER BY id DESC
+            </otherwise>
+        </choose>
+        <choose>
+            <when test="offset != null and pageLimit != null">
+                LIMIT #{offset}, #{pageLimit}
+            </when>
+            <otherwise>
+                LIMIT 0, 5
+            </otherwise>
+        </choose>
+    </select>
+
+    <!-- 统计用户列表查询条数 -->
+    <select id="countComplex" parameterType="java.util.Map" resultType="int" >
+        select count(*) counts
+        from `user`
+        where `user_del` = 0
+        <choose>
+            <when test="properties != null and direction.trim() != ''">
+                ORDER BY ${properties} ${direction}
+            </when>
+            <otherwise>
+                ORDER BY id DESC
+            </otherwise>
+        </choose>
+        <choose>
+            <when test="offset != null and pageLimit != null">
+                LIMIT #{offset}, #{pageLimit}
+            </when>
+            <otherwise>
+                LIMIT 0, 5
+            </otherwise>
+        </choose>
+    </select>
+
+    <!-- 帐号注册校验 S -->
+    <select id="signUpCheck" parameterType="com.jiabin.springboot.model.practice.entity.UserDO" resultType="int">
+        select count(*) counts
+        from `user`
+        where `user_del` = 0
+        <if test="userName != null and '' != userName">
+            and `user_name` = #{userName}
+        </if>
+    </select>
+    <!-- 帐号注册校验 E -->
+
+    <!-- 查询用户详情 S -->
+    <select id="queryObject" parameterType="com.jiabin.springboot.model.practice.entity.UserDO" resultMap="userMap">
+        select
+            <include refid="user_base_field" />
+        from `user` u
+        where `user_del` = 0
+        <if test="id != null and id &gt; 0">
+            and `id` = #{id}
+        </if>
+    </select>
+    <!-- 查询用户详情 E -->
+
+</mapper>

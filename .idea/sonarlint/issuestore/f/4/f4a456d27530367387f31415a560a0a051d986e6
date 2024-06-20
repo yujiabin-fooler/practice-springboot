@@ -1,0 +1,13 @@
+
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Á‘ª°8œÝŒý‚2
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¤ý³ñ8ŸÝŒý‚2
+b
+java:S1075@"&Remove this hard-coded path-delimiter.(â„›”J$b1f323f8-9148-4ff0-a8f6-9bea74726444
+b
+java:S1075C"&Remove this hard-coded path-delimiter.(†çØºJ$48c586ad-aac4-4234-bf96-a0998e9f5fbc
+}
+java:S1126h"AReplace this if-then-else statement by a single return statement.(úòÛ‡J$c88191b4-e3cb-4d7f-ae20-7acd46034009
+ƒ
+java:S1126º"AReplace this if-then-else statement by a single return statement.(£Ø¼´ùÿÿÿÿJ$d9781daf-595a-41f5-aca7-aedc2b4d36ba

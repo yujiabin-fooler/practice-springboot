@@ -1,0 +1,19 @@
+
+~
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄÞJ$f4daefa8-25dd-4787-8234-15a3cc4787d5
+~
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄÞJ$f2b2f716-d276-43ac-98cc-c2e0826e63e6
+}
+java:S1854D"<Remove this useless assignment to local variable "instance".(¼Ÿ´ÔüÿÿÿÿJ$4ed80168-470c-4666-97b3-9a1d1f7d3508
+n
+java:S1481D"-Remove this unused "instance" local variable.(¼Ÿ´ÔüÿÿÿÿJ$912c1e22-31b9-4a30-a376-b8dc4ac477f2
+Š
+java:S4034y"HReplace this "filter().findFirst().isPresent()" chain with "anyMatch()".(ÄÚ—8úµÔý‚2J$d4f6532f-b5b5-4673-8dc0-e7add1b8e953
+
+java:S1854¥"BRemove this useless assignment to local variable "leaveInfoParam".(Šïõ˜J$f6621c10-894e-4a23-bcb8-a5e1ab6b97cf
+p
+java:S1481¥"3Remove this unused "leaveInfoParam" local variable.(Šïõ˜J$33c23d10-0f24-4365-8144-31d1ba20bf5b
+
+java:S1854Ó"BRemove this useless assignment to local variable "leaveInfoParam".(Šïõ˜J$f4974418-39bd-484a-964e-aa09ccfaef83
+p
+java:S1481Ó"3Remove this unused "leaveInfoParam" local variable.(Šïõ˜J$925e9c4b-2c89-46fa-998a-b1755171f04c

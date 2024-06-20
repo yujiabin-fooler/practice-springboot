@@ -1,0 +1,6 @@
+
+
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¼­Ô¿úÿÿÿÿJ$55de992d-5031-4137-a6d4-036de7580495
+’	java:S116"WRename this field "QueryService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ©²çJ$a21ea940-12ff-4c04-b297-295f3cc88932
+‚
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¼­Ô¿úÿÿÿÿJ$03e7f9de-1fdd-43f3-82e0-8f2f193078bd

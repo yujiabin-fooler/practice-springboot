@@ -1,0 +1,75 @@
+## spring config
+
+# tomcat server
+server:
+  use-forward-headers: true
+  tomcat:
+    remote-ip-header: x-forwarded-for
+    protocol-header: x-forwarded-proto
+    port-header: X-Forwarded-Port
+
+# spring cloud
+eureka:
+  server:
+    eviction-interval-timer-in-ms: 60000
+  instance:
+    hostname: 127.0.0.1
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+
+## spring config
+spring:
+  # environment: dev|test|pro
+  profiles:
+    active: dev
+  # spring cloud server center ID
+  application:
+    name: demo-server
+  # datasource connect-pool
+  datasource:
+    druid:
+      type: com.alibaba.druid.pool.DruidDataSource
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      initial-size: 5
+      max-active: 20
+      max-wait: 60000
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+  # multipart file
+  servlet:
+    multipart:
+      # single file max size
+      max-file-size: 10mb
+      # multi file max size
+      max-request-size: 100mb
+  # ehcache 3
+  cache:
+    jcache:
+      config: classpath:ehcache3.xml
+  ## 异常处理
+  mvc:
+    throw-exception-if-no-handler-found: true
+  resources:
+    add-mappings: false
+
+## mybatis
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.jiabin.springboot.model.practice.entity
+
+## mybatis log
+logging:
+  level:
+    com.jiabin.springboot.dao.practice: debug
+
+## pdf export config
+pdfExport:
+  fontSimsun: static/font/simsun.ttc
+  employeeKpiFtl: templates/pdf_export_employee_kpi.ftl
+
+
+
+
