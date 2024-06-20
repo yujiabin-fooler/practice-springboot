@@ -7,6 +7,7 @@ import com.jiabin.springboot.common.practice.constant.TokenConst;
 import com.jiabin.springboot.common.practice.util.JwtUtil;
 import lombok.extern.slf4j.Slf4j;
 
+import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
