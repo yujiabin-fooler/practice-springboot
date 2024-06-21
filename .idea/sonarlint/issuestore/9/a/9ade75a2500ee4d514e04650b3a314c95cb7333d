@@ -1,0 +1,14 @@
+
+{
+java:S14881"`Immediately return this expression instead of assigning it to the temporary variable "instance".(÷šşøÿÿÿÿ
+‚
+java:S1488W"gImmediately return this expression instead of assigning it to the temporary variable "processInstance".(öû‹µúÿÿÿÿ
+x
+java:S1488¢"bImmediately return this expression instead of assigning it to the temporary variable "deployment".(ó«º
+U
+java:S1118":Add a private constructor to hide the implicit public one.(–ßïÒøÿÿÿÿ
+m
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(—’Ë§
+c
+java:S3252G"MUse static access with "cn.hutool.core.collection.CollUtil" for "isNotEmpty".(ª é¨
+A	java:S106”"+Replace this use of System.out by a logger.(Óˆ‡ş

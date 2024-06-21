@@ -1,0 +1,39 @@
+
+o
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ëİ
+t
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìş¢óùÿÿÿÿ
+t
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(õáäšûÿÿÿÿ
+o
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷±ë®
+o
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(å°š¼
+o
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(å°š¼
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ï´Áúÿÿÿÿ
+p
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(å°š¼
+Š
+java:S1192p"tDefine a constant instead of duplicating this literal "{ \"code\" : \"404\", \"message\" : \"not found\" }" 3 times.(å°š¼
+f
+java:S1192X"KDefine a constant instead of duplicating this literal "attachment" 5 times.(‹ì’©ùÿÿÿÿ
+X
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68134"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S68136"BRemove this field injection and use constructor injection instead.(êæÄŞ
+E
+java:S2140‹")Use "java.util.Random.nextInt()" instead.(Îééûÿÿÿÿ
+8
+java:S2111¢"!Use "BigDecimal.valueOf" instead.(·§âÔ
+=
+java:S2111¤"!Use "BigDecimal.valueOf" instead.(åÆ‘ÿÿÿÿÿ
+3
+java:S1116¼"Remove this empty statement.(ºÀ²Œ
+Z
+java:S4719ı">Replace charset name argument with StandardCharsets.ISO_8859_1(¦¶Ñşşÿÿÿÿ
+U
+java:S4719ı"9Replace charset name argument with StandardCharsets.UTF_8(¦¶Ñşşÿÿÿÿ

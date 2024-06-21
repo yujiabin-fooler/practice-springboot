@@ -1,0 +1,12 @@
+
+[	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(§À¼ÿ
+X
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄÞ
+S
+java:S1854`"=Remove this useless assignment to local variable "queryUtil".(™î®ë
+D
+java:S1481`".Remove this unused "queryUtil" local variable.(™î®ë
+u
+java:S2142±"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€

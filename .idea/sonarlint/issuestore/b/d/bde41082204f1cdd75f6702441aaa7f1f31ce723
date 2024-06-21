@@ -1,0 +1,18 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(èß³„øÿÿÿÿ
+w
+java:S1488n"\Immediately return this expression instead of assigning it to the temporary variable "file".(‡‹¾˜ùÿÿÿÿ
+[
+java:S2259W"EA "NullPointerException" could be thrown; "channel" is nullable here.(½¥‘ù
+a
+java:S2259}"FA "NullPointerException" could be thrown; "getFile()" can return null.(™ÛúÆúÿÿÿÿ
+]
+java:S2259•"FA "NullPointerException" could be thrown; "getFile()" can return null.(ûí•
+b
+java:S2259‰"FA "NullPointerException" could be thrown; "getFile()" can return null.(¯ƒ·Îùÿÿÿÿ
+d
+java:S2095"IUse try-with-resources or close this "InputStream" in a "finally" clause.(Ó‰‰ûşÿÿÿÿ
+h
+java:S2095M"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(òĞõÙøÿÿÿÿ
+E
+java:S2093L"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

@@ -1,0 +1,15 @@
+
+_
+java:S1192¡"HDefine a constant instead of duplicating this literal "unknown" 5 times.(Ý‰¸é
+h
+java:S1192D"MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(îŽ‚Ýúÿÿÿÿ
+?
+java:S2629C"$Invoke method(s) only conditionally.(Ž™È´úÿÿÿÿ
+?
+java:S2629O"$Invoke method(s) only conditionally.(Ž™È´úÿÿÿÿ
+h
+java:S2259:"RA "NullPointerException" could be thrown; "getRequestAttributes" is nullable here.(–”åÍ
+m
+java:S3776d"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¤»øÈùÿÿÿÿ
+n
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‚¶Üêüÿÿÿÿ

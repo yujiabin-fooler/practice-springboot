@@ -7,11 +7,38 @@
     <groupId>com.jiabin.practice</groupId>
     <artifactId>seata-at-model</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>at-api</module>
+        <module>dubbo-samples-seata</module>
+        <module>spring-dubbo-seata</module>
+        <module>spring-seata</module>
+        <module>springboot-dubbo-seata</module>
+        <module>springboot-mybatis-seata</module>
+        <module>springboot-seata</module>
+        <module>dubbo-samples-seata/dubbo-samples-seata-account</module>
+        <module>dubbo-samples-seata/dubbo-samples-seata-api</module>
+        <module>dubbo-samples-seata/dubbo-samples-seata-business</module>
+        <module>dubbo-samples-seata/dubbo-samples-seata-order</module>
+        <module>dubbo-samples-seata/dubbo-samples-seata-stock</module>
+        <module>springboot-dubbo-seata/springboot-dubbo-seata-account</module>
+        <module>springboot-dubbo-seata/springboot-dubbo-seata-business</module>
+        <module>springboot-dubbo-seata/springboot-dubbo-seata-common</module>
+        <module>springboot-dubbo-seata/springboot-dubbo-seata-order</module>
+        <module>springboot-dubbo-seata/springboot-dubbo-seata-storage</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.7.0</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
 
 </project>

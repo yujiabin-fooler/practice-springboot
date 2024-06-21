@@ -1,0 +1,11 @@
+
+[	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(é–ìÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ŸµšÜýÿÿÿÿ
+G
+java:S5855)",Remove or rework this redundant alternative.(×ÿ‹ùÿÿÿÿÿ
+g
+java:S5998'"LRefactor this repetition that can lead to a stack overflow for large inputs.(—›µÅøÿÿÿÿ
+H
+java:S6395'"-Unwrap this unnecessarily grouped subpattern.(—›µÅøÿÿÿÿ
+H
+java:S6395'"-Unwrap this unnecessarily grouped subpattern.(—›µÅøÿÿÿÿ

@@ -1,0 +1,11 @@
+
+F
+java:S2160"+Override the "equals" method in this class.(¯•¾ïûÿÿÿÿ
+h
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ø‚ãÌ
+U
+java:S1117r":Rename "offset" which hides the field declared at line 52.(ÊŞ°—ıÿÿÿÿ
+X
+java:S1117w"=Rename "direction" which hides the field declared at line 67.(ô‹ºøÿÿÿÿ
+Z
+java:S1117…">Rename "properties" which hides the field declared at line 72.(ú¾Öûÿÿÿÿ

@@ -1,0 +1,21 @@
+
+J
+java:S37400"/Provide the parametrized type for this generic.(Şô¸øÿÿÿÿ
+J
+java:S3740A"/Provide the parametrized type for this generic.(´Ã€¸øÿÿÿÿ
+J
+java:S3740R"/Provide the parametrized type for this generic.(Çñşªşÿÿÿÿ
+J
+java:S3740c"/Provide the parametrized type for this generic.(¼æó›ÿÿÿÿÿ
+€
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ
+X
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ
+^
+java:S4488,"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÑËË×
+^
+java:S4488="HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ä›¸Ğ
+^
+java:S4488N"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(”¼‘¢
+^
+java:S4488_"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(£ºÅï

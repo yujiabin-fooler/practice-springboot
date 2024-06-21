@@ -1,0 +1,6 @@
+
+Q	java:S107("<Method has 8 parameters, which is greater than 7 authorized.(™¦”„
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(άζ”σωÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(άζ”σωÿÿÿÿ

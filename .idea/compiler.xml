@@ -10,11 +10,13 @@
         <module name="kafka-thymeleaf" />
         <module name="aop" />
         <module name="sse" />
+        <module name="spring-seata-saga" />
         <module name="mongodb-mongotemplate" />
         <module name="mvc-web" />
         <module name="mybatis-generator" />
         <module name="actuator" />
         <module name="grpc-client" />
+        <module name="dubbo-samples-seata-stock" />
         <module name="springboot-test-configproperties-demo" />
         <module name="hazelcast" />
         <module name="rabbit" />
@@ -37,17 +39,21 @@
         <module name="redis-bitmap" />
         <module name="sharding-jdbc" />
         <module name="groovy" />
+        <module name="springboot-dubbo-seata-order" />
         <module name="dubbo-provider-api" />
         <module name="spring-security" />
         <module name="fastmybatis" />
         <module name="hutool" />
+        <module name="springboot-dubbo-seata" />
         <module name="grpc-protocol" />
+        <module name="spring-seata-dubbo-saga" />
         <module name="geodesy" />
         <module name="websocket-qrcode" />
         <module name="restful" />
         <module name="webrtc" />
         <module name="lucene" />
         <module name="dubbo-nacos-xml" />
+        <module name="dubbo-samples-seata-api" />
         <module name="knife4j-openapi3" />
         <module name="logback" />
         <module name="async-scheduled" />
@@ -68,6 +74,7 @@
         <module name="scheduled-task" />
         <module name="zookeeper-serviceregistry" />
         <module name="config" />
+        <module name="at-api" />
         <module name="xxl-job-core" />
         <module name="nacos-dubbo-provider" />
         <module name="protobuf" />
@@ -89,10 +96,10 @@
         <module name="springboot-dao" />
         <module name="jsp-thymeleaf" />
         <module name="zabbix" />
-        <module name="seat-saga-model" />
         <module name="test" />
         <module name="elk" />
         <module name="content-negotiation" />
+        <module name="springboot-sofarpc-seata-tcc" />
         <module name="thymeleaf" />
         <module name="spring-retry" />
         <module name="lombok" />
@@ -102,7 +109,6 @@
         <module name="druid" />
         <module name="graylog" />
         <module name="http" />
-        <module name="seata-tcc-model" />
         <module name="schedule-quartz" />
         <module name="tika" />
         <module name="springboot-base" />
@@ -118,12 +124,14 @@
         <module name="session" />
         <module name="vue-element" />
         <module name="minio" />
+        <module name="springboot-dubbo-seata-business" />
         <module name="redis-om" />
         <module name="redis-bitmaps" />
         <module name="docker" />
         <module name="caffeine" />
         <module name="ffmpeg-media" />
         <module name="face-detection" />
+        <module name="spring-dubbo-seata" />
         <module name="solr" />
         <module name="springboot-web" />
         <module name="rq-kafka" />
@@ -132,6 +140,7 @@
         <module name="docker-plugin" />
         <module name="log4j" />
         <module name="netty" />
+        <module name="springboot-feign-seata-business" />
         <module name="grpc-server" />
         <module name="guava-cache" />
         <module name="multidatasource-mybatis-annotation" />
@@ -144,7 +153,7 @@
         <module name="guava" />
         <module name="smartdoc" />
         <module name="dubbo-consumer" />
-        <module name="seata-at-model" />
+        <module name="springboot-dubbo-seata-storage" />
         <module name="kafka-consumer" />
         <module name="mockmvc" />
         <module name="nginx-file-download" />
@@ -154,7 +163,6 @@
         <module name="redis-geospatial" />
         <module name="redis" />
         <module name="dynamic-datasource" />
-        <module name="seata-xa-model" />
         <module name="file-download" />
         <module name="elasticsearch" />
         <module name="mqtt" />
@@ -165,6 +173,7 @@
         <module name="python" />
         <module name="event-mq" />
         <module name="capture-video-shot" />
+        <module name="springboot-feign-seata-storage" />
         <module name="multidatasource-read-write-sperate" />
         <module name="jetcache" />
         <module name="hutool-fastjson" />
@@ -179,11 +188,13 @@
         <module name="transactional" />
         <module name="redis-lock" />
         <module name="xxljob" />
+        <module name="springboot-seata" />
         <module name="pagehelper" />
         <module name="debezium" />
         <module name="geotools" />
         <module name="springboot-model" />
         <module name="websocket-demo" />
+        <module name="springboot-dubbo-seata-common" />
         <module name="ehcache" />
         <module name="fileupload" />
         <module name="vaadin" />
@@ -213,7 +224,9 @@
         <module name="swagger3" />
         <module name="gzip" />
         <module name="rabbitmq" />
+        <module name="spring-seata" />
         <module name="redis-lua" />
+        <module name="dubbo-samples-seata-account" />
         <module name="webuploader" />
         <module name="elastic-apm" />
         <module name="mybatis-plus" />
@@ -221,6 +234,7 @@
         <module name="sa-token" />
         <module name="session-jdbc" />
         <module name="activiti-workflow" />
+        <module name="dubbo-samples-seata-order" />
         <module name="nacos-dubbo-consumer" />
         <module name="mail" />
         <module name="tidb" />
@@ -230,6 +244,8 @@
         <module name="multidatasource-ds-annotation" />
         <module name="aws-iot" />
         <module name="redisson" />
+        <module name="springboot-feign-seata-order" />
+        <module name="springboot-dubbo-seata-account" />
         <module name="swagger" />
         <module name="docker-compose" />
         <module name="springboot-test-demo" />
@@ -241,11 +257,13 @@
         <module name="fastdfs" />
         <module name="schedule-quartz-group" />
         <module name="dubbo-nacos-propertysource" />
+        <module name="springboot-mybatis-seata" />
         <module name="xxl-job-admin" />
         <module name="sitemap" />
         <module name="dubbo-rpc" />
         <module name="package" />
         <module name="flyway" />
+        <module name="spring-dubbo-seata-tcc" />
         <module name="websocket-rabbitmq" />
         <module name="redis-hyperloglogs" />
         <module name="redis-mybatis-plus" />
@@ -264,6 +282,7 @@
         <module name="webflux" />
         <module name="generator" />
         <module name="erupt-job" />
+        <module name="dubbo-samples-seata-business" />
         <module name="mockito" />
         <module name="video-transcoding" />
         <module name="security" />
@@ -296,6 +315,7 @@
         <module name="knife4j" />
         <module name="properties" />
         <module name="opencv" />
+        <module name="springboot-feign-seata-account" />
         <module name="hikari" />
       </profile>
       <profile name="Annotation profile for rocketmq-dashboard" enabled="true">
@@ -318,6 +338,7 @@
       <module name="arthas2" options="-parameters" />
       <module name="async" options="-parameters" />
       <module name="async-scheduled" options="-parameters" />
+      <module name="at-api" options="-parameters" />
       <module name="atomikos" options="-parameters" />
       <module name="aws-iot" options="-parameters" />
       <module name="caffeine" options="-parameters" />
@@ -337,6 +358,12 @@
       <module name="dubbo-consumer-client" options="-parameters" />
       <module name="dubbo-provider-api" options="-parameters" />
       <module name="dubbo-provider-client" options="-parameters" />
+      <module name="dubbo-samples-seata" options="-parameters" />
+      <module name="dubbo-samples-seata-account" options="-parameters" />
+      <module name="dubbo-samples-seata-api" options="-parameters" />
+      <module name="dubbo-samples-seata-business" options="-parameters" />
+      <module name="dubbo-samples-seata-order" options="-parameters" />
+      <module name="dubbo-samples-seata-stock" options="-parameters" />
       <module name="dynamic-sql" options="-parameters" />
       <module name="easy-es" options="-parameters" />
       <module name="easy-excel" options="-parameters" />
@@ -434,10 +461,25 @@
       <module name="sitemap" options="-parameters" />
       <module name="smartdoc" options="-parameters" />
       <module name="spel" options="-parameters" />
+      <module name="spring-dubbo-seata" options="-parameters" />
       <module name="spring-retry" options="-parameters" />
+      <module name="spring-seata" options="-parameters" />
+      <module name="spring-seata-dubbo-saga" options="-parameters" />
+      <module name="spring-seata-saga" options="-parameters" />
       <module name="spring-security" options="-parameters" />
       <module name="spring-shell" options="-parameters" />
       <module name="spring-task-scheduler" options="-parameters" />
+      <module name="springboot-dubbo-seata-account" options="-parameters" />
+      <module name="springboot-dubbo-seata-business" options="-parameters" />
+      <module name="springboot-dubbo-seata-order" options="-parameters" />
+      <module name="springboot-dubbo-seata-storage" options="-parameters" />
+      <module name="springboot-feign-seata-account" options="-parameters" />
+      <module name="springboot-feign-seata-business" options="-parameters" />
+      <module name="springboot-feign-seata-order" options="-parameters" />
+      <module name="springboot-feign-seata-storage" options="-parameters" />
+      <module name="springboot-mybatis-seata" options="-parameters" />
+      <module name="springboot-seata" options="-parameters" />
+      <module name="springboot-sofarpc-seata-tcc" options="-parameters" />
       <module name="springboot-starter" options="-parameters" />
       <module name="springboot-test-configproperties-demo" options="-parameters" />
       <module name="springboot-test-demo" options="-parameters" />

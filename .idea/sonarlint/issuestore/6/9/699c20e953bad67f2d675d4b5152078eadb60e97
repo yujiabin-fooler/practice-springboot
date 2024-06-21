@@ -1,0 +1,61 @@
+
+p
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖŠÔ
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(«Šõœ
+u
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯º®šùÿÿÿÿ
+u
+java:S2293ç
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(õçƒæüÿÿÿÿ
+g	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€
+u
+java:S1488ß"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿ
+J
+java:S1172	"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿ
+o	java:S116Ä"TRename this field "treeType_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÔÏ´ùÿÿÿÿ
+j	java:S116ò"URename this field "plantDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¯†
+i	java:S116"SRename this field "student_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸êş£
+u	java:S116§"ZRename this field "electiveCourse_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÚ ùÿÿÿÿ
+o	java:S116Í"TRename this field "teachers_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÛª¯úÿÿÿÿ
+G
+java:S2160œ"+Override the "equals" method in this class.(«ñ¢…üÿÿÿÿ
+{
+java:S4144ª"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 1415.(×éØ
+G
+java:S1948Ä"+Make "treeType_" transient or serializable.(ÈÔÏ´ùÿÿÿÿ
+s
+java:S3077Ä"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÈÔÏ´ùÿÿÿÿ
+k	java:S116÷"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä
+j	java:S116ù"TRename this field "treeType_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¦Õÿ
+j	java:S116Ù"URename this field "plantDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¯†
+i	java:S116„"SRename this field "student_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸êş£
+p	java:S116†"ZRename this field "studentBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÌ©
+u	java:S116Ÿ"ZRename this field "electiveCourse_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÚ ùÿÿÿÿ
+w	java:S116¡"aRename this field "electiveCourseBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥ˆÏ
+j	java:S116º"TRename this field "teachers_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÃÔæ
+v	java:S116Ä"[Rename this field "teachersBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÉ¡ıÿÿÿÿ
+Z
+java:S1854½"CRemove this useless assignment to local variable "from_bitField0_".(ÆÓ¡€
+K
+java:S1481½"4Remove this unused "from_bitField0_" local variable.(ÆÓ¡€
+o
+java:S2975Ø"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185Ø"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185Ü"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185â"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185ç"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185ì"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185ò"(Remove this method to simply inherit it.(¿¸Ú©
+@
+java:S1940½")Use the opposite operator ("==") instead.(¦ÁÕ“
+E
+java:S1874ï	".Remove this use of "addAll"; it is deprecated.(ÀÒ‰Ş

@@ -451,14 +451,66 @@
     <file url="file://$PROJECT_DIR$/schedule/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scheduled-task/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scheduled-task/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seat-saga-model/spring-seata-dubbo-saga/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seat-saga-model/spring-seata-dubbo-saga/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seat-saga-model/spring-seata-saga/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seat-saga-model/spring-seata-saga/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seat-saga-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seat-saga-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/at-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/at-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-account/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-business/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-stock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/dubbo-samples-seata-stock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/dubbo-samples-seata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/spring-dubbo-seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/spring-dubbo-seata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/spring-seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/spring-seata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-account/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-business/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/springboot-dubbo-seata-storage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-dubbo-seata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-mybatis-seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-mybatis-seata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-at-model/springboot-seata/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seata-at-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seata-at-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-tcc-model/spring-dubbo-seata-tcc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-tcc-model/spring-dubbo-seata-tcc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-tcc-model/springboot-sofarpc-seata-tcc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-tcc-model/springboot-sofarpc-seata-tcc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seata-tcc-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seata-tcc-model/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seata-transaction/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seata-transaction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/springboot-feign-seata-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/springboot-feign-seata-account/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/springboot-feign-seata-business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/springboot-feign-seata-business/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/springboot-feign-seata-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/springboot-feign-seata-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/springboot-feign-seata-storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/springboot-feign-seata-storage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-xa-model/springboot-feign-seata-xa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seata-xa-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seata-xa-model/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seata/src/main/java" charset="UTF-8" />

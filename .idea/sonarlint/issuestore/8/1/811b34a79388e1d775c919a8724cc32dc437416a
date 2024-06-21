@@ -1,11 +1,11 @@
 
 Š
-java:S1192"IDefine a constant instead of duplicating this literal "password" 7 times.(ðª± þÿÿÿÿJ$6660d9e1-3837-4e42-8ddb-849fb363d0ca
+java:S1192"IDefine a constant instead of duplicating this literal "password" 7 times.(ðª± þÿÿÿÿJ$1ad487c2-df50-404c-867d-f9e3db24ba86
 ”
-java:S1192"SDefine a constant instead of duplicating this literal "GROUP_activitiTeam" 3 times.(ðª± þÿÿÿÿJ$6ead92f8-34e5-4b44-95a4-193230768b32
-T
-java:S2629*"7Use the built-in formatting to construct this argument.(ž„áÚ8Û–æ•ò1
+java:S1192"SDefine a constant instead of duplicating this literal "GROUP_activitiTeam" 3 times.(ðª± þÿÿÿÿJ$a4f79c8e-96c0-4371-97ce-948051ea78ac
+z
+java:S2629*"7Use the built-in formatting to construct this argument.(ž„áÚ8Û–æ•ò1J$e4934736-6387-4c32-9436-849047c54881
 ^
-java:S2386"Make this member "protected".(È•€þúÿÿÿÿJ$fd4340cd-f834-4a91-8528-739c58ebc3ec
-^
-java:S3457*"AFormat specifiers should be used instead of string concatenation.(ž„áÚ8 ˜æ•ò1
+java:S2386"Make this member "protected".(È•€þúÿÿÿÿJ$9526b3a0-4c6c-43c0-ba13-942df8d8fca2
+„
+java:S3457*"AFormat specifiers should be used instead of string concatenation.(ž„áÚ8 ˜æ•ò1J$060f5ab0-c17c-4c63-a95b-e8fbcbc119de

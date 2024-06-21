@@ -1,0 +1,17 @@
+
+I
+java:S1068".Remove this unused "insertTime" private field.(œœ¸ïûÿÿÿÿ
+O
+java:S1068"4Remove this unused "insertOperatorId" private field.(üÁ›âùÿÿÿÿ
+H
+java:S1068"2Remove this unused "insertIdentity" private field.(òÜë«
+D
+java:S1068".Remove this unused "updateTime" private field.(ß¨‘ø
+J
+java:S1068!"4Remove this unused "updateOperatorId" private field.(Ÿß™«
+H
+java:S1068%"2Remove this unused "updateIdentity" private field.(úÇÜü
+G
+java:S1068)",Remove this unused "versions" private field.(§üâ¨øÿÿÿÿ
+A
+java:S1068-"+Remove this unused "delSign" private field.(ÍÇ«œ

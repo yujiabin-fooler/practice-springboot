@@ -1,0 +1,188 @@
+
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖŠÔ
+o
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú†Ë`
+g	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€
+D
+java:S1604¬"(Make this anonymous inner class a lambda(¿ÙÃ±ıÿÿÿÿ
+u
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+u
+java:S1488È"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+u
+java:S1488ù
+"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+u
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+u
+java:S1488Ä"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+u
+java:S1488Š"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿ
+J
+java:S1172	"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿ
+h	java:S116k"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹±•ûÿÿÿÿ
+j	java:S116z"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ğ¸«úÿÿÿÿ
+p	java:S116¨"URename this field "birthDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êï°‹ûÿÿÿÿ
+A
+java:S2160D"+Override the "equals" method in this class.(•ìİÿ
+y
+java:S4144ğ"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 589.(èš£}
+B
+java:S1948z"'Make "name_" transient or serializable.(¥Ğ¸«úÿÿÿÿ
+r
+java:S3077z"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¥Ğ¸«úÿÿÿÿ
+i	java:S116‚"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹±•ûÿÿÿÿ
+k	java:S116­"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øá™şúÿÿÿÿ
+p	java:S116"URename this field "birthDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êï°‹ûÿÿÿÿ
+?	java:S108´")Either remove or fill this block of code.(º„ç½
+o
+java:S2975â"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185â"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185æ"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185ì"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185ñ"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185ö"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185ü"(Remove this method to simply inherit it.(¿¸Ú©
+i	java:S116Å"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹±•ûÿÿÿÿ
+l	java:S116Ô"QRename this field "grade_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ô˜øøÿÿÿÿ
+m	java:S116ã"RRename this field "number_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î€íÿÿÿÿÿ
+G
+java:S2160Ÿ"+Override the "equals" method in this class.(¨­í‰ùÿÿÿÿ
+{
+java:S4144ö"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 1107.(Æ‘üë
+i	java:S116½"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹±•ûÿÿÿÿ
+l	java:S116è"QRename this field "grade_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ô˜øøÿÿÿÿ
+m	java:S116“"RRename this field "number_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î€íÿÿÿÿÿ
+?	java:S108ï")Either remove or fill this block of code.(º„ç½
+o
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185¡"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185§"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185¬"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185±"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185·"(Remove this method to simply inherit it.(¿¸Ú©
+l	java:S116á	"QRename this field "stuId_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‚ıùÿÿÿÿ
+m	java:S116ğ	"WRename this field "courseNames_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ı™Æ
+G
+java:S2160º	"+Override the "equals" method in this class.(“óÌòüÿÿÿÿ
+€
+java:S4144æ"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 1731.(Ö†Â„üÿÿÿÿ
+E
+java:S1948ğ	".Make "courseNames_" transient or serializable.(÷ı™Æ
+k	java:S116ï"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä
+l	java:S116ñ"QRename this field "stuId_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‚ıùÿÿÿÿ
+m	java:S116œ"WRename this field "courseNames_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å±„Ê
+?	java:S108 ")Either remove or fill this block of code.(º„ç½
+Z
+java:S1854Ä"CRemove this useless assignment to local variable "from_bitField0_".(ÆÓ¡€
+K
+java:S1481Ä"4Remove this unused "from_bitField0_" local variable.(ÆÓ¡€
+o
+java:S2975Ğ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185Ğ"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185Ô"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185Ú"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185ß"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185ä"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185ê"(Remove this method to simply inherit it.(¿¸Ú©
+@
+java:S1940")Use the opposite operator ("==") instead.(¦ÁÕ“
+i	java:S116İ"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹±•ûÿÿÿÿ
+i	java:S116ì"SRename this field "student_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸êş£
+k	java:S116’"URename this field "classInfo_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹››å
+A
+java:S2160·"+Override the "equals" method in this class.(ÔŒøO
+{
+java:S4144¬"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 2569.(ÂÊ¢Ó
+i	java:S116“"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹±•ûÿÿÿÿ
+i	java:S116¾"SRename this field "student_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸êş£
+p	java:S116À"ZRename this field "studentBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÌ©
+k	java:S116Ù"URename this field "classInfo_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹››å
+r	java:S116Û"\Rename this field "classInfoBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÛ‡ï
+?	java:S108µ")Either remove or fill this block of code.(º„ç½
+o
+java:S2975ó"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185ó"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185÷"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185ı"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185‚"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185‡"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185"(Remove this method to simply inherit it.(¿¸Ú©
+e	java:S116Û"ORename this field "sex_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïò¹‚
+G
+java:S2160È"+Override the "equals" method in this class.(á´ÿüúÿÿÿÿ
+€
+java:S4144¡"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 3070.(‰Ãìøÿÿÿÿ
+Q
+java:S1133–"5Do not forget to remove this deprecated code someday.(ê½½Œùÿÿÿÿ
+j	java:S116³"ORename this field "sex_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µí‚Õüÿÿÿÿ
+?	java:S108ë")Either remove or fill this block of code.(º„ç½
+o
+java:S2975“"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185“"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185—"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185¢"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185§"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185­"(Remove this method to simply inherit it.(¿¸Ú©
+i	java:S116÷"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹±•ûÿÿÿÿ
+k	java:S116†"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ğ¸«úÿÿÿÿ
+G
+java:S2160Ğ"+Override the "equals" method in this class.(«çëåüÿÿÿÿ
+{
+java:S4144¿"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 3612.(±µ—®
+C
+java:S1948†"'Make "name_" transient or serializable.(¥Ğ¸«úÿÿÿÿ
+s
+java:S3077†"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¥Ğ¸«úÿÿÿÿ
+i	java:S116ü"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹±•ûÿÿÿÿ
+k	java:S116§"PRename this field "name_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øá™şúÿÿÿÿ
+?	java:S108±")Either remove or fill this block of code.(º„ç½
+o
+java:S2975Ü"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185Ü"(Remove this method to simply inherit it.(Îõ¾Òûÿÿÿÿ
+D
+java:S1185à"(Remove this method to simply inherit it.(ÑÍ“Ëûÿÿÿÿ
+D
+java:S1185æ"(Remove this method to simply inherit it.(Ã•Œƒüÿÿÿÿ
+D
+java:S1185ë"(Remove this method to simply inherit it.(»¤Å“ûÿÿÿÿ
+?
+java:S1185ğ"(Remove this method to simply inherit it.(§ß—¡
+?
+java:S1185ö"(Remove this method to simply inherit it.(¿¸Ú©
