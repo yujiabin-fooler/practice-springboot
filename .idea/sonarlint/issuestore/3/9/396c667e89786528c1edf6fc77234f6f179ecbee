@@ -1,0 +1,15 @@
+
+p
+java:S1192<"ZDefine a constant instead of duplicating this literal "reduceInventoryAndBalance" 4 times.(æ¯Ÿñ
+‚
+java:S1192@"gDefine a constant instead of duplicating this literal "saga transaction execute failed. XID: " 3 times.(ÙÊ»Ëşÿÿÿÿ
+\
+java:S3457A"AFormat specifiers should be used instead of string concatenation.(Áµ·ıÿÿÿÿ
+\
+java:S3457Q"AFormat specifiers should be used instead of string concatenation.(Áµ·ıÿÿÿÿ
+N
+java:S1854]"8Remove this useless assignment to local variable "inst".(æ¯Ÿñ
+W
+java:S3457i"AFormat specifiers should be used instead of string concatenation.(ãÉÌ´
+P
+java:S2274‚":Remove this call to "wait" or move it into a "while" loop.(ß­û

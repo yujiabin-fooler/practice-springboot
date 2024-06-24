@@ -1,0 +1,7 @@
+
+{
+java:S1854":Remove this useless assignment to local variable "output".(ÏÀÈËøÿÿÿÿJ$0e912e8e-8be9-4e85-819b-07e19ea2fdb7
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì´º£8Ñ³ôÍ„2
+l
+java:S1481"+Remove this unused "output" local variable.(ÏÀÈËøÿÿÿÿJ$a97b7e1a-2f6f-44cb-add9-bd249a878f80

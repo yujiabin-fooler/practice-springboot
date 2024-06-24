@@ -1,0 +1,12 @@
+
+@	java:S106("+Replace this use of System.out by a logger.(Ö•Ä¬
+I
+java:S1874/".Remove this use of "isTrue"; it is deprecated.(àÂíúÿÿÿÿÿ
+D
+java:S18740".Remove this use of "isTrue"; it is deprecated.(·ÜÄ½
+@	java:S1061"+Replace this use of System.out by a logger.(ÆÀûı
+I
+java:S1874;".Remove this use of "isTrue"; it is deprecated.(àÂíúÿÿÿÿÿ
+D
+java:S1874<".Remove this use of "isTrue"; it is deprecated.(·ÜÄ½
+@	java:S106="+Replace this use of System.out by a logger.(ÆÀûı

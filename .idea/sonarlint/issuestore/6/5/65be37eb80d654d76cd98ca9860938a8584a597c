@@ -1,0 +1,9 @@
+
+\
+java:S11926"FDefine a constant instead of duplicating this literal "jdbc." 4 times.(ÔûŸï
+2
+java:S2386-"Make this member "protected".(ú’«]
+P
+java:S1118$":Add a private constructor to hide the implicit public one.(·„¢ë
+>	java:S108f")Either remove or fill this block of code.(¢…ÊÇ
+?	java:S108†")Either remove or fill this block of code.(¢…ÊÇ

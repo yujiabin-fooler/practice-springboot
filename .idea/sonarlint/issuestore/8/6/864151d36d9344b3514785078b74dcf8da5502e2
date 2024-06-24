@@ -1,0 +1,13 @@
+
+	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ùº·Ïøÿÿÿÿ8€ÀûÏƒ2J$5614dac6-5ad9-4921-81c6-d0a606fc4531
+~
+java:S3416""6Update this logger to use "BusinessServiceImpl.class".(¬Äç¾ÿÿÿÿÿ8ŠÀûÏƒ2J$1b0367bd-bef2-451a-92bc-f660db666a50
+„
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(…ÅÑ«8¥ÀûÏƒ2J$af494fad-98ad-4224-a521-41cd167678c1
+ƒ	java:S1250"<This block of commented-out lines of code should be removed.(Ò«´°øÿÿÿÿ8§ÀûÏƒ2J$845172c0-fe1c-4245-99ca-38aff89e8267
+~	java:S1252"<This block of commented-out lines of code should be removed.(Ôöü°8¨ÀûÏƒ2J$ddd9bd24-1d1c-491a-8bd6-1bc492e0d9d7
+„
+java:S3457;"AFormat specifiers should be used instead of string concatenation.(…ÅÑ«8°ÀûÏƒ2J$3f44c042-8791-4138-b9f7-050046865e9a
+ƒ	java:S125>"<This block of commented-out lines of code should be removed.(Ò«´°øÿÿÿÿ8±ÀûÏƒ2J$c7534c37-3562-45b6-8a83-d3051a94c0d5
+m
+java:S1068("*Remove this unused "random" private field.(Ó½ñ8²ÀûÏƒ2J$0817593d-cd3c-4f9d-9fda-1ff45161abf8

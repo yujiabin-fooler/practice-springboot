@@ -1,0 +1,7 @@
+
+N
+java:S3416#"3Update this logger to use "StockServiceImpl.class".(õ’¼Öøÿÿÿÿ
+W
+java:S3457*"AFormat specifiers should be used instead of string concatenation.(¸õ´å
+Y
+java:S3878/"CDisambiguate this call by either casting as "Object" or "Object[]".(œî¶¯

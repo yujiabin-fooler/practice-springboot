@@ -1,5 +1,5 @@
 
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7c2f04af-f167-4406-a657-d3ac0e721217
-k	java:S106"+Replace this use of System.out by a logger.(¼ ¹ıÿÿÿÿJ$b15b724d-81fe-4b77-8308-7165e67ee5ed
-f	java:S106."+Replace this use of System.out by a logger.(±óŒİJ$22ed8575-edac-4686-9839-d4c54ad94c8d
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$3bd276a3-40df-400c-bb74-4e53622f8a0a
+k	java:S106"+Replace this use of System.out by a logger.(¼ ¹ıÿÿÿÿJ$f247a21e-ef02-4fba-85c7-943807dae90f
+f	java:S106."+Replace this use of System.out by a logger.(±óŒİJ$ce182d80-5444-4809-81f3-273c9905c54b

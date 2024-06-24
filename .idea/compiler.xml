@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="kafka-thymeleaf" />
+        <module name="distributed-transaction-seata" />
         <module name="aop" />
         <module name="sse" />
         <module name="spring-seata-saga" />
@@ -36,11 +37,13 @@
         <module name="email-attachment" />
         <module name="redis-geo" />
         <module name="multidatasource-mybatis-xml" />
+        <module name="distributed-transaction-seata-tcc" />
         <module name="redis-bitmap" />
         <module name="sharding-jdbc" />
         <module name="groovy" />
         <module name="springboot-dubbo-seata-order" />
         <module name="dubbo-provider-api" />
+        <module name="distributed-trasaction-saga" />
         <module name="spring-security" />
         <module name="fastmybatis" />
         <module name="hutool" />
@@ -64,6 +67,7 @@
         <module name="chatgpt" />
         <module name="prometheus-grafana" />
         <module name="rq-kafka-consumer" />
+        <module name="elasticsearch-crud" />
         <module name="activemq" />
         <module name="multipartfile-fileupload" />
         <module name="rocketmq" />
@@ -94,6 +98,8 @@
         <module name="springbot-common" />
         <module name="video-m3u8" />
         <module name="springboot-dao" />
+        <module name="distributed-tansaction-seata-xa" />
+        <module name="distributed-transaction-tcc" />
         <module name="jsp-thymeleaf" />
         <module name="zabbix" />
         <module name="test" />
@@ -102,9 +108,12 @@
         <module name="springboot-sofarpc-seata-tcc" />
         <module name="thymeleaf" />
         <module name="spring-retry" />
+        <module name="distributed-transaction-2pc" />
         <module name="lombok" />
         <module name="drone" />
         <module name="flink" />
+        <module name="webflux-handling-errors" />
+        <module name="validating-form-input" />
         <module name="weixin" />
         <module name="druid" />
         <module name="graylog" />
@@ -138,8 +147,10 @@
         <module name="statemachine" />
         <module name="prometheus" />
         <module name="docker-plugin" />
+        <module name="hbase" />
         <module name="log4j" />
         <module name="netty" />
+        <module name="groovy-groovyshell" />
         <module name="springboot-feign-seata-business" />
         <module name="grpc-server" />
         <module name="guava-cache" />
@@ -167,6 +178,7 @@
         <module name="elasticsearch" />
         <module name="mqtt" />
         <module name="atomikos" />
+        <module name="distributed-trasnsaction-rocketmq" />
         <module name="nacos-grpc" />
         <module name="https" />
         <module name="validation" />
@@ -205,6 +217,7 @@
         <module name="zookeeper-distributionlock" />
         <module name="jenkins" />
         <module name="jsonpath" />
+        <module name="elasticsearch-query" />
         <module name="graphql" />
         <module name="event" />
         <module name="globeexception" />
@@ -224,6 +237,7 @@
         <module name="swagger3" />
         <module name="gzip" />
         <module name="rabbitmq" />
+        <module name="distributed-transaction-3pc" />
         <module name="spring-seata" />
         <module name="redis-lua" />
         <module name="dubbo-samples-seata-account" />
@@ -250,6 +264,7 @@
         <module name="docker-compose" />
         <module name="springboot-test-demo" />
         <module name="dubbo-provider-client" />
+        <module name="distributed-transaction-seata-at" />
         <module name="rq-rabbitmq" />
         <module name="websocket" />
         <module name="mybatis-xml" />
@@ -264,6 +279,7 @@
         <module name="package" />
         <module name="flyway" />
         <module name="spring-dubbo-seata-tcc" />
+        <module name="data-jpa" />
         <module name="websocket-rabbitmq" />
         <module name="redis-hyperloglogs" />
         <module name="redis-mybatis-plus" />
@@ -287,6 +303,7 @@
         <module name="video-transcoding" />
         <module name="security" />
         <module name="redis-caffeine" />
+        <module name="distributed-tansaction-seata-saga" />
         <module name="multidatasource-jpa" />
         <module name="jpa" />
         <module name="torna" />
@@ -346,6 +363,7 @@
       <module name="capture-video-shot" options="-parameters" />
       <module name="compressed-files" options="-parameters" />
       <module name="content-negotiation" options="-parameters" />
+      <module name="data-jpa" options="-parameters" />
       <module name="debezium" options="-parameters" />
       <module name="disruptor" options="-parameters" />
       <module name="docker" options="-parameters" />
@@ -369,7 +387,9 @@
       <module name="easy-excel" options="-parameters" />
       <module name="easypoi" options="-parameters" />
       <module name="elastic-apm" options="-parameters" />
+      <module name="elasticsearch-crud" options="" />
       <module name="elasticsearch-elasticresttemplate" options="-parameters" />
+      <module name="elasticsearch-query" options="" />
       <module name="elasticsearch-thymeleaf" options="-parameters" />
       <module name="elk" options="-parameters" />
       <module name="email-attachment" options="-parameters" />
@@ -389,6 +409,7 @@
       <module name="grafana" options="-parameters" />
       <module name="graphql" options="-parameters" />
       <module name="graylog" options="-parameters" />
+      <module name="groovy-groovyshell" options="-parameters" />
       <module name="guava" options="-parameters" />
       <module name="guava-retry" options="-parameters" />
       <module name="gzip" options="-parameters" />
@@ -462,6 +483,7 @@
       <module name="smartdoc" options="-parameters" />
       <module name="spel" options="-parameters" />
       <module name="spring-dubbo-seata" options="-parameters" />
+      <module name="spring-dubbo-seata-tcc" options="-parameters" />
       <module name="spring-retry" options="-parameters" />
       <module name="spring-seata" options="-parameters" />
       <module name="spring-seata-dubbo-saga" options="-parameters" />
@@ -469,8 +491,10 @@
       <module name="spring-security" options="-parameters" />
       <module name="spring-shell" options="-parameters" />
       <module name="spring-task-scheduler" options="-parameters" />
+      <module name="springboot-dubbo-seata" options="-parameters" />
       <module name="springboot-dubbo-seata-account" options="-parameters" />
       <module name="springboot-dubbo-seata-business" options="-parameters" />
+      <module name="springboot-dubbo-seata-common" options="-parameters" />
       <module name="springboot-dubbo-seata-order" options="-parameters" />
       <module name="springboot-dubbo-seata-storage" options="-parameters" />
       <module name="springboot-feign-seata-account" options="-parameters" />
@@ -497,11 +521,13 @@
       <module name="timefold-solver" options="-parameters" />
       <module name="torna" options="-parameters" />
       <module name="vaadin" options="-parameters" />
+      <module name="validating-form-input" options="-parameters" />
       <module name="validation" options="-parameters" />
       <module name="vavr" options="-parameters" />
       <module name="video-m3u8" options="-parameters" />
       <module name="video-transcoding" options="-parameters" />
       <module name="webflux" options="-parameters" />
+      <module name="webflux-handling-errors" options="-parameters" />
       <module name="webrtc" options="-parameters" />
       <module name="websocket" options="-parameters" />
       <module name="websocket-jwt" options="-parameters" />

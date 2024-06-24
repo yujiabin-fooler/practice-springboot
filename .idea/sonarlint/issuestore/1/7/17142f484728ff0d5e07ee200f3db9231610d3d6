@@ -1,0 +1,12 @@
+
+f	java:S106,"+Replace this use of System.out by a logger.(Ö•Ä¬J$c46cf81b-9d55-43be-bc33-6e5446f7a195
+P
+java:S18743".Remove this use of "isTrue"; it is deprecated.(àÂíúÿÿÿÿÿ8£ïœĞƒ2
+K
+java:S18744".Remove this use of "isTrue"; it is deprecated.(·ÜÄ½8¤ïœĞƒ2
+f	java:S1065"+Replace this use of System.out by a logger.(ÆÀûıJ$8ade7beb-aa33-41c7-b339-cd28a2762ad4
+P
+java:S1874?".Remove this use of "isTrue"; it is deprecated.(àÂíúÿÿÿÿÿ8§ïœĞƒ2
+K
+java:S1874@".Remove this use of "isTrue"; it is deprecated.(·ÜÄ½8§ïœĞƒ2
+f	java:S106A"+Replace this use of System.out by a logger.(ÆÀûıJ$0295a0f1-5e4a-4802-8afc-b4dae7eb86fb

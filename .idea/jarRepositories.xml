@@ -7,6 +7,11 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="spring-snapshots" />
+      <option name="name" value="Spring Snapshots" />
+      <option name="url" value="https://repo.spring.io/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="apache.snapshots" />
       <option name="name" value="Apache Snapshot Repository" />
       <option name="url" value="https://repository.apache.org/snapshots" />
@@ -30,6 +35,11 @@
       <option name="id" value="osgeo" />
       <option name="name" value="OSGeo Release Repository" />
       <option name="url" value="https://repo.osgeo.org/repository/release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-milestones" />
+      <option name="name" value="Spring Milestones" />
+      <option name="url" value="https://repo.spring.io/libs-milestone" />
     </remote-repository>
   </component>
 </project>

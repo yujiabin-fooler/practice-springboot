@@ -1,0 +1,17 @@
+
+•
+java:S1192 "YUse already-defined constant 'BOOK_LIST_PATH_NAME' instead of duplicating its value here.(»òŸÓJ$fcc1acde-d7a5-4d42-b15d-231f6a710607
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¿¢³Í„2
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç8à¢³Í„2
+j
+java:S4488'"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ø°ÁÒøÿÿÿÿ8â¢³Í„2
+l
+java:S44883"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿ8¹£³Í„2
+e
+java:S4488>"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Š“­¤8»£³Í„2
+f
+java:S4488I"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ï˜¦8½£³Í„2
+j
+java:S4488S"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ó¼ñìûÿÿÿÿ8¾£³Í„2

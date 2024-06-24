@@ -1,0 +1,12 @@
+
+r
+java:S3008"WRename this field "BEAN_FACTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÐ»…þÿÿÿÿ
+v
+java:S1450"[Remove the "BEAN_FACTORY" field and declare it as a local variable in the relevant methods.(îÐ»…þÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(ãÚó€úÿÿÿÿ
+L
+java:S2696("6Make the enclosing method "static" or remove this set.( ÕÀ
+K
+java:S1068"0Remove this unused "BEAN_FACTORY" private field.(îÐ»…þÿÿÿÿ

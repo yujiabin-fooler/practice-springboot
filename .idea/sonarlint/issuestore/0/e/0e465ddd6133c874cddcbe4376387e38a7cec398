@@ -1,0 +1,15 @@
+
+
+java:S2629;"7Use the built-in formatting to construct this argument.(Ñ²º¹ýÿÿÿÿ8„·®Ó„2J$e90a362f-3cea-4f68-8e4f-1d9d53c0a1c9
+Ÿ
+java:S2629@"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¶Áü‘8¶Â‡×„2J$e8712bf8-f1b4-4696-a357-1f3b8e2698bb
+”	java:S116 "TRename this field "PAGE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãº“ÈýÿÿÿÿJ$275e60de-16ee-4fee-89e2-e0fa5e7d5b77
+™	java:S116!"^Rename this field "DEFAULT_PAGE_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñå»öJ$23c2c56b-6682-4221-8fcf-0a2e5d61e9b0
+™	java:S116$"YRename this field "SCORE_MODE_SUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü²ÙåþÿÿÿÿJ$076270d0-9514-40cb-8b36-4acf7d19432f
+”	java:S116%"TRename this field "MIN_SCORE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‘—¯ýÿÿÿÿJ$d49b77d2-b7cf-414e-a52e-8c323b2b81cf
+…
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄÞ8Š·®Ó„2J$0934b587-6a2e-452c-a29c-b5f3c7b1ef94
+‰
+java:S3457;"AFormat specifiers should be used instead of string concatenation.(Ñ²º¹ýÿÿÿÿ8”·®Ó„2J$22bfa572-c131-4d35-8b59-1a114dd84dfa
+„
+java:S3457@"AFormat specifiers should be used instead of string concatenation.(¶Áü‘8¸Ä‡×„2J$e1491736-8cfe-4a6e-8ba8-dd1fb18e57fa

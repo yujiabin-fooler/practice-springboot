@@ -279,6 +279,14 @@
         <option value="$PROJECT_DIR$/mongodb-mongotemplate/pom.xml" />
         <option value="$PROJECT_DIR$/rq/pom.xml" />
         <option value="$PROJECT_DIR$/web-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/groovy-groovyshell/pom.xml" />
+        <option value="$PROJECT_DIR$/webflux-handling-errors/pom.xml" />
+        <option value="$PROJECT_DIR$/validating-form-input/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch-query/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/hbase/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -1,0 +1,13 @@
+
+y
+java:S2629J"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¡ÕÖù8Æ‚œĞƒ2
+U
+java:S3416'"3Update this logger to use "OrderServiceImpl.class".(†åÈûÿÿÿÿ8Ò‚œĞƒ2
+c
+java:S34571"AFormat specifiers should be used instead of string concatenation.(Ø­ÇÒÿÿÿÿÿ8ß‚œĞƒ2
+e
+java:S3252A"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(–Øîá8å‚œĞƒ2
+^
+java:S3457J"AFormat specifiers should be used instead of string concatenation.(¡ÕÖù8æ‚œĞƒ2
+s
+java:S1172M"2Remove this unused method parameter "commodityId".(üïÓ˜şÿÿÿÿJ$4e89362e-eaae-4643-9875-d8c91d9b9763

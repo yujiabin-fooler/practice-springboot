@@ -40,12 +40,36 @@
     <file url="file://$PROJECT_DIR$/config/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/content-negotiation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/content-negotiation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/debezium/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/debezium/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/devtools/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/devtools/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/disruptor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/disruptor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-2pc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-2pc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-3pc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-3pc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/distributed-tansaction-seata-saga/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/distributed-tansaction-seata-saga/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/distributed-tansaction-seata-xa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/distributed-tansaction-seata-xa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/distributed-transaction-seata-at/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/distributed-transaction-seata-at/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/distributed-transaction-seata-tcc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/distributed-transaction-seata-tcc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-seata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-tcc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-transaction-tcc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-trasaction-saga/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-trasaction-saga/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-trasnsaction-rocketmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/distributed-trasnsaction-rocketmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distributed-transaction/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/docker-compose/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/docker-compose/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/docker-file/src/main/java" charset="UTF-8" />
@@ -93,7 +117,11 @@
     <file url="file://$PROJECT_DIR$/elastic-apm/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elastic-job/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elastic-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticsearch-crud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticsearch-crud/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elasticsearch-elasticresttemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticsearch-query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticsearch-query/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elasticsearch-thymeleaf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elasticsearch-thymeleaf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/elasticsearch/src/main/java" charset="UTF-8" />
@@ -148,6 +176,8 @@
     <file url="file://$PROJECT_DIR$/graphql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/graylog/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/graylog/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/groovy-groovyshell/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/groovy-groovyshell/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/groovy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/groovy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/grpc-nacos/src/main/java" charset="UTF-8" />
@@ -174,6 +204,8 @@
     <file url="file://$PROJECT_DIR$/hanlp/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hazelcast/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hazelcast/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/healthindicator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/healthindicator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hikari/src/main/java" charset="UTF-8" />
@@ -587,6 +619,8 @@
     <file url="file://$PROJECT_DIR$/transactional/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vaadin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vaadin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validating-form-input/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validating-form-input/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/validation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/validation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vavr/src/main/java" charset="UTF-8" />
@@ -611,6 +645,8 @@
     <file url="file://$PROJECT_DIR$/web-mvc/springbot-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web-mvc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web-mvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webflux-handling-errors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webflux-handling-errors/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webflux/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webflux/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webrtc/src/main/java" charset="UTF-8" />
