@@ -1,0 +1,16 @@
+
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>首页</title>
+</head>
+<body>
+<h1>新闻首页</h1>
+<div th:each="article : ${newsList}">
+    <h2 th:text="${article.title}"></h2>
+    <p th:text="${article.summary}"></p>
+</div>
+</body>
+</html>
+

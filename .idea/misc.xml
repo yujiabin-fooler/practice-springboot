@@ -287,6 +287,8 @@
         <option value="$PROJECT_DIR$/elasticsearch-query/pom.xml" />
         <option value="$PROJECT_DIR$/elasticsearch-crud/pom.xml" />
         <option value="$PROJECT_DIR$/hbase/pom.xml" />
+        <option value="$PROJECT_DIR$/canal/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

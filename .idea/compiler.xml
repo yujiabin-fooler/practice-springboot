@@ -14,12 +14,14 @@
         <module name="spring-seata-saga" />
         <module name="mongodb-mongotemplate" />
         <module name="mvc-web" />
+        <module name="redis-cache" />
         <module name="mybatis-generator" />
         <module name="actuator" />
         <module name="grpc-client" />
         <module name="dubbo-samples-seata-stock" />
         <module name="springboot-test-configproperties-demo" />
         <module name="hazelcast" />
+        <module name="redis-social-activities" />
         <module name="rabbit" />
         <module name="springboot-starter" />
         <module name="wechat-mp" />
@@ -52,6 +54,7 @@
         <module name="spring-seata-dubbo-saga" />
         <module name="geodesy" />
         <module name="websocket-qrcode" />
+        <module name="redis-real-time-analysis" />
         <module name="restful" />
         <module name="webrtc" />
         <module name="lucene" />
@@ -63,6 +66,7 @@
         <module name="freemarker" />
         <module name="rss" />
         <module name="devtools" />
+        <module name="canal" />
         <module name="hana" />
         <module name="chatgpt" />
         <module name="prometheus-grafana" />
@@ -71,10 +75,12 @@
         <module name="activemq" />
         <module name="multipartfile-fileupload" />
         <module name="rocketmq" />
+        <module name="redis-geographic-location-info" />
         <module name="mq-rabbit" />
         <module name="healthindicator" />
         <module name="neo4j" />
         <module name="http2-ssl" />
+        <module name="redis-rate-limit" />
         <module name="scheduled-task" />
         <module name="zookeeper-serviceregistry" />
         <module name="config" />
@@ -93,17 +99,22 @@
         <module name="mycat" />
         <module name="websocket-jwt" />
         <module name="postgre" />
+        <module name="redis-task-scheduling" />
         <module name="compressed-files" />
         <module name="captcha" />
         <module name="springbot-common" />
         <module name="video-m3u8" />
+        <module name="redis-persistence" />
         <module name="springboot-dao" />
         <module name="distributed-tansaction-seata-xa" />
         <module name="distributed-transaction-tcc" />
         <module name="jsp-thymeleaf" />
+        <module name="redis-message-queue" />
         <module name="zabbix" />
         <module name="test" />
+        <module name="redis-ranking-list" />
         <module name="elk" />
+        <module name="redis-session-storage" />
         <module name="content-negotiation" />
         <module name="springboot-sofarpc-seata-tcc" />
         <module name="thymeleaf" />
@@ -181,6 +192,7 @@
         <module name="distributed-trasnsaction-rocketmq" />
         <module name="nacos-grpc" />
         <module name="https" />
+        <module name="redis-full-page-cache" />
         <module name="validation" />
         <module name="python" />
         <module name="event-mq" />
@@ -188,6 +200,7 @@
         <module name="springboot-feign-seata-storage" />
         <module name="multidatasource-read-write-sperate" />
         <module name="jetcache" />
+        <module name="redis-data-sharing" />
         <module name="hutool-fastjson" />
         <module name="retrofit" />
         <module name="mapstruct" />
@@ -206,7 +219,9 @@
         <module name="geotools" />
         <module name="springboot-model" />
         <module name="websocket-demo" />
+        <module name="redis-time-series-data" />
         <module name="springboot-dubbo-seata-common" />
+        <module name="redis-distribution-lock" />
         <module name="ehcache" />
         <module name="fileupload" />
         <module name="vaadin" />
@@ -235,6 +250,7 @@
         <module name="timefold-solver" />
         <module name="xxl-job-executor-sample-frameless" />
         <module name="swagger3" />
+        <module name="redis-data-out-of-date" />
         <module name="gzip" />
         <module name="rabbitmq" />
         <module name="distributed-transaction-3pc" />
@@ -252,6 +268,7 @@
         <module name="nacos-dubbo-consumer" />
         <module name="mail" />
         <module name="tidb" />
+        <module name="redis-publish-subscribe" />
         <module name="mybatis-annotation" />
         <module name="javamail" />
         <module name="redis-ratelimit" />
@@ -273,6 +290,7 @@
         <module name="schedule-quartz-group" />
         <module name="dubbo-nacos-propertysource" />
         <module name="springboot-mybatis-seata" />
+        <module name="redis-real-time-push" />
         <module name="xxl-job-admin" />
         <module name="sitemap" />
         <module name="dubbo-rpc" />
@@ -460,10 +478,27 @@
       <module name="rabbit" options="-parameters" />
       <module name="rabbitmq-deadqueue" options="-parameters" />
       <module name="rabbitmq-thymeleaf" options="-parameters" />
+      <module name="redis-cache" options="-parameters" />
+      <module name="redis-data-out-of-date" options="-parameters" />
+      <module name="redis-data-sharing" options="-parameters" />
+      <module name="redis-distribution-lock" options="-parameters" />
+      <module name="redis-full-page-cache" options="-parameters" />
+      <module name="redis-geographic-location-info" options="-parameters" />
       <module name="redis-jpa" options="-parameters" />
+      <module name="redis-message-queue" options="-parameters" />
       <module name="redis-mybatis-plus" options="-parameters" />
       <module name="redis-om" options="-parameters" />
+      <module name="redis-persistence" options="-parameters" />
+      <module name="redis-publish-subscribe" options="-parameters" />
+      <module name="redis-ranking-list" options="-parameters" />
+      <module name="redis-rate-limit" options="-parameters" />
       <module name="redis-ratelimit" options="-parameters" />
+      <module name="redis-real-time-analysis" options="-parameters" />
+      <module name="redis-real-time-push" options="-parameters" />
+      <module name="redis-session-storage" options="-parameters" />
+      <module name="redis-social-activities" options="-parameters" />
+      <module name="redis-task-scheduling" options="-parameters" />
+      <module name="redis-time-series-data" options="-parameters" />
       <module name="retrofit" options="-parameters" />
       <module name="rocketmq-consumer" options="-parameters" />
       <module name="rocketmq-producer" options="-parameters" />

@@ -1,0 +1,21 @@
+
+l
+java:S1192E"QDefine a constant instead of duplicating this literal "redirect:/users/" 3 times.(êİ—úÿÿÿÿ
+d
+java:S11921"IDefine a constant instead of duplicating this literal "userForm" 4 times.(Úü£ûÿÿÿÿ
+b
+java:S11920"GDefine a constant instead of duplicating this literal "action" 4 times.(ÑúÂ°ıÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+^
+java:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+c
+java:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ø°ÁÒøÿÿÿÿ
+e
+java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿ
+^
+java:S4488N"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Š“­¤
+_
+java:S4488Y"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ï˜¦
+i
+java:S4488j"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ıº²Ãùÿÿÿÿ

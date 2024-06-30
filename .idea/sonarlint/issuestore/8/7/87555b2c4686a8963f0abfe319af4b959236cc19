@@ -1,0 +1,8 @@
+
+¢
+java:S14886"_Immediately return this expression instead of assigning it to the temporary variable "fileUrl".(ýû­’8¹¿®ë„2J$e1c2e9be-69f0-4be3-92b0-1859b9fb10be
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Ï¿®ë„2J$ced8c9d3-eb45-4410-9bd1-dc77cf9f9ee3
+‚
+java:S4719.":Replace Charset.forName() call with StandardCharsets.UTF_8(ÊÓÚäùÿÿÿÿ8Û¿®ë„2J$25fc9e8d-54a6-4f51-8093-b67c9a24dbc2
+ƒ	java:S125M"<This block of commented-out lines of code should be removed.(¶üÕˆøÿÿÿÿ8ã¿®ë„2J$d554ea45-647c-46df-8528-5bdedec6f13e
