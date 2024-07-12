@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 后台用户与角色管理自定义Dao
- * Created by macro on 2018/10/8.
+ * @author jiabin.yu 2018/10/8.
  */
 public interface UmsAdminRoleRelationDao {
 

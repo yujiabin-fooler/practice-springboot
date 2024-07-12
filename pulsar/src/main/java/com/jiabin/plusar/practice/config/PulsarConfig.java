@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * Pulsar配置类
- * Created by macro on 2021/5/21.
+ * @author jiabin.yu 2021/5/21.
  */
 @Configuration
 public class PulsarConfig {

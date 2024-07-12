@@ -6,7 +6,7 @@ import com.jiabin.easypoi.practice.domain.Member;
 
 /**
  * 自定义字段处理
- * Created by macro on 2021/10/13.
+ * @author jiabin.yu 2021/10/13.
  */
 public class MemberExcelDataHandler extends ExcelDataHandlerDefaultImpl<Member> {
 

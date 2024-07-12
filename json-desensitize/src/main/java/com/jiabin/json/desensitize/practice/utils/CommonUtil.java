@@ -1,7 +1,7 @@
 package com.jiabin.json.desensitize.practice.utils;
 
 /**
- * @author shiva   2022-09-17 16:35
+ * @author jiabin.yu   2022-09-17 16:35
  */
 public class CommonUtil {
     /**

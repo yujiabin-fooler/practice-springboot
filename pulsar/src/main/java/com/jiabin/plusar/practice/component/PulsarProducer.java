@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * Pulsar消息生产者
- * Created by macro on 2021/5/19.
+ * @author jiabin.yu 2021/5/19.
  */
 @Component
 public class PulsarProducer {

@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.*;
 
 /**
  * HttpInterface测试接口
- * Created by macro on 2022/1/19.
+ * @author jiabin.yu 2022/1/19.
  */
 @RestController
 @Api(tags = "HttpInterfaceController")

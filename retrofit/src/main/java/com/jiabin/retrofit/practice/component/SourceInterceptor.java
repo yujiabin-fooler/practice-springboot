@@ -9,7 +9,7 @@ import java.io.IOException;
 
 /**
  * 全局拦截器，给请求添加source头
- * Created by macro on 2022/1/19.
+ * @author jiabin.yu 2022/1/19.
  */
 @Component
 public class SourceInterceptor extends BaseGlobalInterceptor {

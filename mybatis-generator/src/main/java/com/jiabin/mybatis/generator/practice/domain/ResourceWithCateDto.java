@@ -4,7 +4,7 @@ import com.jiabin.mybatis.generator.practice.mbg.model.UmsResource;
 import com.jiabin.mybatis.generator.practice.mbg.model.UmsResourceCategory;
 
 /**
- * Created by macro on 2020/12/9.
+ * @author jiabin.yu 2020/12/9.
  */
 public class ResourceWithCateDto extends UmsResource {
     private UmsResourceCategory resourceCategory;

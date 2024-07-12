@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * 搜索中的商品信息
- * Created by macro on 2018/6/19.
+ * @author jiabin.yu 2018/6/19.
  */
 @Document(indexName = "pms", type = "product",shards = 1,replicas = 0)
 public class EsProduct implements Serializable {

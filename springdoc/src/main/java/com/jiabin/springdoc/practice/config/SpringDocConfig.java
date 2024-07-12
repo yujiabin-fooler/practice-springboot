@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * SpringDoc API文档相关配置
- * Created by macro on 2022/3/4.
+ * @author jiabin.yu 2022/3/4.
  */
 @Configuration
 public class SpringDocConfig {

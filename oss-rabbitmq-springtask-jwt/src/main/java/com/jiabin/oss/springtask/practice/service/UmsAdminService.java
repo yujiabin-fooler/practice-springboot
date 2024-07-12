@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 后台管理员Service
- * Created by macro on 2018/4/26.
+ * @author jiabin.yu 2018/4/26.
  */
 public interface UmsAdminService {
     /**

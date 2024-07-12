@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * EasyEs配置类
- * Created by macro on 2022/9/16.
+ * @author jiabin.yu 2022/9/16.
  */
 @Configuration
 @EsMapperScan("com.jiabin.easy.es.practice")

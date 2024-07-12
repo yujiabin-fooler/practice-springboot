@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import xyz.erupt.core.annotation.EruptScan;
 
 /**
- * Created by macro on 2021/4/13.
+ * @author jiabin.yu 2021/4/13.
  */
 @Configuration
 @ComponentScan({"xyz.erupt","com.jiabin.erupt.job.practice"})

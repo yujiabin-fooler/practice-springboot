@@ -7,7 +7,7 @@ import com.nimbusds.jose.jwk.RSAKey;
 import java.text.ParseException;
 
 /**
- * Created by macro on 2020/6/22.
+ * @author jiabin.yu 2020/6/22.
  */
 public interface JwtTokenService {
 

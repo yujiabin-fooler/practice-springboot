@@ -17,7 +17,7 @@ import java.util.Optional;
 
 /**
  * 使用Redis OM管理商品
- * Created by macro on 2022/3/1.
+ * @author jiabin.yu 2022/3/1.
  */
 @RestController
 @Api(tags = "ProductController", description = "使用Redis OM管理商品")

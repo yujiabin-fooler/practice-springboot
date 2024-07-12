@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * Created by macro on 2020/9/16.
+ * @author jiabin.yu 2020/9/16.
  */
 @Controller
 @RequestMapping("/page")

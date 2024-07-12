@@ -5,7 +5,7 @@ import lombok.EqualsAndHashCode;
 
 /**
  * 登录信息封装
- * Created by macro on 2022/1/19.
+ * @author jiabin.yu 2022/1/19.
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

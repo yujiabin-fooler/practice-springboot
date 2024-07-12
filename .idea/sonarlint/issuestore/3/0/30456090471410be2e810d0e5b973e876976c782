@@ -1,0 +1,8 @@
+
+‡
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8¿¬Îä‡2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Á¬Îä‡2
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(à‰ºÐúÿÿÿÿ8Ê¬Îä‡2
+|	java:S125"<This block of commented-out lines of code should be removed.(Ã×’øÿÿÿÿJ$41545af3-01f7-4064-9143-4f2b2d35a4f9

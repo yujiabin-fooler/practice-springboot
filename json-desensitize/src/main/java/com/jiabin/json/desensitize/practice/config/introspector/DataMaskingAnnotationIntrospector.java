@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.introspect.NopAnnotationIntrospector;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author shiva   2022-09-17 23:29
+ * @author jiabin.yu   2022-09-17 23:29
  */
 @Slf4j
 public class DataMaskingAnnotationIntrospector extends NopAnnotationIntrospector {

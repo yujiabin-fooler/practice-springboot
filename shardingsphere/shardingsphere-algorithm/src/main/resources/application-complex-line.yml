@@ -1,0 +1,75 @@
+spring:
+  shardingsphere:
+    # 数据源配置
+    datasource:
+      # 数据源名称，多数据源以逗号分隔 ,放在第一个的数据源为未配置分片规则表的默认数据源
+      names: db0 , db1
+      # 名称与上边 names 保持一致
+      db0:
+        type: com.zaxxer.hikari.HikariDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        jdbc-url: jdbc:mysql://127.0.0.1:3306/db0?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+        username: root
+        password: 123456
+      db1:
+        type: com.zaxxer.hikari.HikariDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        jdbc-url: jdbc:mysql://127.0.0.1:3306/db1?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+        username: root
+        password: 123456
+    # 具体规则配置
+    rules:
+      sharding:
+        # 自动分片表规则配置
+#        auto-tables:
+#          t_order:
+#            actual-data-sources: db$->{0..1}
+#            sharding-strategy:
+#              standard:
+#                sharding-column: order_id
+#                sharding-algorithm-name: t_order_database_complex_inline_algorithms
+        # 分片算法定义
+        sharding-algorithms:
+          t_order_database_complex_inline_algorithms:
+            type: complex_inline
+            props:
+              sharding-columns: order_id, user_id # 分片列名称，多个列用逗号分隔。
+              algorithm-expression: db$->{(order_id + user_id) % 2} # 分片算法的行表达式
+              allow-range-query-with-inline-sharding: false # 是否允许范围查询。注意：范围查询会无视分片策略，进行全路由，默认 false
+          t_order_table_complex_inline:
+            type: COMPLEX_INLINE
+            props:
+              sharding-columns: order_id, user_id # 分片列名称，多个列用逗号分隔。
+              algorithm-expression: t_order_$->{ (order_id + user_id) % 3 } # 分片算法的行表达式
+              allow-range-query-with-inline-sharding: false # 是否允许范围查询。注意：范围查询会无视分片策略，进行全路由，默认 false
+        # 分布式序列算法配置
+        key-generators:
+          t_order_snowflake:
+            # 分布式序列算法（雪花算法：SNOWFLAKE； UUID：UUID）（注：UUID没有props配置）
+            type: SNOWFLAKE
+            # 分布式序列算法属性配置
+            props:
+              # 工作机器唯一标识
+              worker-id: 1
+        tables:
+          # 逻辑表名称
+          t_order:
+            # 数据节点：数据库.分片表
+            actual-data-nodes: db$->{0..1}.t_order_${0..2}
+            # 分库策略
+            database-strategy:
+              complex:
+                shardingColumns: order_id, user_id
+                sharding-algorithm-name: t_order_database_complex_inline_algorithms
+            # 分表策略
+            table-strategy:
+              complex:
+                shardingColumns: order_id, user_id
+                sharding-algorithm-name: t_order_table_complex_inline
+            keyGenerateStrategy:
+              column: id
+              keyGeneratorName: t_order_snowflake
+    # 属性配置
+    props:
+      # 展示修改以后的sql语句
+      sql-show: true

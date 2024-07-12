@@ -6,7 +6,7 @@ import com.jiabin.dynamic.sql.practice.mbg.model.UmsRole;
 import java.util.List;
 
 /**
- * Created by macro on 2020/12/9.
+ * @author jiabin.yu 2020/12/9.
  */
 public class AdminRoleDto extends UmsAdmin {
 

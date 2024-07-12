@@ -7,7 +7,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
 /**
- * Created by macro on 2020/12/16.
+ * @author jiabin.yu 2020/12/16.
  */
 public class CleanupExample {
     public static void main(String[] args) throws IOException {

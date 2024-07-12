@@ -8,7 +8,7 @@ import lombok.EqualsAndHashCode;
 import java.util.List;
 
 /**
- * Created by macro on 2020/6/22.
+ * @author jiabin.yu 2020/6/22.
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

@@ -26,7 +26,7 @@ import static org.mybatis.dynamic.sql.SqlBuilder.*;
 
 /**
  * 后台用户管理Service实现类
- * Created by macro on 2020/12/8.
+ * @author jiabin.yu 2020/12/8.
  */
 @Service
 public class UmsAdminServiceImpl implements UmsAdminService {

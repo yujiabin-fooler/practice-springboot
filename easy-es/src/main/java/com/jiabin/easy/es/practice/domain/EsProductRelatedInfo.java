@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 搜索商品的关联信息，包括品牌名称，分类名称及属性
- * Created by macro on 2018/6/27.
+ * @author jiabin.yu 2018/6/27.
  */
 @Data
 @EqualsAndHashCode

@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author shiva   2022/3/13 22:40
+ * @author jiabin.yu   2022/3/13 22:40
  */
 @Data
 public class ActProcess implements Serializable {

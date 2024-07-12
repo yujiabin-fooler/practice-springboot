@@ -1,7 +1,7 @@
 package com.jiabin.activiti.practice.utils;
 
 /**
- * @author shiva   2022/3/15 23:04
+ * @author jiabin.yu   2022/3/15 23:04
  */
 public enum WorkflowTypeEnum {
 

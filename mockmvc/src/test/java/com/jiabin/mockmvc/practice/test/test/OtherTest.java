@@ -12,7 +12,7 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 
 /**
  * JUnit其他测试
- * Created by macro on 2022/10/10.
+ * @author jiabin.yu 2022/10/10.
  */
 @ExtendWith(SpringExtension.class)
 public class OtherTest {

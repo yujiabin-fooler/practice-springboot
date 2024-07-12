@@ -1,0 +1,16 @@
+
+†
+java:S1192E"JDefine a constant instead of duplicating this literal "C:\\a.jpg" 3 times.(¢ÛœõJ$7212c3bb-9680-4186-8d52-2e4da4302fec
+š
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "upload".(›áêàJ$f1343d8f-4d57-4f5b-8c4f-493efaa861bb
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8±éÏä‡2
+u
+java:S1854B"9Remove this useless assignment to local variable "bytes".(”›¦âJ$9049a48d-5a00-42bd-8ad2-87488a71e3d9
+f
+java:S1481B"*Remove this unused "bytes" local variable.(”›¦âJ$83522594-7286-44c3-a1b2-8b6aeb974737
+s
+java:S1135M"2Complete the task associated to this TODO comment.(íÙíııÿÿÿÿJ$7b1532c2-33fe-422a-8169-5cf97519374b
+f	java:S106Z"+Replace this use of System.out by a logger.(àı–ôJ$a25f89cc-f485-46b4-9c1d-a6ca1c1fde05
+f	java:S106_"+Replace this use of System.out by a logger.(õı‚åJ$05c89347-762a-4007-bdeb-aa8b6e201079
+k	java:S106d"+Replace this use of System.out by a logger.(óÅÖúÿÿÿÿJ$c7d4e323-db0c-45ac-b87a-1fa18f6d1332

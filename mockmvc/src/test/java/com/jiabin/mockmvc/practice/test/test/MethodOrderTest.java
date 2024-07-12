@@ -9,7 +9,7 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 
 /**
  * JUnit指定方法测试顺序
- * Created by macro on 2022/10/10.
+ * @author jiabin.yu 2022/10/10.
  */
 @ExtendWith(SpringExtension.class)
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)

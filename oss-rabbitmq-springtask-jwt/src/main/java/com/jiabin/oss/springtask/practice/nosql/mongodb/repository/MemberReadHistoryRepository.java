@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 会员商品浏览历史Repository
- * Created by macro on 2018/8/3.
+ * @author jiabin.yu 2018/8/3.
  */
 public interface MemberReadHistoryRepository extends MongoRepository<MemberReadHistory,String> {
     /**

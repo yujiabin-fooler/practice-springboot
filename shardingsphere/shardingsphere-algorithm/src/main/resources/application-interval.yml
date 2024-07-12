@@ -1,0 +1,59 @@
+spring:
+  shardingsphere:
+    # 数据源配置
+    datasource:
+      # 数据源名称，多数据源以逗号分隔 ,放在第一个的数据源为未配置分片规则表的默认数据源
+      names: db0 , db1
+      # 名称与上边 names 保持一致
+      db0:
+        type: com.zaxxer.hikari.HikariDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        jdbc-url: jdbc:mysql://127.0.0.1:3306/db0?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+        username: root
+        password: 123456
+      db1:
+        type: com.zaxxer.hikari.HikariDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        jdbc-url: jdbc:mysql://127.0.0.1:3306/db1?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+        username: root
+        password: 123456
+    # 具体规则配置
+    rules:
+      sharding:
+        # 分片算法定义
+        sharding-algorithms:
+          t_order_database_mod:
+            type: MOD
+            props:
+              sharding-count: 2 # 指定分片数量
+          t_order_table_interval:
+            type: INTERVAL
+            props:
+              datetime-pattern: "yyyy-MM-dd HH:mm:ss"  # 分片字段格式
+              datetime-lower: "2024-01-01 00:00:00"  # 范围下限
+              datetime-upper: "2024-06-30 23:59:59"  # 范围上限
+              sharding-suffix-pattern: "yyyyMM"  # 分片名后缀，可以是MM，yyyyMMdd等。
+              datetime-interval-amount: 1  # 分片间隔，这里指一个月
+              datetime-interval-unit: "MONTHS" # 分片间隔单位
+        tables:
+          # 逻辑表名称
+          t_order:
+            # 数据节点：数据库.分片表
+            actual-data-nodes: db$->{0..1}.t_order_${202401..202406}
+            # 分库策略
+            database-strategy:
+              standard:
+                sharding-column: order_id
+                sharding-algorithm-name: t_order_database_mod
+            # 分表策略
+            table-strategy:
+              standard:
+                sharding-column: interval_value
+                sharding-algorithm-name: t_order_table_interval
+            keyGenerateStrategy:
+              column: id
+              keyGeneratorName: t_order_snowflake
+    # 属性配置
+    props:
+      # 展示修改以后的sql语句
+      sql-show: true

@@ -3,7 +3,7 @@ package com.jiabin.lombok.practice.example;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * Created by macro on 2020/12/17.
+ * @author jiabin.yu 2020/12/17.
  */
 @Slf4j
 public class LogSlf4jExample {

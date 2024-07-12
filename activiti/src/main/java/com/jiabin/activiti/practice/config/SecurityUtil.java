@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 import java.util.Collection;
 
 /**
- * @author shiva   2022/2/26 12:16
+ * @author jiabin.yu   2022/2/26 12:16
  */
 @Component
 public class SecurityUtil {

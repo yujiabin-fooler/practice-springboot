@@ -2,7 +2,7 @@ package com.jiabin.oss.springtask.practice.dto;
 
 /**
  * 生成订单时传入的参数
- * Created by macro on 2018/8/30.
+ * @author jiabin.yu 2018/8/30.
  */
 public class OrderParam {
     //收货地址id

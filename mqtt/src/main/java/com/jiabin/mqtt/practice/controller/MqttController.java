@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * MQTT测试接口
- * Created by macro on 2020/9/15.
+ * @author jiabin.yu 2020/9/15.
  */
 @Api(tags = "MqttController", description = "MQTT测试接口")
 @RestController

@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author shiva   2022/3/13 21:51
+ * @author jiabin.yu   2022/3/13 21:51
  */
 @Data
 public class EmployeeBO implements Serializable {

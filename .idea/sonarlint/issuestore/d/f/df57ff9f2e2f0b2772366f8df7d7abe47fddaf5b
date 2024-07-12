@@ -1,0 +1,9 @@
+
+‡
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8˜‘ÿ‘‡2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ö’ÿ‘‡2
+~
+java:S18541"=Remove this useless assignment to local variable "orderInfo".(ÑÉ¸ûþÿÿÿÿJ$b43f9953-cb0d-43b9-bf76-b5a9804cc0bd
+w	java:S125("<This block of commented-out lines of code should be removed.(ó¬†ÁJ$6a825b4f-eefa-460e-ad85-4cfa853d0ed5
+|	java:S1254"<This block of commented-out lines of code should be removed.(ªõÔÆüÿÿÿÿJ$837800e0-d72d-453b-8f31-4945d045186f

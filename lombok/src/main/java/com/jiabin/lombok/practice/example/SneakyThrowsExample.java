@@ -5,7 +5,7 @@ import lombok.SneakyThrows;
 import java.io.UnsupportedEncodingException;
 
 /**
- * Created by macro on 2020/12/17.
+ * @author jiabin.yu 2020/12/17.
  */
 public class SneakyThrowsExample {
 

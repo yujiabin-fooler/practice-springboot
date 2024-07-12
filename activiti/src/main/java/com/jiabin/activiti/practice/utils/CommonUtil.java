@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import java.util.UUID;
 
 /**
- * @author shiva   2022/3/15 22:47
+ * @author jiabin.yu   2022/3/15 22:47
  */
 @Component
 public class CommonUtil {

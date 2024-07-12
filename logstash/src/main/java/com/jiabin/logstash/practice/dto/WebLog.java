@@ -2,7 +2,7 @@ package com.jiabin.logstash.practice.dto;
 
 /**
  * Controller层的日志封装类
- * Created by macro on 2018/4/26.
+ * @author jiabin.yu 2018/4/26.
  */
 public class WebLog {
     /**

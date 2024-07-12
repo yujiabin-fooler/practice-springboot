@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * 商品
- * Created by macro on 2021/10/12.
+ * @author jiabin.yu 2021/10/12.
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

@@ -9,7 +9,7 @@ import com.alibaba.excel.metadata.data.WriteCellData;
 
 /**
  * excel性别转换器
- * Created by macro on 2021/12/29.
+ * @author jiabin.yu 2021/12/29.
  */
 public class GenderConverter implements Converter<Integer> {
     @Override

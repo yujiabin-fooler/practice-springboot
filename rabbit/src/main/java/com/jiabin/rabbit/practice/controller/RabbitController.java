@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by macro on 2020/5/19.
+ * @author jiabin.yu 2020/5/19.
  */
 @Api(tags = "RabbitController", description = "RabbitMQ功能测试")
 @Controller

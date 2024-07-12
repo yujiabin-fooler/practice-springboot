@@ -1,0 +1,21 @@
+
+™	java:S135]"YReduce the total number of break and continue statements in this loop to use at most one.(ØëßéıÿÿÿÿJ$65598317-bd39-43b9-8961-9fdbd06bb299
+š	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İù·üÿÿÿÿJ$9c235279-9fe7-4d52-8c24-2baf99d533a5
+•	java:S1154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÀÎùäJ$d4a4b95e-6fcf-4189-8a9d-c4b28767613c
+š	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷£è“üÿÿÿÿJ$ef659047-68a1-43fe-a723-34ef8dddf2eb
+š
+java:S2142q"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$f5475c26-7e8e-45d9-94b4-04f161953a96
+t
+java:S1172£"7Remove this unused method parameter "currentTableName".(ùŠ£şJ$1b46975c-07e2-4342-a70c-f32611e0c037
+o
+java:S1135§"2Complete the task associated to this TODO comment.(Ë‘¸âJ$a8dc90d9-843b-4d08-9622-ee73aff2e046
+q
+java:S2864¸"4Iterate over the "entrySet" instead of the "keySet".(‘°ÌJ$5747f1af-3d93-44ec-a17e-3c2889abc034
+w
+java:S6213Æ":Rename this variable to not match a restricted identifier.(İäÕèJ$9773b1aa-895a-4201-bab7-0346ff7b1d4d
+w
+java:S6213Î":Rename this variable to not match a restricted identifier.(Àú’İJ$1509f135-25b3-4798-815d-85b48a44c1f6
+a
+java:S1168×"$Return an empty map instead of null.(¥¹ïJ$314d9e78-1380-4ebb-b0e7-953310bfde0a
+|
+java:S1144µ":Remove this unused private "checkNonEssentialData" method.(‘°º²ûÿÿÿÿJ$69516435-e9ed-4c1a-90b7-a5e011f0d699

@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author shiva   2022/2/26 12:48
+ * @author jiabin.yu   2022/2/26 12:48
  */
 @Configuration
 public class PermissionsConfiguration {

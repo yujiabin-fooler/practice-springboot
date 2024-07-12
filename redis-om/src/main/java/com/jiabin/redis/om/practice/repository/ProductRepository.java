@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 商品管理Repository
- * Created by macro on 2022/3/1.
+ * @author jiabin.yu 2022/3/1.
  */
 public interface ProductRepository extends RedisDocumentRepository<Product, Long> {
     /**

@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * MQTT相关配置
- * Created by macro on 2020/9/15.
+ * @author jiabin.yu 2020/9/15.
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

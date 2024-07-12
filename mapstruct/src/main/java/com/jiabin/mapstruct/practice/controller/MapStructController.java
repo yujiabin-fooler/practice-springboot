@@ -23,7 +23,7 @@ import java.util.List;
 
 /**
  * MapStruct对象转换测试Controller
- * Created by macro on 2021/10/21.
+ * @author jiabin.yu 2021/10/21.
  */
 @RestController
 @Api(tags = "MapStructController", description = "MapStruct对象转换测试")

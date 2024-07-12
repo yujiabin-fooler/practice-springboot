@@ -12,7 +12,7 @@ import java.util.UUID;
 
 /**
  * 商品对象映射（处理映射异常）
- * Created by macro on 2021/10/21.
+ * @author jiabin.yu 2021/10/21.
  */
 @Mapper(uses = {ProductValidator.class},imports = {UUID.class})
 public interface ProductExceptionMapper {

@@ -1,30 +1,30 @@
 
-Q
-java:S3740+"/Provide the parametrized type for this generic.(›Èšøÿÿÿÿ8ˆËÎøñ1
-Q
-java:S3740,"/Provide the parametrized type for this generic.(Õ‰’µùÿÿÿÿ8‰ËÎøñ1
-L
-java:S3740;"/Provide the parametrized type for this generic.(Ä”™Ê8‰ËÎøñ1
-Q
-java:S3740<"/Provide the parametrized type for this generic.(Õ‰’µùÿÿÿÿ8ŠËÎøñ1
-L
-java:S3740K"/Provide the parametrized type for this generic.(ÿÙ´à8ŠËÎøñ1
+w
+java:S3740+"/Provide the parametrized type for this generic.(›Èšøÿÿÿÿ8ˆËÎøñ1J$f2193b8b-5d0b-418d-bf28-087769e39d59
+w
+java:S3740,"/Provide the parametrized type for this generic.(Õ‰’µùÿÿÿÿ8‰ËÎøñ1J$afd6bc82-b547-46da-83b7-85b97e44af1a
+r
+java:S3740;"/Provide the parametrized type for this generic.(Ä”™Ê8‰ËÎøñ1J$18b78fe5-20c4-49c2-8397-21100a7766c7
+w
+java:S3740<"/Provide the parametrized type for this generic.(Õ‰’µùÿÿÿÿ8ŠËÎøñ1J$f6810398-65a7-4e79-a645-002d4630a4bd
+r
+java:S3740K"/Provide the parametrized type for this generic.(ÿÙ´à8ŠËÎøñ1J$9b1eff55-6107-4be0-8568-20093b53c579
 ¦
-java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$a095d2d2-6b1a-4685-baf7-a86507d0912e
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$ed67ceb7-28c0-4553-8f9e-618b2deefbb9
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$4206caa4-ff83-4da9-9f2c-fcb618a41e0b
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$b23cfe06-5501-41d6-943f-f2151208778f
 t
-java:S1874"3Remove this use of "description"; it is deprecated.(÷ÊğªúÿÿÿÿJ$3ce03249-6cdb-4e5b-ab47-c2e227f6eb02
+java:S1874"3Remove this use of "description"; it is deprecated.(÷ÊğªúÿÿÿÿJ$f10dea15-b5b6-4f3b-82b0-9eb18727fb1a
 ‰
-java:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†ÉãıÿÿÿÿJ$490840c0-57a3-4dae-8c89-379c0c188459
+java:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†ÉãıÿÿÿÿJ$b75e4d6a-9392-4dcf-b231-e95bc17270d7
 ‹
-java:S4488)"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿJ$8981f332-b340-49ce-8323-47e7ad95dc42
+java:S4488)"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿJ$e4fb13f9-220d-4f6d-8726-8ca430b428f6
 †
-java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ğ„˜ÚJ$6aea14ef-c0ec-4929-ac45-ac8855d1c179
+java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ğ„˜ÚJ$dc538ae7-19fc-4b4d-bb83-a552123af385
 ‰
-java:S4488I"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ó¼ñìûÿÿÿÿJ$5e5f648e-1f2c-4147-ac00-2d345f655437
+java:S4488I"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ó¼ñìûÿÿÿÿJ$607a02cf-3130-46c2-9adf-3c6169c50c15
 ‰
-java:S4488W"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏÊÃ×ûÿÿÿÿJ$7f9f2e5c-bd37-4351-a17e-dae4ca902f1e
+java:S4488W"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏÊÃ×ûÿÿÿÿJ$43af3c6c-2e8a-46ab-abeb-9b33ba9c65b4
 „
-java:S4488c"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ğÄâÿJ$29579442-c880-4156-b86e-a20590afc132
-|	java:S125g"<This block of commented-out lines of code should be removed.(éâŒşùÿÿÿÿJ$7b3d3379-225d-46e7-8a2c-ca242a8df91c
+java:S4488c"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ğÄâÿJ$4a8b5567-a61b-48e3-9692-dfd033122abb
+|	java:S125g"<This block of commented-out lines of code should be removed.(éâŒşùÿÿÿÿJ$bf45ba3a-d399-4b97-bef8-8001f3346c08

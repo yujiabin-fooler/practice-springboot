@@ -13,7 +13,7 @@ import org.mybatis.dynamic.sql.util.SqlProviderAdapter;
 import java.util.List;
 
 /**
- * Created by macro on 2020/12/9.
+ * @author jiabin.yu 2020/12/9.
  */
 public interface UmsAdminDao {
     @SelectProvider(type = SqlProviderAdapter.class, method = "select")

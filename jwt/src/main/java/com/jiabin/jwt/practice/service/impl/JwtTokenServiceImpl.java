@@ -25,7 +25,7 @@ import java.util.Date;
 import java.util.UUID;
 
 /**
- * Created by macro on 2020/6/22.
+ * @author jiabin.yu 2020/6/22.
  */
 @Service
 public class JwtTokenServiceImpl implements JwtTokenService {

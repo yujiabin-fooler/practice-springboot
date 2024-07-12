@@ -17,7 +17,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * WebSocket 服务类
  *
- * @author dukunbiao(null)  2022-07-02
+ * @author jiabin.yu  2022-07-02
  * https://github.com/dkbnull/SpringBootDemo
  */
 @Component

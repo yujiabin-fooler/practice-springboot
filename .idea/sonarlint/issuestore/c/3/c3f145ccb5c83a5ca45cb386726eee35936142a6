@@ -1,0 +1,11 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8®–óÅ…2J$bb2ff490-3663-45b6-b618-c1f4a3a45127
+€
+java:S1854"8Remove this useless assignment to local variable "user".(Æ£ìÛÿÿÿÿÿ8ÉöÅ…2J$409cc041-fc7b-4150-af77-8b7f70a3f74b
+q
+java:S1481")Remove this unused "user" local variable.(Æ£ìÛÿÿÿÿÿ8ÉöÅ…2J$e82339bd-6f16-42bf-bb00-9e35d99397d7
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ş¼§±ÿÿÿÿÿ8ÉöÅ…2J$d42ec1ae-0e38-4c13-ae2e-402457fcda18
+‹
+java:S1172"HRemove these unused method parameters "longitude", "latitude", "radius".(ï ä…8‹Ï÷Å…2J$9bef12c8-17bb-497c-9597-bc1a31117a93
+~	java:S125"<This block of commented-out lines of code should be removed.(Ä›ß»8™´öÅ…2J$3f48240c-bb96-4f7c-997f-b963f447f63f

@@ -20,7 +20,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by macro on 2020/5/19.
+ * @author jiabin.yu 2020/5/19.
  */
 @Configuration
 public class TopicRabbitConfig {

@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  * 后台用户管理Controller
- * Created by macro on 2020/12/8.
+ * @author jiabin.yu 2020/12/8.
  */
 @Api(tags = "UmsAdminController", description = "后台用户管理")
 @RestController

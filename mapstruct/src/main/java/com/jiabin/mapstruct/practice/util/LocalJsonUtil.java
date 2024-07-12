@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * 从本地获取JSON数据的工具类
- * Created by macro on 2021/10/16.
+ * @author jiabin.yu 2021/10/16.
  */
 public class LocalJsonUtil {
 

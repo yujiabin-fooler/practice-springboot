@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Created by macro on 2020/10/15.
+ * @author jiabin.yu 2020/10/15.
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

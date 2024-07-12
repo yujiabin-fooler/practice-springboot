@@ -4,7 +4,7 @@ import com.jiabin.json.desensitize.practice.utils.CommonUtil;
 import org.springframework.util.StringUtils;
 
 /**
- * @author shiva   2022-09-17 23:06
+ * @author jiabin.yu   2022-09-17 23:06
  */
 
 public enum DataMaskingFunc {

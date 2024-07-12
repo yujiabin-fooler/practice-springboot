@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 /**
  * WebSocket 心跳定时任务
  *
- * @author dukunbiao(null)  2022-07-02
+ * @author jiabin.yu  2022-07-02
  * https://github.com/dkbnull/SpringBootDemo
  */
 @EnableScheduling

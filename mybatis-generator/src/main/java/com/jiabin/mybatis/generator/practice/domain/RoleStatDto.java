@@ -1,7 +1,7 @@
 package com.jiabin.mybatis.generator.practice.domain;
 
 /**
- * Created by macro on 2020/12/9.
+ * @author jiabin.yu 2020/12/9.
  */
 public class RoleStatDto {
     private Long roleId;

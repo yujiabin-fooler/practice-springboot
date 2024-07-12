@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 
 /**
  * 商品验证异常处理器
- * Created by macro on 2021/10/22.
+ * @author jiabin.yu 2021/10/22.
  */
 public class ProductValidator {
     public BigDecimal validatePrice(BigDecimal price) throws ProductValidatorException {

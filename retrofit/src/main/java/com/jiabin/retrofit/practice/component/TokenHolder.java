@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 登录token存储（在Session中）
- * Created by macro on 2022/1/19.
+ * @author jiabin.yu 2022/1/19.
  */
 @Component
 public class TokenHolder {

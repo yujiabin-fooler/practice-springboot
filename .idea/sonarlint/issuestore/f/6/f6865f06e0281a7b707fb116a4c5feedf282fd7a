@@ -1,0 +1,9 @@
+
+¨
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(Û›ï£8­—å”‡2J$7ab80de8-565d-4644-a210-f2222d43c365
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8±—å”‡2J$018bd7fd-ef4f-426a-a88d-d56a1a798175
+Š
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û›ï£8¹—å”‡2J$ddbfce9f-4348-454f-b44b-94a6d8051572
+j
+java:S18741".Remove this use of "decode"; it is deprecated.(äÄâ’J$02cab293-a46d-4faf-a05c-cb8db18d33f4

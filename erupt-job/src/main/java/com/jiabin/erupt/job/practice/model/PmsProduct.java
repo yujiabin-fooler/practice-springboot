@@ -16,7 +16,7 @@ import javax.persistence.Id;
 import java.util.Date;
 
 /**
- * Created by macro on 2021/4/13.
+ * @author jiabin.yu 2021/4/13.
  */
 @EruptDataProcessor(EruptMongodbImpl.MONGODB_PROCESS)  //此注解表示使用MongoDB来存储数据
 @Document(collection = "product")

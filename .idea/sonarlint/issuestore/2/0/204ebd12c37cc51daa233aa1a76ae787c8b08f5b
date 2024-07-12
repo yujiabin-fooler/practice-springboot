@@ -1,0 +1,10 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Ÿ‚ÇÆ…2J$e2dce7bc-0486-406b-bd52-b2a97972661d
+‹
+java:S1854"CRemove this useless assignment to local variable "scheduleCommand".(Ñ¨œõþÿÿÿÿ8ÛšÊÆ…2J$330d5bdb-e571-4b9e-aa0a-e7eed7cda4ba
+|
+java:S1481"4Remove this unused "scheduleCommand" local variable.(Ñ¨œõþÿÿÿÿ8ßšÊÆ…2J$0dafb0e0-0954-4fa9-958d-296b66332797
+–
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ôØ·Ã8ßšÊÆ…2J$118203b4-263b-408a-aa5f-41c5d063d003
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(à’Ûƒøÿÿÿÿ8àšÊÆ…2J$a08d10d7-6c17-4d69-aa3a-8675ee3b2be5

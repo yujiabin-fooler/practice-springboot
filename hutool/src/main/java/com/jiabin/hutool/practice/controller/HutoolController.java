@@ -39,7 +39,7 @@ import java.math.BigDecimal;
 import java.util.*;
 
 /**
- * Created by macro on 2019/9/1.
+ * @author jiabin.yu 2019/9/1.
  */
 @Api(tags = "HutoolController", description = "Hutool工具类测试")
 @RestController

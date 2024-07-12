@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by macro on 2021/3/25.
+ * @author jiabin.yu 2021/3/25.
  */
 @Controller
 @RequestMapping("/test")

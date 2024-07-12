@@ -1,0 +1,50 @@
+
+
+java:S1192S"LDefine a constant instead of duplicating this literal "order:A0001" 5 times.(Æ–ŸôûÿÿÿÿJ$4e8406b0-5485-4ee9-abb9-4156271c8e3b
+i
+java:S5411X"(Use a primitive boolean expression here.(€îåşüÿÿÿÿJ$d0f6e3af-fd93-4ecb-9a2a-a15e3b11ea08
+|
+java:S2222%";Unlock this lock along all executions paths of this method.(…Ò¢ÓÿÿÿÿÿJ$1d4f4574-5fa4-4bbc-ab3c-91d634a54f0f
+¦
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$ff15c4d5-a2dd-4854-851a-003b964555a4
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$3ec5a1bc-3fb6-4a89-8323-163494782abb
+š
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$bd5fa1dc-10a5-4c15-98eb-a86cf897004d
+k	java:S106&"+Replace this use of System.out by a logger.(Ëœ«¹şÿÿÿÿJ$695c81f3-0aa6-4020-ac26-14f7b752d18d
+v
+java:S2209'"5Change this instance-reference to a static reference.(û äîûÿÿÿÿJ$d3902131-7c7b-4288-adab-a8065616f7ef
+k	java:S106*"+Replace this use of System.out by a logger.(¢Â•¿ıÿÿÿÿJ$ed803adf-350e-4446-957e-63087e832dfe
+|	java:S125-"<This block of commented-out lines of code should be removed.(ÂÄìÃúÿÿÿÿJ$86c3e0e3-8985-4112-aaf4-5a73cec0a732
+|	java:S125/"<This block of commented-out lines of code should be removed.(ÂÄìÃúÿÿÿÿJ$817ce23b-f6d9-424c-8a56-4c497ca23b62
+š
+java:S2142D"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$83d19227-f5c2-4a31-bc81-3c813576708b
+f	java:S106@"+Replace this use of System.out by a logger.(™ôãJ$27c3f0d5-d811-4ae3-a6a7-2ecd6447e2f4
+|	java:S125?"<This block of commented-out lines of code should be removed.(€âÿÚüÿÿÿÿJ$5be0f43e-780b-486d-891f-6838546166b1
+k	java:S106B"+Replace this use of System.out by a logger.(¢’³çıÿÿÿÿJ$a8d1fb8c-1d87-4eb0-8d7e-3113686df843
+š
+java:S2142["^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$8aa51411-cfa6-4fb2-9954-09fe0a8308cf
+s
+java:S1135Y"2Complete the task associated to this TODO comment.(ËÅ½ÿÿÿÿÿJ$4aa61b91-e0bd-43a0-b700-8e05c04951fc
+š
+java:S2142s"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$2b60aa7c-27c8-40b4-bc03-905d60159554
+s
+java:S1135q"2Complete the task associated to this TODO comment.(ËÅ½ÿÿÿÿÿJ$dc1579db-6b15-43df-abd6-f4d69381882e
+›
+java:S2142Š"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$5cffaecd-794b-4639-b6dc-9809d7e18a74
+t
+java:S1135ˆ"2Complete the task associated to this TODO comment.(ËÅ½ÿÿÿÿÿJ$c533ce10-beb5-4e2c-95b3-727573cdb3f1
+o
+java:S1874›"2Remove this use of "getRedLock"; it is deprecated.(”î¨J$3f7ddc22-b6e9-4757-b698-478da1c724dd
+›
+java:S2142¡"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$b97725bf-9137-46f5-a3b9-dd71190dca74
+t
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(ËÅ½ÿÿÿÿÿJ$27ea5c08-608c-471d-8aa6-03696c5e3271
+›
+java:S2142¿"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$0dd9de43-c7e6-4ec5-952a-0dfd8eb38e7c
+t
+java:S1135´"2Complete the task associated to this TODO comment.(ËÅ½ÿÿÿÿÿJ$812412c3-77ea-4cb2-a962-632da7f8deba
+t
+java:S1135¸"2Complete the task associated to this TODO comment.(ËÅ½ÿÿÿÿÿJ$db1bd121-d302-49b1-930d-590d9fc015b7
+t
+java:S1135¼"2Complete the task associated to this TODO comment.(ËÅ½ÿÿÿÿÿJ$4db3ceca-4273-4fe3-9f80-8e9580b049a6

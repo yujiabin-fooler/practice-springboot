@@ -3,7 +3,7 @@ package com.jiabin.lombok.practice.example;
 import lombok.extern.java.Log;
 
 /**
- * Created by macro on 2020/12/17.
+ * @author jiabin.yu 2020/12/17.
  */
 @Log
 public class LogExample {

@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;
 
 /**
- * @author shiva   2022-09-17 23:30
+ * @author jiabin.yu   2022-09-17 23:30
  */
 @Configuration(
         proxyBeanMethods = false

@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  * 给请求添加登录Token头的拦截器
- * Created by macro on 2022/1/19.
+ * @author jiabin.yu 2022/1/19.
  */
 @Component
 public class TokenInterceptor extends BasePathMatchInterceptor {

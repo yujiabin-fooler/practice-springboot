@@ -5,7 +5,7 @@ import lombok.EqualsAndHashCode;
 import lombok.NonNull;
 
 /**
- * Created by macro on 2020/12/17.
+ * @author jiabin.yu 2020/12/17.
  */
 @Data
 public class DataExample {

@@ -20,7 +20,7 @@ import java.text.ParseException;
 
 /**
  * JWT令牌管理Controller
- * Created by macro on 2020/6/22.
+ * @author jiabin.yu 2020/6/22.
  */
 @Api(tags = "JwtTokenController", description = "JWT令牌管理")
 @Controller

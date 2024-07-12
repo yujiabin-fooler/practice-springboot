@@ -5,7 +5,7 @@ import lombok.EqualsAndHashCode;
 
 /**
  * 会员商品信息组合Dto
- * Created by macro on 2021/10/21.
+ * @author jiabin.yu 2021/10/21.
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

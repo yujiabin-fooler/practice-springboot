@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * Pulsar功能测试
- * Created by macro on 2021/5/19.
+ * @author jiabin.yu 2021/5/19.
  */
 @Api(tags = "PulsarController", description = "Pulsar功能测试")
 @Controller

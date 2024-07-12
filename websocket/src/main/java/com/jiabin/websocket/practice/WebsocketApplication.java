@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Spring Boot 启动类
  *
- * @author dukunbiao(null)  2022-07-02
+ * @author jiabin.yu  2022-07-02
  * https://github.com/dkbnull/SpringBootDemo
  */
 @SpringBootApplication

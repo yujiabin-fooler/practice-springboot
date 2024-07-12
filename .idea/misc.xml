@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
@@ -289,6 +288,33 @@
         <option value="$PROJECT_DIR$/hbase/pom.xml" />
         <option value="$PROJECT_DIR$/canal/pom.xml" />
         <option value="$PROJECT_DIR$/redis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/shardingsphere/pom.xml" />
+        <option value="$PROJECT_DIR$/webhook/pom.xml" />
+        <option value="$PROJECT_DIR$/detect-faces/pom.xml" />
+        <option value="$PROJECT_DIR$/erupt/pom.xml" />
+        <option value="$PROJECT_DIR$/magic-api/pom.xml" />
+        <option value="$PROJECT_DIR$/watermark/pom.xml" />
+        <option value="$PROJECT_DIR$/realtime-data/pom.xml" />
+        <option value="$PROJECT_DIR$/work-flowable/pom.xml" />
+        <option value="$PROJECT_DIR$/multidatasource-ds-custom-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/file-storage/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/valid-params/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/jasypt/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/global-formatting/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/env-variables/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/delayqueue/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/database-doc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/banner/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/aop-unifiedlog/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-features/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-features/valid-params/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-features/jasypt/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-features/global-formatting/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-features/env-variables/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-features/delayqueue/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-features/database-doc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-features/banner/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -299,6 +325,7 @@
         <option value="$PROJECT_DIR$/rokctmq/pom.xml" />
         <option value="$PROJECT_DIR$/seata-transaction/pom.xml" />
         <option value="$PROJECT_DIR$/seata/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-universal-features/pom.xml" />
       </set>
     </option>
   </component>

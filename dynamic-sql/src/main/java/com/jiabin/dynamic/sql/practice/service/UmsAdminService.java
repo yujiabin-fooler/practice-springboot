@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 后台用户管理Service
- * Created by macro on 2020/12/8.
+ * @author jiabin.yu 2020/12/8.
  */
 public interface UmsAdminService {
     void create(UmsAdmin entity);

@@ -12,7 +12,7 @@ import org.springframework.web.service.annotation.PostExchange;
 
 /**
  * 定义Http接口，用于调用远程的PmsBrand服务
- * Created by macro on 2022/1/19.
+ * @author jiabin.yu 2022/1/19.
  */
 @HttpExchange
 public interface PmsBrandApi {

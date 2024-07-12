@@ -22,7 +22,7 @@ import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.util.StopWatch;
 
 /**
- * Created by macro on 2020/5/19.
+ * @author jiabin.yu 2020/5/19.
  */
 public class FanoutReceiver {
 

@@ -16,7 +16,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 /**
  * SpringSecurity 5.4.x以上新用法配置
  * 为避免循环依赖，仅用于配置HttpSecurity
- * Created by macro on 2022/5/19.
+ * @author jiabin.yu 2022/5/19.
  */
 @Configuration
 public class SecurityConfig {

@@ -12,7 +12,7 @@ import java.time.Duration;
 
 /**
  * JUnit断言测试
- * Created by macro on 2022/10/11.
+ * @author jiabin.yu 2022/10/11.
  */
 @ExtendWith(SpringExtension.class)
 public class AssertTest {

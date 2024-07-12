@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 会员对象映射
- * Created by macro on 2021/10/21.
+ * @author jiabin.yu 2021/10/21.
  */
 @Mapper
 public interface MemberMapper {

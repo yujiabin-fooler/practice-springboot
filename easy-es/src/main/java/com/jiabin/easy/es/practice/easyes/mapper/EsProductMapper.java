@@ -5,7 +5,7 @@ import com.jiabin.easy.es.practice.easyes.document.EsProduct;
 
 /**
  * 商品ES操作类
- * Created by macro on 2018/6/19.
+ * @author jiabin.yu 2018/6/19.
  */
 public interface EsProductMapper extends BaseEsMapper<EsProduct> {
 

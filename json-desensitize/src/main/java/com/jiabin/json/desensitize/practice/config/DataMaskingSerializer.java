@@ -14,7 +14,7 @@ import java.lang.reflect.Type;
 import java.util.Objects;
 
 /**
- * @author shiva   2022-09-17 23:08
+ * @author jiabin.yu   2022-09-17 23:08
  */
 public final class DataMaskingSerializer extends StdScalarSerializer<Object> {
     private final DataMaskingOperation operation;

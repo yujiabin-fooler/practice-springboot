@@ -5,7 +5,7 @@ import com.jiabin.sa.token.practice.domain.AdminUser;
 
 /**
  * 后台用于管理Service
- * Created by macro on 2020/10/15.
+ * @author jiabin.yu 2020/10/15.
  */
 public interface UmsAdminService {
     /**

@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * Pulsar消息消费者
- * Created by macro on 2021/5/19.
+ * @author jiabin.yu 2021/5/19.
  */
 @Slf4j
 @Component

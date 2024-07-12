@@ -1,0 +1,8 @@
+
+ 
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "factory".(ñïùÿÿÿÿJ$1db3cf5a-b8d3-474a-8221-9f76a0751bff
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ì»ö•‡2J$38bad4a2-8e6f-4c01-ab08-e7d5d5016932
+›
+java:S3305"SInject this field value directly into "mqttOutbound", the only method that uses it.(×‰Ïµøÿÿÿÿ8€¼ö•‡2J$5eddafb6-5b14-4b32-a050-6592d00aaa16
+w	java:S125"<This block of commented-out lines of code should be removed.(Ø¥Ğ”J$b9e4440d-c6f3-427d-b256-df64aab30dbe
