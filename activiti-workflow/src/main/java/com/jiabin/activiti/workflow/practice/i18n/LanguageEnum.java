@@ -6,7 +6,7 @@ import org.springframework.util.StringUtils;
 
 /**
  * @Description: 国际化 语言枚举类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/24
  */
 @Getter

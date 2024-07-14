@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @Description: 用户定时任务负载类(Bean 模式)
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/11/27
  */
 @Slf4j

@@ -2,7 +2,7 @@ package com.jiabin.rocketmq.producer.practice.common.constant;
 
 /**
  * @Description: RocketMQ 常量
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/12/2
  */
 public class RocketMQConst {

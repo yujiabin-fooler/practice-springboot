@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * @Description: 分页查询工具(极简版)
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/11/28
  */
 @Getter

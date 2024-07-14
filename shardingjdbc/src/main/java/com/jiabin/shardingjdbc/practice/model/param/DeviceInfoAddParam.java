@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 设备信息新增
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/4/1
  */
 @Data

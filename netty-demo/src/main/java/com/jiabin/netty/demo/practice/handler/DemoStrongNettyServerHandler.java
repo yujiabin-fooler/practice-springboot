@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @Description: 强化版 netty 服务端事务处理器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/23
  */
 @Slf4j

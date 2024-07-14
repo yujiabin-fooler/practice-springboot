@@ -6,7 +6,7 @@ import lombok.extern.slf4j.Slf4j;
 
 /**
  * @Description: GLUE-Java 测试2
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/11/29
  */
 @Slf4j

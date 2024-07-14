@@ -7,7 +7,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  * @Description: 用户信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/1/6
  */
 @Data

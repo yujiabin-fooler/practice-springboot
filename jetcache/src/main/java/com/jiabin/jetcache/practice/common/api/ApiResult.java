@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * @Description: 接口请求返回结果
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/10/9
  */
 @Data

@@ -19,7 +19,7 @@ import java.net.InetSocketAddress;
 
 /**
  * @Description: 强化版 Netty 客户端模拟器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/23
  */
 @Slf4j

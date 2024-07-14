@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 
 /**
  * @Description: 设备信息控制层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/4/2
  */
 @RestController

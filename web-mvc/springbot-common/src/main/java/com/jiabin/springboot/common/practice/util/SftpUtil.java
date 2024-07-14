@@ -16,7 +16,7 @@ import java.util.Properties;
 
 /**
  * @Description: sftp 工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/9/23
  */
 public class SftpUtil {

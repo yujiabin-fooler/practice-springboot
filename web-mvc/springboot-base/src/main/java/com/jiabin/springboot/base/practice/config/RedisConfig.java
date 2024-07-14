@@ -15,7 +15,7 @@ import java.io.Serializable;
 
 /**
  * @Description: redis 配置
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/10/29
  */
 @Configuration

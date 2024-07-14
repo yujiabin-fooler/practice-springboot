@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * @Description: 日志记录工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/1/8
  */
 @Component

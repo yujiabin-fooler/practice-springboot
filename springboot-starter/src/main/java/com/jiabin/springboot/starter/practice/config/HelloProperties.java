@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  * @Description: 自定义 Spring Boot stater 示例配置信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/10/26
  */
 @ConfigurationProperties(prefix = "hello-stater")

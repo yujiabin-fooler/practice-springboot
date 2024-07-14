@@ -7,7 +7,7 @@ import lombok.Data;
 
 /**
  * @Description: 博客自定义时间区间统计结果
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/11/18
  */
 @Data

@@ -5,7 +5,7 @@ import lombok.Data;
 
 /**
  * @Description: 下载
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/12/24
  */
 @Data

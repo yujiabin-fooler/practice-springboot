@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @Description: netty 客户端处理器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/18
  */
 @Slf4j

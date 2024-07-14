@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @Description: AWS iot 设备端 MQTT 操作工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/7/21
  */
 @Slf4j

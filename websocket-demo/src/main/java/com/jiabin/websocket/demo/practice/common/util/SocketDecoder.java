@@ -10,7 +10,7 @@ import javax.websocket.EndpointConfig;
 
 /**
  * @Description: websocket 消息解码器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/3/14
  */
 public class SocketDecoder implements Decoder.Text<SocketMessage> {

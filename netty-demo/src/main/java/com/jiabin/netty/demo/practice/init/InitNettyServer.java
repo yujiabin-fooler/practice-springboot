@@ -18,7 +18,7 @@ import java.net.InetSocketAddress;
 
 /**
  * @Description: 初始化 netty 服务端
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/18
  */
 @Slf4j

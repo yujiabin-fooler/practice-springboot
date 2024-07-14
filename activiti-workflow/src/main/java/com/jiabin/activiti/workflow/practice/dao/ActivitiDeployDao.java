@@ -4,7 +4,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * @Description: Activiti 工作流部署信息DAO
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/7/9
  */
 @Repository

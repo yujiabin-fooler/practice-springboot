@@ -16,7 +16,7 @@ import java.util.Objects;
 
 /**
  * @Description: 人脸检测工具
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2024/3/15
  */
 @Slf4j

@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 多媒体信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2024/5/10
  */
 @Data

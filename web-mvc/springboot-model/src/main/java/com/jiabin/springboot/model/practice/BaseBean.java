@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 基础 bean
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/12/24
  */
 @Data

@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * @Description: java bean 与 map 互相转换工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/5/14
  */
 public class MapUtil {

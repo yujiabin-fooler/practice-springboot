@@ -11,7 +11,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 班级教师批量保存
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/10/9
  */
 @Data

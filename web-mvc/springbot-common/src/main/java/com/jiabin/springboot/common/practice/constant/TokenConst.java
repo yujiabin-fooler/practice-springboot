@@ -2,7 +2,7 @@ package com.jiabin.springboot.common.practice.constant;
 
 /**
  * @Description: Token 相关常量
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/12/3
  */
 public class TokenConst {

@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: xxl-job 配置信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/11/26
  */
 @Getter

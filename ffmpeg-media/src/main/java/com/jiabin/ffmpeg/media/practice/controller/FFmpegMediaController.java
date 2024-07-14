@@ -18,7 +18,7 @@ import java.io.IOException;
 
 /**
  * @Description: FFmpeg 媒体文件处理控制层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2024/5/10
  */
 @Slf4j

@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * @Description: 选修课
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/8/17
  */
 @Data

@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * @Description: 批量删除博客
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/11/13
  */
 @Data

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Description: RabbitMQ 消息队列测试 controller
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/21
  */
 @RestController

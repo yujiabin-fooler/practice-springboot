@@ -9,7 +9,7 @@ import java.io.IOException;
 
 /**
  * @Description: protobuf bean 转换工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/8/9
  */
 public class ProtobufBeanUtil {

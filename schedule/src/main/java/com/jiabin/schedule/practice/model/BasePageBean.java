@@ -10,7 +10,7 @@ import javax.validation.constraints.Pattern;
 
 /**
  * @Description: 基础分页参数接收类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/6/7
  */
 @Data

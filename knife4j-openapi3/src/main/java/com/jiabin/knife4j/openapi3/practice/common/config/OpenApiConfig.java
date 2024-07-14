@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: openapi 界面配置
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/15
  */
 @Configuration

@@ -26,7 +26,7 @@ import java.util.Map;
 
 /**
  * @Description: 网络请求工具类--Powered by Apache HttpClient
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/5/16
  */
 public class SimpleHttpClientUtil implements Serializable {

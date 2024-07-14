@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * @Description: iot 服务端更新策略请求参数
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/7/25
  */
 @Data

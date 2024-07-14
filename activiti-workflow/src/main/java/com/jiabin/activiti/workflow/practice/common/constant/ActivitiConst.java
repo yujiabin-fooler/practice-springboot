@@ -2,7 +2,7 @@ package com.jiabin.activiti.workflow.practice.common.constant;
 
 /**
  * @Description: activiti 工作流常量
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/7/9
  */
 public class ActivitiConst {

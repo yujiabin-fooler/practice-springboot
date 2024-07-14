@@ -9,3 +9,7 @@ java:S6813&"BRemove this field injection and use constructor injection instead.
 java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞJ$e2dcb02d-d661-4805-b391-d84c6b660b10
 ~
 java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞJ$6f06b3b8-2b5e-4016-bf59-668139008794
+[
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(½ ¢û8¬ÿå‰2
+[
+java:S1155D">Use isEmpty() to check whether the collection is empty or not.(óÖËû8°ÿå‰2

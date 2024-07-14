@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @Description: UDP Netty 服务端事务处理器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/25
  */
 @Slf4j

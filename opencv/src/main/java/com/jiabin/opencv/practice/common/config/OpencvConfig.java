@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: opencv 配置
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2024/3/18
  */
 @ToString

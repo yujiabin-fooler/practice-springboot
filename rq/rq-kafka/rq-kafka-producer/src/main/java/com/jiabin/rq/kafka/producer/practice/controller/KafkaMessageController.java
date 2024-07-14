@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Description: Kafka 消息控制层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/2/25
  */
 @Slf4j

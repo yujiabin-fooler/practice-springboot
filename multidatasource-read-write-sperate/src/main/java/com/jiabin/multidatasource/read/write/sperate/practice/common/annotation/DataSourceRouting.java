@@ -6,7 +6,7 @@ import java.lang.annotation.*;
 
 /**
  * @Description: 数据源路由注解
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/2/14
  */
 @Retention(RetentionPolicy.RUNTIME)

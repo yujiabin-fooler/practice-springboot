@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @Description: 数据持久层基础类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/4/29
  */
 public interface BaseDao<T> {

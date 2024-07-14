@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  * @Description: JWT 工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/12/3
  */
 public class JwtUtil implements Serializable {

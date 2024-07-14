@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * @Description: 合同实体类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/2/4
  */
 @Data

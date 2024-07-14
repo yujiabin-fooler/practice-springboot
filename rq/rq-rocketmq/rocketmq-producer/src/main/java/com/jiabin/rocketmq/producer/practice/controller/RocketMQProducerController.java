@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Description: RocketMQ 生产者控制层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/12/2
  */
 @Slf4j

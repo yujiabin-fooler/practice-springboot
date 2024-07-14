@@ -9,7 +9,7 @@ import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 
 /**
  * @Description: person 配置类, properties 格式配置文件读取测试
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/10/27
  */
 @Configuration

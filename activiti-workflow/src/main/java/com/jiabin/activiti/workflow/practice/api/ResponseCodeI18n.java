@@ -5,7 +5,7 @@ import lombok.ToString;
 
 /**
  * @Description: 多语言,国际化接口返回码枚举
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/24
  */
 @Getter

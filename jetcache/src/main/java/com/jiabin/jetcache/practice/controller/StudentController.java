@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * @Description: 学生信息控制层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/8/8
  */
 @Slf4j

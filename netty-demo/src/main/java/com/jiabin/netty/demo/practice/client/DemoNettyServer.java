@@ -14,7 +14,7 @@ import java.net.InetSocketAddress;
 
 /**
  * @Description: netty 服务端
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/22
  */
 @Slf4j

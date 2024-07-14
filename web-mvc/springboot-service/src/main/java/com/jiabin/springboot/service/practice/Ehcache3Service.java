@@ -5,7 +5,7 @@ import com.jiabin.springboot.model.practice.vo.ehcache3.*;
 
 /**
  * @Description: Ehcache3 Demo 业务
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/3/16
  */
 public interface Ehcache3Service {

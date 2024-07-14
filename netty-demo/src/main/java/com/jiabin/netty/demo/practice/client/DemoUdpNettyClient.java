@@ -18,7 +18,7 @@ import java.net.InetSocketAddress;
 
 /**
  * @Description: UDP netty 客户端
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/25
  */
 @Slf4j

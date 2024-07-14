@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @Description: websocket 会话管理
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/3/19
  */
 @Slf4j

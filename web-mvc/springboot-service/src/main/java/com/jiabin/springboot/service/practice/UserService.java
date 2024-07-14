@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * @Description: 用户模块业务
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/10/9
  */
 public interface UserService {

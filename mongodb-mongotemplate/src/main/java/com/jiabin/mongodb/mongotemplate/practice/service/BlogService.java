@@ -5,7 +5,7 @@ import com.jiabin.mongodb.mongotemplate.practice.model.param.*;
 
 /**
  * @Description: 博客业务接口
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/11/13
  */
 public interface BlogService {

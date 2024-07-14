@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @Description: websocket SpringBoot 启动类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/3/14
  */
 @SpringBootApplication

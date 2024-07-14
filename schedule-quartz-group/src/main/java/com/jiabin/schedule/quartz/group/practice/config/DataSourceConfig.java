@@ -13,7 +13,7 @@ import javax.sql.DataSource;
 
 /**
  * @Description: 数据源配置
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/11/17
  */
 @Configuration

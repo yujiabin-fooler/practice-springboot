@@ -11,7 +11,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 接收学生信息(pb)
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/8/7
  */
 @Data

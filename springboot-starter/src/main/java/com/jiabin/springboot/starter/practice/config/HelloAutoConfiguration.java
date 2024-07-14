@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: 自定义 Spring Boot Stater 示例配置自动化配置
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/10/26
  */
 @Configuration

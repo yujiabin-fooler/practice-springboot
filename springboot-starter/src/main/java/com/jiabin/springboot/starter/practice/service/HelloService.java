@@ -2,7 +2,7 @@ package com.jiabin.springboot.starter.practice.service;
 
 /**
  * @Description: spring boot 自定义 stater 示例业务
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/10/26
  */
 public class HelloService {

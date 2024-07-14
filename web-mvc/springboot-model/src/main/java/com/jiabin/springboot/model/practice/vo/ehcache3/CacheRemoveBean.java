@@ -8,7 +8,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * @Description: CacheRemove 注解测试 参数接收 bean
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/3/16
  */
 @Data

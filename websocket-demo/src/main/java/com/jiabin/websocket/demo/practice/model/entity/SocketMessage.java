@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * @Description: 聊天信息封装类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/3/14
  */
 @Data

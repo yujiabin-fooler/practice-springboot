@@ -8,7 +8,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * @Description: 不使用缓存 参数接收bean
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/3/16
  */
 @Data

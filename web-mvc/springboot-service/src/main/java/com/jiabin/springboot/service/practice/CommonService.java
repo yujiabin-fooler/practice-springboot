@@ -14,7 +14,7 @@ import java.io.IOException;
 
 /**
  * @Description: 公共业务
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/12/24
  */
 public interface CommonService {

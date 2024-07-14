@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: 文件上传配置信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2024/5/10
  */
 @Getter

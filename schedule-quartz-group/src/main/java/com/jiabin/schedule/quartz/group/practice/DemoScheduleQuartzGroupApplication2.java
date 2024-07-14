@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @Description: Quartz 定时任务集群模式应用启动类2
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/11/18
  */
 @SpringBootApplication

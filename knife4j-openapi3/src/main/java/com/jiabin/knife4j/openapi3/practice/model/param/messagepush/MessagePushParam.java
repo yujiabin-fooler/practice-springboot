@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 消息推送请求参数
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/16
  */
 @Data

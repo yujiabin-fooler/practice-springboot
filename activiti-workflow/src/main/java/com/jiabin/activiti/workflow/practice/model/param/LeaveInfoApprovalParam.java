@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 审批
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/7/10
  */
 @Data

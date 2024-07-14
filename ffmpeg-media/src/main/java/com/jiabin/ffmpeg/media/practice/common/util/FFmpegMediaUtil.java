@@ -15,7 +15,7 @@ import java.util.Objects;
 
 /**
  * @Description: FFmpeg 音视频工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2024/5/10
  */
 @Slf4j

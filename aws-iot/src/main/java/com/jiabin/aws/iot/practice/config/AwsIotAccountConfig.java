@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: 亚马逊 iot 服务账号配置类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/7/25
  */
 @Getter

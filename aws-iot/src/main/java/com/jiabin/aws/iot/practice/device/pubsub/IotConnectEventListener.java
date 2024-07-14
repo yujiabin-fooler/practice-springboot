@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @Description: AWS iot 设备上下线事件监听类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/7/21
  */
 @Slf4j

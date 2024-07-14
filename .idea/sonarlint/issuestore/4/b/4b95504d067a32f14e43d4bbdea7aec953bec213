@@ -1,0 +1,25 @@
+
+L
+java:S3740;"/Provide the parametrized type for this generic.(‘€ú©8 ½å‰2
+‡
+java:S6833!"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8Ì½å‰2
+P
+java:S1874""3Remove this use of "description"; it is deprecated.(ˆ„Àä8Ó½å‰2
+j
+java:S4488'"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(øØÿüÿÿÿÿ8Ô½å‰2
+r
+java:S32522"UUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "CLASS".(ç¢µ¿8Ø½å‰2
+s
+java:S32523"VUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "PARAMS".(¢’ÆÄ8Ø½å‰2
+u
+java:S32524"YUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "FILE_NAME".(İ…Å8Ù½å‰2
+l
+java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"( ßİéşÿÿÿÿ8Ú½å‰2
+j
+java:S4488K"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(·¶óáıÿÿÿÿ8á½å‰2
+r
+java:S3252T"UUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "CLASS".(®“ëÄ8ä½å‰2
+s
+java:S3252U"VUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "PARAMS".(¢’ÆÄ8å½å‰2
+v
+java:S3252V"YUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "FILE_NAME".(Üë¬û8å½å‰2

@@ -14,7 +14,7 @@ import java.util.Map;
 
 /**
  * @Description: websocket 握手拦截器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/3/19
  */
 @Slf4j

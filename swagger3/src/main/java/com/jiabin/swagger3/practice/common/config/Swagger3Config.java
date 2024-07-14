@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  * @Description: Swagger3 拦截器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/1/25
  */
 @EnableOpenApi

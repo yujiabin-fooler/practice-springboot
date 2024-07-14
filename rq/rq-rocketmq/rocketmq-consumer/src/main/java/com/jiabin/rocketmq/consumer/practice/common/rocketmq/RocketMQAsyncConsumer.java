@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @Description: RocketMQ 异步消息消费者
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/12/2
  */
 @Slf4j

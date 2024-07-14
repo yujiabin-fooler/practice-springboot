@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * @Description: tabbitmq 配置信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/21
  */
 @Configuration

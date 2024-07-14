@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  * @Description: Mongo-用户批量删除
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/1/20
  */
 @Data

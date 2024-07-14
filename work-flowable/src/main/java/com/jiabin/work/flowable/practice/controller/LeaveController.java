@@ -55,7 +55,7 @@ public class LeaveController {
 
     /**
      * @param taskId
-     * @author 程序员小富
+     * @author jiabin.yu
      * @description 批准
      * @date 2020/8/27 14:30
      */
@@ -74,7 +74,7 @@ public class LeaveController {
 
     /**
      * @param taskId
-     * @author 程序员小富
+     * @author jiabin.yu
      * @description 驳回
      * @date 2020/8/27 14:30
      */

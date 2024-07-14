@@ -40,7 +40,7 @@ import java.util.Objects;
 
 /**
  * @Description: 公共业务具体实现类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/12/24
  */
 @Slf4j

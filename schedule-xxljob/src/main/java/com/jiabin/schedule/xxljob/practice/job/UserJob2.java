@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @Description: 用户定时任务负载2(GLUE-Java 模式)
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/11/27
  */
 public class UserJob2 extends IJobHandler {

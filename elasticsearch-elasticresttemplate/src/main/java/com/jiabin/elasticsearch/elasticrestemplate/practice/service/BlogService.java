@@ -7,7 +7,7 @@ import org.springframework.data.domain.Page;
 
 /**
  * @Description: 博客业务接口
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/12/11
  */
 public interface BlogService {

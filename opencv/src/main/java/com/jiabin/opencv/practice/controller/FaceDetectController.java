@@ -15,7 +15,7 @@ import java.io.IOException;
 
 /**
  * @Description: 人脸检测控制层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2024/3/18
  */
 @Slf4j

@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Description: Ehcache 3 示例控制中心
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/3/21
  */
 @RestController

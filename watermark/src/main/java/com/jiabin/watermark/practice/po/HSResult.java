@@ -1,7 +1,7 @@
 package com.jiabin.watermark.practice.po;
 
 /**
- * @Author: 公众号：程序员小富
+ * @author jiabin.yu
  * @Description:
  */
 public class HSResult {

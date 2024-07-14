@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 /**
  * @Description: sql 校验工具
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/11/28
  */
 public class SqlCheckUtil {

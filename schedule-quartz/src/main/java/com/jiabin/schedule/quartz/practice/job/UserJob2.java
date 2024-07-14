@@ -7,7 +7,7 @@ import org.springframework.scheduling.quartz.QuartzJobBean;
 
 /**
  * @Description: 用户工作负载2
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/11/14
  */
 @Slf4j

@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @Description: Netty 服务处理器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/18
  */
 @Slf4j

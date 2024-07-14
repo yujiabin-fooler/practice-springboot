@@ -9,7 +9,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @Author: 公众号：程序员小富
+ * @author jiabin.yu
  * @Description:
  */
 public class NettyDelayQueue {

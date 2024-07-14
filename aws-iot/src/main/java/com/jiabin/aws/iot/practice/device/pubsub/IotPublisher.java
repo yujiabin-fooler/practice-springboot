@@ -6,7 +6,7 @@ import lombok.extern.slf4j.Slf4j;
 
 /**
  * @Description: AWS iot 消息推送类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/7/21
  */
 @Slf4j

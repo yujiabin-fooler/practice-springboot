@@ -10,7 +10,7 @@ import java.util.UUID;
 
 /**
  * @Description: 阿里云 oss 上传工具类(低依赖版)
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/5/9
  */
 public class OSSSingleUtil {

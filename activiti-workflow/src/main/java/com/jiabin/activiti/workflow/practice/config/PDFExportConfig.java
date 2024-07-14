@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: PDF 文件导出配置文件
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/8
  */
 @Configuration

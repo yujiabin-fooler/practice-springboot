@@ -26,7 +26,7 @@ import java.util.Date;
 
 /**
  * @Description: 公共模块控制中心
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/12/24
  */
 @RestController

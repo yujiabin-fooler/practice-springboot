@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * @Author: 公众号：程序员小富
+ * @author jiabin.yu
  * @Description:
  */
 @Controller

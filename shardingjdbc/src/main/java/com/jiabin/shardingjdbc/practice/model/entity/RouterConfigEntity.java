@@ -6,7 +6,7 @@ import lombok.ToString;
 
 /**
  * @Description: 路由器配置实体
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/4/1
  */
 @Data

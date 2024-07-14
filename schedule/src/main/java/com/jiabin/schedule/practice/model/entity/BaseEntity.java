@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 基础实体类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/6/16
  */
 public class BaseEntity implements Serializable {

@@ -13,7 +13,7 @@ import java.util.Objects;
 
 /**
  * @Description: websocket 连接拦截器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/3/19
  */
 @Slf4j

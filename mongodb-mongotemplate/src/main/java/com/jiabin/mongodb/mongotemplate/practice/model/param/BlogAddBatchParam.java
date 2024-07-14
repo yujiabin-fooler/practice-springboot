@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * @Description: 批量新增博客
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/11/15
  */
 @Data

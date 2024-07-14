@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 /**
  * @Description: iot 服务端示例控制层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/7/25
  */
 @Slf4j

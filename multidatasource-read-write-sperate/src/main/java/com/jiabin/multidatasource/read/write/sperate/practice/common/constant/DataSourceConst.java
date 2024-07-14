@@ -2,7 +2,7 @@ package com.jiabin.multidatasource.read.write.sperate.practice.common.constant;
 
 /**
  * @Description: 数据源常量
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/2/14
  */
 public class DataSourceConst {

@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * @Description: jasper 导出工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/2/4
  */
 public class JasperPdfUtil {

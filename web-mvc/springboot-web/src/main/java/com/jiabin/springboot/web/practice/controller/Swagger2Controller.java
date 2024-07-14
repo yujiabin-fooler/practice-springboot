@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Description: Swagger2 示例控制中心
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/3/23
  */
 @RestController

@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 阿里云 OSS 配置信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/5/9
  */
 @Data

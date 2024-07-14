@@ -19,7 +19,7 @@ import java.net.InetSocketAddress;
 
 /**
  * @Description: 初始化 udt netty 服务
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/25
  */
 @Slf4j

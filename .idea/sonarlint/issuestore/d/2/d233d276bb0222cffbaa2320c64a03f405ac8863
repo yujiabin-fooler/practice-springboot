@@ -3,5 +3,7 @@
 java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f9532680-b7d1-4064-9a8b-e64dbd22e58a
 ~
 java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$56a24687-b8f1-4b41-93f5-53c0098c4431
+`
+java:S11557">Use isEmpty() to check whether the collection is empty or not.(‚°Ã®şÿÿÿÿ8Óøå‰2
 k
 java:S1068"*Remove this unused "LOGGER" private field.(àµ–úÿÿÿÿJ$305b0063-bdd1-43f6-87c2-4c3f8ec5c19c

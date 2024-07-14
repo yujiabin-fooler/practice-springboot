@@ -15,7 +15,7 @@ import java.util.UUID;
 
 /**
  * @Description: 简易拦截器应用
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/12/10
  */
 @Slf4j

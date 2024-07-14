@@ -20,7 +20,7 @@ import javax.sql.DataSource;
 
 /**
  * @Description: 数据源配置-user(主数据源)
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/6/16
  */
 @Slf4j

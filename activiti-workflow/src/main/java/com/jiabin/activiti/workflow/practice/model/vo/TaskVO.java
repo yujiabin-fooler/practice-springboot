@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  * @Description: 任务对象
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/7/10
  */
 @Data

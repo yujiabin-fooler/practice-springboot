@@ -12,7 +12,7 @@ import java.util.Optional;
 
 /**
  * @Description: Kafka 消息消费者
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/2/25
  */
 @Slf4j

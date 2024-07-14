@@ -2,7 +2,7 @@ package com.jiabin.rq.kafka.consumer.practice.common.constant;
 
 /**
  * @Description: Kafka 消息常量
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/2/24
  */
 public class KafkaMessageConst {

@@ -11,3 +11,5 @@ java:S2184;"FCast one of the operands of this multiplication operation to a "lo
 java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞJ$936f4bdb-6b88-4bf8-aa32-6d053a7492c4
 z
 java:S4719H"9Replace charset name argument with StandardCharsets.UTF_8(‹á±ÕÿÿÿÿÿJ$2facfa2f-25cb-4876-bd37-26d3f9a25f0f
+V
+java:S4719K"9Replace charset name argument with StandardCharsets.UTF_8(ìæ°©8§ûå‰2

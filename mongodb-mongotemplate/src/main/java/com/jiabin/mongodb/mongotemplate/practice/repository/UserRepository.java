@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * @Description: 用户数据持久层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/1/6
  */
 public interface UserRepository extends MongoRepository<UserEntity, String> {

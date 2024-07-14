@@ -5,7 +5,7 @@ import java.time.format.DateTimeFormatter;
 
 /**
  * @Description: ID 生成器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/7/9
  */
 public class IDGenerator {

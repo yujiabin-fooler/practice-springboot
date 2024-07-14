@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @Description: Kafka 消息生产者
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/2/24
  */
 @Slf4j

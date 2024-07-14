@@ -10,7 +10,7 @@ import java.nio.channels.FileChannel;
 
 /**
  * @Description: 文件处理工具
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/12/24
  */
 public class ResourceFileUtil {

@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @Description: RocketMQ 事务监听器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/12/6
  */
 @Slf4j

@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 代理人对象
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/7/13
  */
 @Data

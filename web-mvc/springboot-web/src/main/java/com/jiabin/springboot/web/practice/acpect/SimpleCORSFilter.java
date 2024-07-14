@@ -18,7 +18,7 @@ import java.util.Objects;
 
 /**
  * @Description: 跨域请求拦截器(简易版)
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/5/21
  */
 @Slf4j

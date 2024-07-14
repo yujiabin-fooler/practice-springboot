@@ -17,7 +17,7 @@ import java.util.concurrent.CopyOnWriteArraySet;
 
 /**
  * @Description: websocket 服务端站点
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/3/14
  */
 @Slf4j

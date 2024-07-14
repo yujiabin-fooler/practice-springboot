@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * @Description: rabbitMQ 消息发送者
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/21
  */
 @Service

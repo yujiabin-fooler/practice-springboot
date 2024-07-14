@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * @Description: 多数据源示例定时任务
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/6/16
  */
 @Slf4j

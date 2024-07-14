@@ -21,7 +21,7 @@ import java.util.Objects;
 
 /**
  * @Description: 设备信息业务实现类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/4/2
  */
 @Service("deviceInfoService")

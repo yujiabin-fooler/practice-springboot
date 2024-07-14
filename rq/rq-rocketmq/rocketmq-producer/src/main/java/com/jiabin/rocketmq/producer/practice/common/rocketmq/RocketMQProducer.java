@@ -16,7 +16,7 @@ import java.util.UUID;
 
 /**
  * @Description: RocketMQ 生产者
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/12/2
  */
 @Slf4j

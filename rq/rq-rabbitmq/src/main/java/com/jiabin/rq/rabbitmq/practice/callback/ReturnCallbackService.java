@@ -6,7 +6,7 @@ import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.stereotype.Component;
 
 /**
- * @Author: 公众号：程序员小富
+ * @author jiabin.yu
  * @Description:
  */
 @Slf4j

@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 
 /**
  * @Description: 博客信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/11/13
  */
 @Data

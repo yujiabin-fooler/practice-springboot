@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  * @Description: 用户业务层实现类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/11/14
  */
 @Slf4j

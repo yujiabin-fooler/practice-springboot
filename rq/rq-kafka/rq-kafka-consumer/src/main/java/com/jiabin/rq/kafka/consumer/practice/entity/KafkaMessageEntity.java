@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * @Description: Kafka 消息实体类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/2/24
  */
 @Data

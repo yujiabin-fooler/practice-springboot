@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 基础数据展示对象
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/9/19
  */
 @Data

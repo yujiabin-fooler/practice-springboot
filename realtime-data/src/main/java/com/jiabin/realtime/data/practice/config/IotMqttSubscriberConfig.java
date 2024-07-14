@@ -15,7 +15,7 @@ package com.jiabin.realtime.data.practice.config;//package com.mqtt.config;
 //import org.springframework.messaging.MessagingException;
 //
 ///**
-// * @Author: 公众号：程序员小富
+// * @author jiabin.yu
 // * @Description: 消息订阅配置
 // * @date 2020/6/8 18:24
 // */

@@ -2,7 +2,7 @@ package com.jiabin.knife4j.openapi3.practice.common.constant;
 
 /**
  * @Description: 消息推送常量
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/16
  */
 public class MessagePushConst {

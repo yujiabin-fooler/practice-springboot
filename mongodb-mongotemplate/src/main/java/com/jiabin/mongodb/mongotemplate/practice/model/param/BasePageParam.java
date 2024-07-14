@@ -11,7 +11,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 分页查询基础参数
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/11/13
  */
 @Data

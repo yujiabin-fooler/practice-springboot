@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: person 配置类,yml 配置文件读取测试
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/10/27
  */
 @Configuration

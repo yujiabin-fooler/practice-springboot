@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  * @Description: 基础实体类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/4/1
  */
 @Data

@@ -8,7 +8,7 @@ import javax.validation.constraints.Pattern;
 
 /**
  * @Description: 用户注册接收参数bean
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/24
  */
 @Data

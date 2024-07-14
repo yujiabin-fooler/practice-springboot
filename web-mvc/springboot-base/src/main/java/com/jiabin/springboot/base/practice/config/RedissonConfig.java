@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: Redisson 分布式锁配置类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/9/27
  */
 @Getter

@@ -12,14 +12,14 @@ java:S6813 "BRemove this field injection and use constructor injection instead.
 ~
 java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞJ$6e29ca55-6fe4-4a93-8ce2-bce212600ea4
 “
-java:S3305"RInject this field value directly into "filterChain", the only method that uses it.(úš§úÿÿÿÿJ$b1b86542-5816-453d-b21b-f2644feb4f62
-
-java:S3305"RInject this field value directly into "filterChain", the only method that uses it.(­£ØğJ$1185d033-a565-49b1-babe-d88d1542414c
-
-java:S3305!"RInject this field value directly into "filterChain", the only method that uses it.(›³…ÔJ$c4b1f84a-3167-4b19-b164-2a81378f387e
-“
 java:S3305"RInject this field value directly into "filterChain", the only method that uses it.(¡ê–’úÿÿÿÿJ$c9fce702-8e7f-466e-b391-6f507a81d24a
 “
 java:S3305"RInject this field value directly into "filterChain", the only method that uses it.(î›£üÿÿÿÿJ$4195a648-ddb0-49b7-b8a3-9ef8f487c7a9
 
 java:S3305#"RInject this field value directly into "filterChain", the only method that uses it.(’ÎˆJ$ef9da77a-031b-4080-b3f4-905e4c594c96
+
+java:S3305!"RInject this field value directly into "filterChain", the only method that uses it.(›³…ÔJ$c4b1f84a-3167-4b19-b164-2a81378f387e
+
+java:S3305"RInject this field value directly into "filterChain", the only method that uses it.(­£ØğJ$1185d033-a565-49b1-babe-d88d1542414c
+“
+java:S3305"RInject this field value directly into "filterChain", the only method that uses it.(úš§úÿÿÿÿJ$b1b86542-5816-453d-b21b-f2644feb4f62

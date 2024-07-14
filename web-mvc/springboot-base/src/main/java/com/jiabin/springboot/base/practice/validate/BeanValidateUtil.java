@@ -9,7 +9,7 @@ import java.util.Set;
 
 /**
  * @Description: java bean 参数校验工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/24
  */
 public class BeanValidateUtil {

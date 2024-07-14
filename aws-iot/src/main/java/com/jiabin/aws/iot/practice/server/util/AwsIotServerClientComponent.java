@@ -20,7 +20,7 @@ import java.util.Objects;
 
 /**
  * @Description: AWS iot 服务端工具类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/7/21
  */
 @Slf4j

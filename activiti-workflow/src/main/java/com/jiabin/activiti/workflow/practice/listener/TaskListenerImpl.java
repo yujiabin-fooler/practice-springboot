@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Value;
 
 /**
  * @Description: 流程任务监听器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/7/8
  */
 public class TaskListenerImpl implements TaskListener {

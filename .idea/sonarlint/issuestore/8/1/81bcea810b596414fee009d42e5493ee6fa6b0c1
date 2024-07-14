@@ -1,6 +1,10 @@
 
 †	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(çÂ´ûşÿÿÿÿJ$14e27f31-89b2-4c44-b90e-3bcd8e55823d
 †	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(ÚÛ›ÇüÿÿÿÿJ$54f5e47d-216a-4848-a0f2-c3f2e84454bd
+F
+java:S2629X"$Invoke method(s) only conditionally.(ä¥‘Úûÿÿÿÿ8¨ôˆå‰2
+j
+java:S2259;"HA "NullPointerException" could be thrown; "attributes" is nullable here.(¨åİÇúÿÿÿÿ8õˆå‰2
 Â
 java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çÂ´ûşÿÿÿÿJ$fe46d483-cce1-490c-adb2-5e947ffc7310
 Â

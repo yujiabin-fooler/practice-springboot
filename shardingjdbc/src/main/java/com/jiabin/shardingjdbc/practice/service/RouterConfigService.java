@@ -8,7 +8,7 @@ import com.jiabin.shardingjdbc.practice.model.param.RouterConfigQueryPageParam;
 
 /**
  * @Description: 路由器配置业务接口
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/4/1
  */
 public interface RouterConfigService {

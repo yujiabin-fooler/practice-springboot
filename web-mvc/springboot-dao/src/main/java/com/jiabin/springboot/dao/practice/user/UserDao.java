@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * @Description: 用户模块DAO
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2018/10/8
  */
 @Repository

@@ -17,7 +17,7 @@ import java.nio.charset.StandardCharsets;
 
 /**
  * @Description: Netty 客户端
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/22
  */
 @Slf4j

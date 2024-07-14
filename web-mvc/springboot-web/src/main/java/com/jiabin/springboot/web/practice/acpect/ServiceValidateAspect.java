@@ -15,7 +15,7 @@ import java.lang.reflect.Method;
 
 /**
  * @Description: service 层入参校验切点
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/24
  */
 @Aspect

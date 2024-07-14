@@ -6,7 +6,7 @@ import com.jiabin.jetcache.practice.model.param.user.*;
 
 /**
  * @Description: JetCache 缓存示例用户业务层接口
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/3/25
  */
 public interface IJetCacheUserService {

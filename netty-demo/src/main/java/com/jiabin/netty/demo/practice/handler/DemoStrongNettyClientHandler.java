@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @Description: 强化版 netty 客户端事务处理器
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/23
  */
 @Slf4j

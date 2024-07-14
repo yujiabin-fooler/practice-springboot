@@ -9,7 +9,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * @Description: wed mvc 配置信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/12/10
  */
 @Component

@@ -12,7 +12,7 @@ import javax.annotation.Resource;
 
 /**
  * @Description: 消息推送定时任务
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/17
  */
 @Component

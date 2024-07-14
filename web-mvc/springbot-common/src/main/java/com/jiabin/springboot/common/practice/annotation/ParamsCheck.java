@@ -7,7 +7,7 @@ import java.lang.annotation.Target;
 
 /**
  * @Description: 参数校验注解
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/24
  */
 @Target({ ElementType.METHOD, ElementType.FIELD})

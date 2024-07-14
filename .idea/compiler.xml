@@ -624,6 +624,7 @@
       <module name="websocket-qrcode" options="-parameters" />
       <module name="websocket-rabbitmq" options="-parameters" />
       <module name="wechat-mp" options="-parameters" />
+      <module name="work-flowable" options="-parameters" />
       <module name="zipkin" options="-parameters" />
       <module name="zookeeper-serviceregistry" options="-parameters" />
     </option>

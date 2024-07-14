@@ -18,7 +18,7 @@ import java.util.Map;
 
 /**
  * @Description: Swagger2 业务具体实现类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/3/23
  */
 @Service("swagger2Service")

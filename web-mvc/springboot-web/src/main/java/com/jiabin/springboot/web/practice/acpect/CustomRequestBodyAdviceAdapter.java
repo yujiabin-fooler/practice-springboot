@@ -13,7 +13,7 @@ import java.lang.reflect.Type;
 
 /**
  * @Description: 请求参数处理类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/1/8
  */
 @ControllerAdvice

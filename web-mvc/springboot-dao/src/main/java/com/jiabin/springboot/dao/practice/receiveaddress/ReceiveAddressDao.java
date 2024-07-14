@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * @Description: 收货地址数据持久层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/6/16
  */
 @Repository

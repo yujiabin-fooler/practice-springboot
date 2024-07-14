@@ -7,7 +7,7 @@ import java.lang.annotation.Target;
 
 /**
  * @Description: 出入参日志配置参数
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/1/14
  */
 @Target(ElementType.METHOD)

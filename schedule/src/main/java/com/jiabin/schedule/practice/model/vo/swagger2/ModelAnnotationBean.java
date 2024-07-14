@@ -6,7 +6,7 @@ import lombok.Data;
 
 /**
  * @Description: Swagger2 注解示例 bean
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/3/23
  */
 @Data

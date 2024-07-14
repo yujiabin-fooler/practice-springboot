@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 多语言, 国际化接口返回结果封装
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/24
  */
 @Data

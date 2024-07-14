@@ -2,7 +2,7 @@ package com.jiabin.jetcache.practice.common.constant;
 
 /**
  * @Description: JetCache 缓存常量类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/3/25
  */
 public interface JetCacheConst {

@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 路由器配置新增单条
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/4/1
  */
 @Data

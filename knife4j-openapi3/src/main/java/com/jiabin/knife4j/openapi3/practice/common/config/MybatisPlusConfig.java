@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @Description: mapper plus 配置
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2023/8/16
  */
 @Configuration

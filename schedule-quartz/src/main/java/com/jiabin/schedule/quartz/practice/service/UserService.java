@@ -2,7 +2,7 @@ package com.jiabin.schedule.quartz.practice.service;
 
 /**
  * @Description: 用户业务层接口
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/11/14
  */
 public interface UserService {

@@ -15,7 +15,7 @@ import java.nio.charset.StandardCharsets;
 
 /**
  * @Description: iot 设备示例控制层
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2022/7/22
  */
 @RestController

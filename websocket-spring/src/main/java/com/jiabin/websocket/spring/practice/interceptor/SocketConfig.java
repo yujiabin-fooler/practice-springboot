@@ -8,7 +8,7 @@ import org.springframework.web.socket.config.annotation.WebSocketHandlerRegistry
 
 /**
  * @Description: websocket 拦截器配置
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/3/19
  */
 @Configuration

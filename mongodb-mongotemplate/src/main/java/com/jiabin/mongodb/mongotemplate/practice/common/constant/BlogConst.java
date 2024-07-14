@@ -2,7 +2,7 @@ package com.jiabin.mongodb.mongotemplate.practice.common.constant;
 
 /**
  * @Description: 博客相关常量
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/11/19
  */
 public class BlogConst {

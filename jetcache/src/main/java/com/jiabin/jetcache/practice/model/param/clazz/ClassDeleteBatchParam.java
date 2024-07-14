@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 批量删除班级
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/10/14
  */
 @Data

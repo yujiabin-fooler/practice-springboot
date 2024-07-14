@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 博客日期分组信息
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2021/11/19
  */
 @Data

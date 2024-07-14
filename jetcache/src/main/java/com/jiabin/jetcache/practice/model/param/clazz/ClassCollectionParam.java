@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 查询班级集合
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2020/12/22
  */
 @Data

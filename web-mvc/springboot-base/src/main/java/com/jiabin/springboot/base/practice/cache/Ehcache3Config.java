@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @Description: Ehcache 3 配置类
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/3/16
  */
 @Component

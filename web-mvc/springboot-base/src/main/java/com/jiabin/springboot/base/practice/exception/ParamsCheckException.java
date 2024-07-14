@@ -6,7 +6,7 @@ import lombok.Data;
 
 /**
  * @Description: 自定义参数校验异常
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/1/24
  */
 @Data

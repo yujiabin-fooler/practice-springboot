@@ -1,4 +1,8 @@
 
+K
+java:S3740+"/Provide the parametrized type for this generic.(ûâ˜#8±å‰2
+Q
+java:S3740K"/Provide the parametrized type for this generic.(û¹ŠÌıÿÿÿÿ8±å‰2
 	java:S116 "SRename this field "ENDPOINT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çµæ£J$f7bfe504-e2bb-409b-be9d-b31bbe457025
 ‘	java:S116""VRename this field "BUCKET_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒá¬öJ$670218ac-a2b2-4522-805b-db0fb9725cb7
 	java:S116$"URename this field "ACCESS_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç÷¾ÒJ$48aa6ba7-0bdd-4363-ab28-fe5be6bc3804

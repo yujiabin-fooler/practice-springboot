@@ -5,7 +5,7 @@ import com.jiabin.springboot.model.practice.vo.swagger2.ModelAnnotationBean;
 
 /**
  * @Description: Swagger2 业务接口
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/3/23
  */
 public interface Swagger2Service {

@@ -6,7 +6,7 @@ import lombok.experimental.Accessors;
 
 /**
  * @Description: 视频文件信息返回对象
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2024/5/10
  */
 @Data

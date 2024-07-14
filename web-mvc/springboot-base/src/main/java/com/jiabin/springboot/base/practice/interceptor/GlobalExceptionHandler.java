@@ -20,7 +20,7 @@ import org.springframework.web.servlet.NoHandlerFoundException;
 
 /**
  * @Description: 全局异常处理
- * @Author: junqiang.lu
+ * @Author jiabin.yu
  * @Date: 2019/12/2
  */
 @ControllerAdvice
