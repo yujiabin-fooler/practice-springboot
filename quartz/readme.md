@@ -1,3 +1,10 @@
+示例中完整代码，可以从下面网址获取：
+
+https://gitee.com/jlearning/wechatdemo.git
+
+https://github.com/icoderoad/wxdemo.git
+
+
 
 
 使用 Springboot+ Quartz + Thymeleaf + Bootstrap 定时任务功能
