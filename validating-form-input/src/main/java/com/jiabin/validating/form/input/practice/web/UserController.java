@@ -16,7 +16,7 @@ import javax.validation.Valid;
 /**
  * 用户控制层
  *
- * Created by bysocket on 24/07/2017.
+ * @author jiabin.yu 24/07/2017.
  */
 @Controller
 @RequestMapping(value = "/users")     // 通过这里配置使下面的映射都在 /users

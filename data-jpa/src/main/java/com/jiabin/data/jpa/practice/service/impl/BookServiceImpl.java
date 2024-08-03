@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * Book 业务层实现
  *
- * Created by bysocket on 30/09/2017.
+ * @author jiabin.yu 30/09/2017.
  */
 @Service
 public class BookServiceImpl implements BookService {

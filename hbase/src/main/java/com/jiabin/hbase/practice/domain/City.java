@@ -3,7 +3,7 @@ package com.jiabin.hbase.practice.domain;
 /**
  * 城市实体类
  *
- * Created by bysocket on 07/02/2017.
+ * @author jiabin.yu 07/02/2017.
  */
 public class City {
 
