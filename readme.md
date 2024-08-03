@@ -21,4 +21,10 @@ https://github.com/javastacks/spring-boot-best-practice
 
 优秀参考项目：
 https://github.com/macrozheng/mall-learning/tree/master
+https://github.com/Harries/springboot-demo
+https://github.com/sanyou3?tab=repositories
+https://github.com/iluwatar/java-design-patterns
+https://github.com/alvinlkk
+
+
 

@@ -1,14 +1,14 @@
 
-†	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(–ÌßóøÿÿÿÿJ$6935611a-8b24-436d-b1d4-5ef34c4b4bcc
-ˆ	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(Œ¥ùÊ8Û€Ü«Š2J$c18aa9da-a893-4175-bf4d-60982bd00abb
-‘	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÖŸ”şÿÿÿÿJ$c907badf-72b6-42a8-87d5-bd15762d685c
+†	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(–ÌßóøÿÿÿÿJ$08187afa-9aac-4a5c-bc71-71af71069900
+ˆ	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(Œ¥ùÊ8Û€Ü«Š2J$0d880a5a-4c67-4459-be1b-b9562d3fbe1f
+‘	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÖŸ”şÿÿÿÿJ$e34fb0b3-3d94-4df0-b73e-4d17d67f9ad2
 ­
-java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8šƒÜ«Š2J$7eb95836-de6a-4046-ac58-6ace9ae2a3cf
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8šƒÜ«Š2J$b56f7ea5-8584-40c8-b49c-4d3e582dab58
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒÜ«Š2J$002e487f-b10c-4a7a-b144-e69eab9d64d1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒÜ«Š2J$ecb642bf-666f-4126-a987-32a24cb8d10f
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒÜ«Š2J$3f8c2a8f-9cba-41ee-9968-568aaf4d5429
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒÜ«Š2J$749f6d72-83a9-4c66-84ce-471da74c1d10
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒÜ«Š2J$3b68faa9-a61e-43ea-bdb4-51baaba55432
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒÜ«Š2J$6d293cec-13b3-49b2-9dd3-498283c615f0
 …
-java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒÜ«Š2J$741c09e4-c61e-4c56-a107-10beae6e42c8
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒÜ«Š2J$77336865-24df-49ee-9f1e-1dbe0ceffe2c

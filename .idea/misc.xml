@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
@@ -315,6 +316,12 @@
         <option value="$PROJECT_DIR$/springboot-features/delayqueue/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-features/database-doc/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-features/banner/pom.xml" />
+        <option value="$PROJECT_DIR$/cross-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/easyexcel/pom.xml" />
+        <option value="$PROJECT_DIR$/menu-role/pom.xml" />
+        <option value="$PROJECT_DIR$/data-desensitization/pom.xml" />
+        <option value="$PROJECT_DIR$/shardingsphere-encryption-decryption/pom.xml" />
+        <option value="$PROJECT_DIR$/annotation-validation/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

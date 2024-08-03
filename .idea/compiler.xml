@@ -25,6 +25,7 @@
         <module name="rabbit" />
         <module name="springboot-starter" />
         <module name="wechat-mp" />
+        <module name="menu-role" />
         <module name="spring-batch" />
         <module name="grpc-nacos" />
         <module name="s3" />
@@ -57,6 +58,7 @@
         <module name="redis-real-time-analysis" />
         <module name="restful" />
         <module name="webrtc" />
+        <module name="shardingsphere-encryption-decryption" />
         <module name="lucene" />
         <module name="dubbo-nacos-xml" />
         <module name="dubbo-samples-seata-api" />
@@ -90,6 +92,7 @@
         <module name="at-api" />
         <module name="xxl-job-core" />
         <module name="nacos-dubbo-provider" />
+        <module name="annotation-validation" />
         <module name="protobuf" />
         <module name="webhook" />
         <module name="rocketmq-transanction" />
@@ -185,6 +188,7 @@
         <module name="schedule" />
         <module name="guava-retry" />
         <module name="pdf" />
+        <module name="easyexcel" />
         <module name="springboot-swagger2" />
         <module name="guava" />
         <module name="smartdoc" />
@@ -230,6 +234,7 @@
         <module name="redis-lock" />
         <module name="xxljob" />
         <module name="springboot-seata" />
+        <module name="cross-domain" />
         <module name="pagehelper" />
         <module name="debezium" />
         <module name="geotools" />
@@ -298,6 +303,7 @@
         <module name="docker-compose" />
         <module name="springboot-test-demo" />
         <module name="dubbo-provider-client" />
+        <module name="data-desensitization" />
         <module name="distributed-transaction-seata-at" />
         <module name="rq-rabbitmq" />
         <module name="websocket" />
@@ -395,6 +401,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="activiti" options="-parameters" />
       <module name="activiti-workflow" options="-parameters" />
+      <module name="annotation-validation" options="-parameters" />
       <module name="aop-unifiedlog" options="-parameters" />
       <module name="arthas" options="-parameters" />
       <module name="arthas2" options="-parameters" />
@@ -409,6 +416,8 @@
       <module name="capture-video-shot" options="-parameters" />
       <module name="compressed-files" options="-parameters" />
       <module name="content-negotiation" options="-parameters" />
+      <module name="cross-domain" options="-parameters" />
+      <module name="data-desensitization" options="-parameters" />
       <module name="data-jpa" options="-parameters" />
       <module name="database-doc" options="-parameters" />
       <module name="debezium" options="-parameters" />
@@ -434,6 +443,7 @@
       <module name="dynamic-sql" options="-parameters" />
       <module name="easy-es" options="-parameters" />
       <module name="easy-excel" options="-parameters" />
+      <module name="easyexcel" options="-parameters" />
       <module name="easypoi" options="-parameters" />
       <module name="elastic-apm" options="-parameters" />
       <module name="elasticsearch-crud" options="" />
@@ -492,6 +502,7 @@
       <module name="mail-javamail" options="-parameters" />
       <module name="mail-javamailsender" options="-parameters" />
       <module name="mapstruct" options="-parameters" />
+      <module name="menu-role" options="-parameters" />
       <module name="minio" options="-parameters" />
       <module name="mockmvc" options="-parameters" />
       <module name="mongodb-mongotemplate" options="-parameters" />
@@ -564,6 +575,7 @@
       <module name="shardingsphere-algorithm" options="-parameters" />
       <module name="shardingsphere-autocreate-table" options="-parameters" />
       <module name="shardingsphere-default-strategy" options="-parameters" />
+      <module name="shardingsphere-encryption-decryption" options="-parameters" />
       <module name="shardingsphere-fundamental" options="-parameters" />
       <module name="sitemap" options="-parameters" />
       <module name="smartdoc" options="-parameters" />

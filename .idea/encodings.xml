@@ -8,6 +8,8 @@
     <file url="file://$PROJECT_DIR$/activiti/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/actuator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/actuator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/annotation-validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/annotation-validation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aop/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aop/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arthas/src/main/java" charset="UTF-8" />
@@ -42,6 +44,10 @@
     <file url="file://$PROJECT_DIR$/config/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/content-negotiation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/content-negotiation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cross-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cross-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-desensitization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-desensitization/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data-jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data-jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/debezium/src/main/java" charset="UTF-8" />
@@ -113,6 +119,8 @@
     <file url="file://$PROJECT_DIR$/easy-es/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easy-excel/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easy-excel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyexcel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easyexcel/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easypoi/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easypoi/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ehcache/src/main/java" charset="UTF-8" />
@@ -301,6 +309,8 @@
     <file url="file://$PROJECT_DIR$/mail/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mapstruct/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mapstruct/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/menu-role/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/menu-role/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/minio/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/minio/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mockito/src/main/java" charset="UTF-8" />
@@ -615,6 +625,8 @@
     <file url="file://$PROJECT_DIR$/sharding-jdbc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shardingjdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shardingjdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shardingsphere-encryption-decryption/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shardingsphere-encryption-decryption/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shardingsphere/shardingshpere-sequence-algorithm/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shardingsphere/shardingshpere-sequence-algorithm/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shardingsphere/shardingsphere-algorithm/src/main/java" charset="UTF-8" />
