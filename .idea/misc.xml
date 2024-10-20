@@ -322,6 +322,9 @@
         <option value="$PROJECT_DIR$/data-desensitization/pom.xml" />
         <option value="$PROJECT_DIR$/shardingsphere-encryption-decryption/pom.xml" />
         <option value="$PROJECT_DIR$/annotation-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-flex/pom.xml" />
+        <option value="$PROJECT_DIR$/skywalking/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo3/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

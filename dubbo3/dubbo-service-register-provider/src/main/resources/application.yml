@@ -1,0 +1,5 @@
+dubbo:
+  application:
+    name: dubbo-demo-provider
+  registry:
+    address: nacos://localhost:8848?namingLoadCacheAtStart=false

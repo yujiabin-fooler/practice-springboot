@@ -60,6 +60,7 @@
         <module name="webrtc" />
         <module name="shardingsphere-encryption-decryption" />
         <module name="lucene" />
+        <module name="dubbo-service-register-consumer" />
         <module name="dubbo-nacos-xml" />
         <module name="dubbo-samples-seata-api" />
         <module name="knife4j-openapi3" />
@@ -94,12 +95,14 @@
         <module name="nacos-dubbo-provider" />
         <module name="annotation-validation" />
         <module name="protobuf" />
+        <module name="dubbo-service-register-api" />
         <module name="webhook" />
         <module name="rocketmq-transanction" />
         <module name="oss-rabbitmq-springtask-jwt" />
         <module name="jsp-jpa" />
         <module name="schedule-xxljob" />
         <module name="oauth2" />
+        <module name="skywalking" />
         <module name="vavr" />
         <module name="elastic-job" />
         <module name="logstash" />
@@ -254,6 +257,7 @@
         <module name="jenkins" />
         <module name="jsonpath" />
         <module name="elasticsearch-query" />
+        <module name="dubbo-service-register-provider" />
         <module name="graphql" />
         <module name="event" />
         <module name="globeexception" />
@@ -307,6 +311,7 @@
         <module name="distributed-transaction-seata-at" />
         <module name="rq-rabbitmq" />
         <module name="websocket" />
+        <module name="mybatis-flex" />
         <module name="mybatis-xml" />
         <module name="plate-recognition-tesseract-ocr" />
         <module name="fastdfs" />

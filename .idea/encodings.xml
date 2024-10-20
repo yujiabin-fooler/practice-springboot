@@ -109,6 +109,14 @@
     <file url="file://$PROJECT_DIR$/dubbo/dubbo-provider/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo3/dubbo-service-register-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo3/dubbo-service-register-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo3/dubbo-service-register-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo3/dubbo-service-register-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo3/dubbo-service-register-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo3/dubbo-service-register-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dynamic-datasource/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dynamic-datasource/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dynamic-sql/src/main/java" charset="UTF-8" />
@@ -345,6 +353,8 @@
     <file url="file://$PROJECT_DIR$/mvc-web/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-annotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-flex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-flex/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-generator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-generator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-plus/src/main/java" charset="UTF-8" />
@@ -641,6 +651,8 @@
     <file url="file://$PROJECT_DIR$/shardingsphere/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sitemap/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sitemap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skywalking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skywalking/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smartdoc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smartdoc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/solr/src/main/java" charset="UTF-8" />
