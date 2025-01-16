@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-boot-completableFuture_mono
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 22:mm:ss
+---
+server:
+  tomcat:
+    threads:
+      min-spare: 2
+      max: 2

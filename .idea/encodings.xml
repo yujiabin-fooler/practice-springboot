@@ -12,6 +12,14 @@
     <file url="file://$PROJECT_DIR$/annotation-validation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aop/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop_api_limitation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop_api_limitation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop_authority/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop_authority/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop_dynamic_advice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop_dynamic_advice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_secret_signature/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_secret_signature/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arthas/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arthas/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arthas2/src/main/java" charset="UTF-8" />
@@ -24,6 +32,7 @@
     <file url="file://$PROJECT_DIR$/atomikos/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aws-iot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aws-iot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/big_transaction/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/c3p0/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/c3p0/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cache/src/main/java" charset="UTF-8" />
@@ -38,6 +47,7 @@
     <file url="file://$PROJECT_DIR$/capture-video-shot/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chatgpt/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chatgpt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/completablefuture_mono/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/compressed-files/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/compressed-files/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config/src/main/java" charset="UTF-8" />
@@ -50,6 +60,8 @@
     <file url="file://$PROJECT_DIR$/data-desensitization/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data-jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data-jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/debezium/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/debezium/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/detect-faces/src/main/java" charset="UTF-8" />
@@ -123,12 +135,17 @@
     <file url="file://$PROJECT_DIR$/dynamic-sql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dynamic-table/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dynamic-table/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamic_mgr_controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamic_mgr_controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamic_router/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamic_router/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easy-es/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easy-es/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easy-excel/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easy-excel/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easyexcel/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easyexcel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easypdf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easypoi/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/easypoi/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ehcache/src/main/java" charset="UTF-8" />
@@ -150,6 +167,7 @@
     <file url="file://$PROJECT_DIR$/elk/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/email-attachment/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/email-attachment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encrypt_filed_likequery/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/encypt/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/encypt/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/erupt-job/src/main/java" charset="UTF-8" />
@@ -162,6 +180,7 @@
     <file url="file://$PROJECT_DIR$/event/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exceptionHandler/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exceptionHandler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extension_point/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/face-detection/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/face-detection/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fastdfs/src/main/java" charset="UTF-8" />
@@ -188,6 +207,8 @@
     <file url="file://$PROJECT_DIR$/geodesy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/geotools/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/geotools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/get_endpoints/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/get_endpoints/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gitlab/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gitlab/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/globeexception/src/main/java" charset="UTF-8" />
@@ -260,6 +281,8 @@
     <file url="file://$PROJECT_DIR$/itext/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itextpdf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itextpdf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jackson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jackson/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/japidocs/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/japidocs/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/javamail/src/main/java" charset="UTF-8" />
@@ -271,6 +294,7 @@
     <file url="file://$PROJECT_DIR$/jetcache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa_lock/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jsch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jsch/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/json-desensitize/src/main/java" charset="UTF-8" />
@@ -304,6 +328,7 @@
     <file url="file://$PROJECT_DIR$/knife4j-openapi3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/log4j/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/log4j/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/logback/src/main/java" charset="UTF-8" />
@@ -342,6 +367,7 @@
     <file url="file://$PROJECT_DIR$/mq-rabbit/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mqtt/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mqtt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multi_threading_tx/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multidatasource-ds-annotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multidatasource-ds-annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multidatasource-ds-custom-annotation/src/main/java" charset="UTF-8" />
@@ -361,6 +387,7 @@
     <file url="file://$PROJECT_DIR$/multipartfile-fileupload/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mvc-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mvc-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-annotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-flex/src/main/java" charset="UTF-8" />
@@ -373,6 +400,7 @@
     <file url="file://$PROJECT_DIR$/mybatis-xml/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mycat/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mycat/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mysql_binlog/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-dubbo/nacos-dubbo-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-dubbo/nacos-dubbo-consumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-dubbo/nacos-dubbo-provider/src/main/java" charset="UTF-8" />

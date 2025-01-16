@@ -1,0 +1,46 @@
+spring:
+  application:
+    name: spring-boot-multi_threading_tx
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 22:mm:ss
+---
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/testjpa?serverTimezone=GMT%2B8&useSSL=false&characterEncoding=UTF-8
+    username: root
+    password: 123123
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimumIdle: 100
+      maximumPoolSize: 100
+      autoCommit: true
+      idleTimeout: 30000
+      poolName: MasterDatabookHikariCP
+      maxLifetime: 1800000
+      connectionTimeout: 30000
+      connectionTestQuery: SELECT 1
+---
+spring:
+  jpa:
+    generateDdl: false
+    hibernate:
+      ddlAuto: update
+    openInView: true
+    show-sql: true
+    properties:
+      hibernate:
+        '[use_sql_comments]': true
+        '[format_sql]': true
+---
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+  mapper-locations: claspath*:mapper/**/*Mapper.xml
+  type-aliases-package: com.jiabin.multi.threading.tx.practice.jpa.domain
+
+
+              

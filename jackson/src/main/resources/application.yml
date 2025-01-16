@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-boot-jackson
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 21:mm:ss
+---

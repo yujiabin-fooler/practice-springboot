@@ -1,0 +1,41 @@
+spring:
+  application:
+    name: spring-boot-aop_authority
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 22:mm:ss
+---
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ddd?serverTimezone=GMT%2B8&useSSL=false&characterEncoding=UTF-8
+    username: root
+    password: 123123
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimumIdle: 100
+      maximumPoolSize: 100
+      autoCommit: true
+      idleTimeout: 30000
+      poolName: MasterDatabookHikariCP
+      maxLifetime: 1800000
+      connectionTimeout: 30000
+      connectionTestQuery: SELECT 1
+---
+spring:
+  jpa:
+    generateDdl: false
+    hibernate:
+      ddlAuto: update
+    openInView: true
+    show-sql: true
+    properties:
+      hibernate:
+        '[use_sql_comments]': true
+        '[format_sql]': true
+---
+jwt:
+  secret: aaaabbbbccccdddd1111222233334444
+  expiration: 3600000        

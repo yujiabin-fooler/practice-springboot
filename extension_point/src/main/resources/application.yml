@@ -1,0 +1,46 @@
+# 配置文件加载解析过程：
+# 1.确定从哪些位置加载
+#   · 确定当前环境属性中是否有spring.config.import则添加到要加载的任务中（可通过启动参数或系统属性-D）
+#   · 确定当前环境属性中是否有spring.config.additional-location有则添加到加载任务中(可通过启动参数或系统属性-D)
+#   · 将系统默认属性添加加载任务中（[optional:classpath:/;optional:classpath:/config/, optional:file:./;optional:file:./config/;optional:file:./config/*/]）
+#     加载顺序是：file ---> classpath
+# 1.1.确定要加载的文件
+#     上面默认都是配置的目录，也可以直接给定的文件（比如通过spring.config.import指定的文件）
+#     默认使用的是StandardConfigDataLocationResolver，该解析器会从spring.config.name中获取值，如果没有配置，则使用默认的application             
+#     StandardConfigDataLocationResolver会通过PropertySourceLoader来确定文件名
+#     PropertySourceLoader中定义了能够加载哪些格式的文件，然后根据上面确定的目录再与默认的名称+后缀组成文件名
+#     最终创建的资源会保存当前是哪个PropertySourceLoader来加载资源，在第二步直接使用
+#     如：
+#       第一组：[file:./application.yaml, file:./application.yml, file:./application.xml, file:./application.properties, file:./application.ini, file:./config/application.yaml, file:./config/application.yml, file:./config/application.xml, file:./config/application.properties, file:./config/application.ini, file:./config/*/application.yaml, file:./config/*/application.yml, file:./config/*/application.xml, file:./config/*/application.properties, file:./config/*/application.ini]
+#       第二组：[classpath:/application.yaml, classpath:/application.yml, classpath:/application.xml, classpath:/application.properties, classpath:/application.ini, classpath:/config/application.yaml, classpath:/config/application.yml, classpath:/config/application.xml, classpath:/config/application.properties, classpath:/config/application.ini]
+# 2.加载资源
+#   确定了资源后，接下来就是加载这些资源了。最终根据资源的类型判断由谁来加载这些资源，默认由StandardConfigDataLoader加载
+#   遍历所有的资源然后使用在第一步中确定的PropertySourceLoader来加载具体的资源内容。
+# 3.添加PropertySource  
+#   将上面加载的资源PropertySource添加到Environment。
+spring:
+  application:
+    name: spring-boot-extension_point
+---
+server:
+  port: 8000
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 23:mm:ss
+  level:
+    root: INFO
+    '[org.springframework.boot.context.config.ConfigDataEnvironmentContributors]': INFO
+---
+debug: false
+---
+pack:
+  app:
+    enabled: false    
+---
+spring:
+  config:
+    import:
+    - info.ini
+    - m.properties

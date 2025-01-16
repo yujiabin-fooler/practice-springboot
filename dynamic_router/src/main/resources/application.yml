@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: spring-boot-dynamic_router
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 21:mm:ss
+---
+spring:
+  jackson:
+    date-format: yyyy-MM-dd    

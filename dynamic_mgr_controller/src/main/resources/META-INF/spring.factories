@@ -1,0 +1,2 @@
+org.springframework.boot.ApplicationContextFactory=\
+com.jiabin.dynamic.mgr.pracitce.factory.PackServletWebServerApplicationContextFactory

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
@@ -329,6 +330,25 @@
         <option value="$PROJECT_DIR$/spring-spi/dubbo-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-spi/java-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-spi/springboot-api/pom.xml" />
+        <option value="$PROJECT_DIR$/aop_api_limitation/pom.xml" />
+        <option value="$PROJECT_DIR$/aop_authority/pom.xml" />
+        <option value="$PROJECT_DIR$/aop_dynamic_advice/pom.xml" />
+        <option value="$PROJECT_DIR$/api_secret_signature/pom.xml" />
+        <option value="$PROJECT_DIR$/data_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/completablefuture_mono/pom.xml" />
+        <option value="$PROJECT_DIR$/big_transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic_mgr_controller/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic_router/pom.xml" />
+        <option value="$PROJECT_DIR$/easypdf/pom.xml" />
+        <option value="$PROJECT_DIR$/encrypt_filed_likequery/pom.xml" />
+        <option value="$PROJECT_DIR$/extension_point/pom.xml" />
+        <option value="$PROJECT_DIR$/get_endpoints/pom.xml" />
+        <option value="$PROJECT_DIR$/jackson/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa_lock/pom.xml" />
+        <option value="$PROJECT_DIR$/log/pom.xml" />
+        <option value="$PROJECT_DIR$/multi_threading_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/mysql_binlog/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -347,7 +367,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

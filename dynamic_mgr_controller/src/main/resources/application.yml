@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: spring-boot-dynamic_mgr_controller

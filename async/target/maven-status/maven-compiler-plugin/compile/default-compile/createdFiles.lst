@@ -1,6 +1,11 @@
+com\jiabin\async\practice\AsyncPracticeApplication.class
+com\async\pracitce\SpringBootAsyncApplication.class
 com\jiabin\async\practice\service\FirstAsyncService.class
 com\jiabin\async\practice\config\SpringAsyncConfig.class
 com\jiabin\async\practice\exception\CustomAsyncExceptionHandler.class
-com\jiabin\async\practice\DemoApplication.class
+com\async\pracitce\task\ComposeService.class
+com\async\pracitce\config\AsyncConfig$AsyncExceptionHandler.class
 com\jiabin\async\practice\service\SecondAsyncService.class
 com\jiabin\async\practice\service\NotifyService.class
+com\async\pracitce\task\TaskService.class
+com\async\pracitce\config\AsyncConfig.class

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Long类型太大缺失精度</title>
+  <script src="/js/axios.js"></script>
+  <script>
+	  function getData() {
+	  	axios.get('http://localhost:8080/longs/user')
+	  		.then(resp => {
+				console.log(resp.data) ;
+            }).catch((error) => {
+            	console.log(error) ;
+            });
+	  }
+  </script>
+ </head>
+ <body>
+ 	<button type="button" onclick="getData()">获取Long数据</button>
+ </body>
+</html>

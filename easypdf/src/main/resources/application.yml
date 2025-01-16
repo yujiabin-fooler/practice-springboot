@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: spring-boot-easypdf
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 23:mm:ss
+---
+pack:
+  app:
+    pdf:
+      # 定义fop配置文件路径
+      configPath: E:\pdf\fop.xconf
+      # 定义xsl-fo模板路径（目录）
+      templatePath: E:\pdf\template

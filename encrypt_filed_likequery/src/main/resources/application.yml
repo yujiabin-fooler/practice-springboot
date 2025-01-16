@@ -1,0 +1,51 @@
+spring:
+  application:
+    name: spring-boot-encrypt_filed_likequery
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 23:mm:ss
+  level:
+    '[com.jiabin.encrypt.filed.likequery.mapper]': DEBUG
+---
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/dblock?serverTimezone=GMT%2B8&useSSL=false&characterEncoding=UTF-8
+    username: root
+    password: 123123
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimumIdle: 100
+      maximumPoolSize: 100
+      autoCommit: true
+      idleTimeout: 30000
+      poolName: MasterDatabookHikariCP
+      maxLifetime: 1800000
+      connectionTimeout: 30000
+      connectionTestQuery: SELECT 1
+---
+spring:
+  jpa:
+    generateDdl: false
+    hibernate:
+      ddlAuto: update
+    openInView: true
+    show-sql: true
+    properties:
+      hibernate:
+        '[use_sql_comments]': true
+        '[format_sql]': true
+---
+mybatis:
+  configuration:
+      map-underscore-to-camel-case: true
+      log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl
+  type-aliases-package: com.jiabin.encrypt.filed.likequery.domain
+  mapper-locations:
+  - classpath:mapper/*.xml
+---
+pack:
+  app:
+    secretKey: aaaabbbbccccdddd                  

@@ -1,0 +1,41 @@
+spring:
+  application:
+    name: spring-boot-mysql_binlog
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 22:mm:ss
+---
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://118.24.111.33:3307/test?serverTimezone=GMT%2B8&useSSL=false&characterEncoding=UTF-8
+    username: root
+    password: 123123
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimumIdle: 100
+      maximumPoolSize: 100
+      autoCommit: true
+      idleTimeout: 30000
+      poolName: MasterDatabookHikariCP
+      maxLifetime: 1800000
+      connectionTimeout: 30000
+      connectionTestQuery: SELECT 1
+---
+spring:
+  data:
+    redis:
+      host: localhost
+      port: 6379
+      password: 123123
+      database: 15
+      connect-timeout: 10000
+      timeout: 10000
+      lettuce:
+        pool:
+          max-wait: -1
+          max-active: 8
+          max-idle: 8
+          min-idle: 8

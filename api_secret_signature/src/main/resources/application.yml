@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-boot-api_secret_signature
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 23:mm:ss
+---
+spring:
+  jackson:
+    time-zone: GMT+8
+    date-format: 23:mm:ss
