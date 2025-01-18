@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+	<contextName>RS-API</contextName>
+	<property name="TRACEX_PATTERN"
+		value="%green(%d{yyyy-MM-dd HH:mm:ss}) %highlight(%-5level) [%yellow(%thread)] %logger Line:%-3L - %msg%n" />
+	<appender name="RSAPI" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>${TRACEX_PATTERN}</pattern>
+			<charset>UTF-8</charset>
+		</encoder>
+	</appender>
+	<root level="INFO">
+		<appender-ref ref="RSAPI" />
+	</root>
+</configuration>

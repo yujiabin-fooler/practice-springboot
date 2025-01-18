@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-boot-refreshscope
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 20:mm:ss
+---
+pack:
+  app:
+    info: xxxooo
+
+    

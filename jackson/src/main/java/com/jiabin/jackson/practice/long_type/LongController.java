@@ -1,18 +1,17 @@
 package com.jiabin.jackson.practice.long_type;
 
-import java.util.Map;
-
+import com.jiabin.jackson.practice.domain.User;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pack.jackson.domain.User;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/longs")
 public class LongController {
 
-  @GetMapping("")
+  @GetMapping("/getData")
   public Map<String, Object> getData() {
     return Map.of("code", 0, "data", 123456789012345678L) ;
   }

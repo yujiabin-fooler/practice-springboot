@@ -2,7 +2,7 @@ package com.jiabin.jackson.practice.domain;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.fasterxml.jackson.databind.ser.std.ToStringSerializer;
-import com.pack.jackson.custom_annotation.Sensitive;
+import com.jiabin.jackson.practice.custom_annotation.Sensitive;
 
 public class User {
 

@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pack.jackson.domain.User;
+import com.jiabin.jackson.practice.domain.User;
 
 @RestController
 @RequestMapping("/customannos")

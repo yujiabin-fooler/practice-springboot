@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: sensitive_word_check
+---
+logging:
+  include-application-name: true
+  pattern:
+    dateformat: 22:mm:ss
+---
+    

@@ -1,7 +1,7 @@
 package com.jiabin.multi.threading.tx.practice.jpa.service;
 
-import javax.sql.DataSource;
-
+import com.jiabin.multi.threading.tx.practice.jpa.domain.Person;
+import com.jiabin.multi.threading.tx.practice.mybatis.mapper.PersonMapper;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.SqlSessionHolder;
 import org.mybatis.spring.SqlSessionUtils;
@@ -10,8 +10,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.transaction.support.TransactionSynchronizationManager;
 
-import com.jiabin.multi.threading.tx.practice.jpa.domain.Person;
-import com.pack.mybatis.mapper.PersonMapper;
+import javax.sql.DataSource;
 
 @Service
 public class MyBatisPersonService {
