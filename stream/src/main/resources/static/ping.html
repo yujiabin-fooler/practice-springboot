@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Ping事件</title>
+	<script>
+		function ping() {
+		  let es = new EventSource('/ping', {withCredentials: false}) ;
+		  let container = document.querySelector("#time") ;
+	      es.addEventListener("ping", (e) => {
+			const li = document.createElement("li") ;
+  			li.textContent = JSON.parse(e.data).time ;
+            container.appendChild(li) ;
+		  });
+		  es.addEventListener("error", (e) => {
+			es.close() ;
+		  });
+		}
+	</script>
+</head>
+<body>
+	<button type="button" onclick="ping()">开始无限制Ping监测</button>
+	<div>
+		<ul id="time"></ul>
+	</div>
+</body>
+</html>

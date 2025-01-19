@@ -1,9 +1,9 @@
 
 ù
-java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "mediaType".(Çç¢øJ$2214c646-ad4b-49b4-9b15-d8396975d521
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "mediaType".(Çç¢øJ$92d594d8-3f72-4f61-998c-f0464928a41e
 õ
-java:S1488."_Immediately return this expression instead of assigning it to the temporary variable "content".(õ‰≠≤J$af807491-d166-40e0-89dd-468d389ebb99
+java:S1488."_Immediately return this expression instead of assigning it to the temporary variable "content".(õ‰≠≤J$83f0bef9-abad-4fd9-b9a4-1bda3459c56a
 v
-java:S1118":Add a private constructor to hide the implicit public one.(ßäÕÀJ$ef6fc9e9-6852-48c3-a5f5-0945e9cfa25c
+java:S1118":Add a private constructor to hide the implicit public one.(ßäÕÀJ$9687d6a5-cfa0-45f5-bff5-ad274df0cf6e
 Ω
-java:S1130<"ÄRemove the declaration of thrown exception 'org.apache.tika.exception.TikaException', as it cannot be thrown from method's body.(„Ê√ŸJ$bccacb84-683a-4e23-9df3-bab44d415ce0
+java:S1130<"ÄRemove the declaration of thrown exception 'org.apache.tika.exception.TikaException', as it cannot be thrown from method's body.(„Ê√ŸJ$7cf52bb4-ae3d-4087-b9e6-365243486b69

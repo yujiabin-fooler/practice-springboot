@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
@@ -357,6 +358,15 @@
         <option value="$PROJECT_DIR$/service_annotation/pom.xml" />
         <option value="$PROJECT_DIR$/static_field_inject/pom.xml" />
         <option value="$PROJECT_DIR$/rs_api/pom.xml" />
+        <option value="$PROJECT_DIR$/httpsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/stream/pom.xml" />
+        <option value="$PROJECT_DIR$/template_jte/pom.xml" />
+        <option value="$PROJECT_DIR$/trace_mdc/pom.xml" />
+        <option value="$PROJECT_DIR$/transaction_hook/pom.xml" />
+        <option value="$PROJECT_DIR$/transaction_readonly/pom.xml" />
+        <option value="$PROJECT_DIR$/type_conversion/pom.xml" />
+        <option value="$PROJECT_DIR$/value_refresh/pom.xml" />
+        <option value="$PROJECT_DIR$/zip_stream/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

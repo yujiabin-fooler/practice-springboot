@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: spring-boot-type_conversion
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 22:mm:ss
+---
+spring:
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+---
+pack:
+  app:
+    title: xxxooo
+    sno: 60001
+    user: 22,Pack

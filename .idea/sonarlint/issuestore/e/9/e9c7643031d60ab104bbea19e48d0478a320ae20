@@ -1,5 +1,5 @@
 
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ñ¾Ëƒ2J$f65bc836-fa79-4495-b5ec-d4118ae75218
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ñ¾Ëƒ2J$db8a8edf-62bd-4186-b53b-140e58e94414
 ’
-java:S4488#"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²„‰ùÿÿÿÿ8Û¾Ëƒ2J$78dc03d8-ddaf-46cb-bd85-ad92d58c2933
+java:S4488#"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²„‰ùÿÿÿÿ8Û¾Ëƒ2J$8b33f941-c30c-43d6-a812-03ce75d985ca

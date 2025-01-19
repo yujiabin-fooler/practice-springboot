@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+	<contextName>trace-mdc</contextName>
+	<!--注意这里的traceXId就是我们往MDC中存入的key了，通过%X{traceXId}获取唯一标识-->
+	<property name="TRACEX_PATTERN"
+		value="%green(%d{HH:mm:ss}) traceId:【%red(%X{traceXId})】%X{req.remoteHost} %X{req.requestURI} %highlight(%-5level) [%yellow(%thread)] %logger Line:%-3L - %msg%n" />
+	<appender name="TRACEX" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>${TRACEX_PATTERN}</pattern>
+			<charset>UTF-8</charset>
+		</encoder>
+	</appender>
+	<springProfile name="dev | default">
+		<root level="INFO">
+			<appender-ref ref="TRACEX" />
+		</root>
+	</springProfile>
+</configuration>

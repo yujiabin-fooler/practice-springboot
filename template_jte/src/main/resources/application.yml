@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: spring-boot-template_jte
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: HH:mm:ss
+---    
+gg:
+  jte:
+    developmentMode: true
+    # 生产环境设置，与上面的不能同时设置
+    usePrecompiledTemplates: false
+    templateLocation: target/classes/templates/jte
+    templateSuffix: .jte

@@ -1,5 +1,5 @@
 
 
-java:S32520"RUse static access with "javax.xml.transform.TransformerFactory" for "newInstance".(©ş³õJ$2ee55eaf-2da8-4c86-bdd5-eb2d5bd81c80
+java:S32520"RUse static access with "javax.xml.transform.TransformerFactory" for "newInstance".(©ş³õJ$1eb2c26d-0aa8-49c0-9e48-e9b6dc621804
 
-java:S32528"QUse static access with "org.apache.tika.metadata.HttpHeaders" for "CONTENT_TYPE".(Â¿±¯J$32543b42-5c39-4889-a559-4a8df6993470
+java:S32528"QUse static access with "org.apache.tika.metadata.HttpHeaders" for "CONTENT_TYPE".(Â¿±¯J$739754bd-c133-403b-a144-d95abbd4d188

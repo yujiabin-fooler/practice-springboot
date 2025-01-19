@@ -261,6 +261,8 @@
     <file url="file://$PROJECT_DIR$/http2-ssl/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/https/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/https/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/httpsecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/httpsecurity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hutool-fastjson/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hutool-fastjson/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hutool/src/main/java" charset="UTF-8" />
@@ -801,6 +803,8 @@
     <file url="file://$PROJECT_DIR$/statemachine/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/static_field_inject/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/static_field_inject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/swagger2/src/main/java" charset="UTF-8" />
@@ -809,6 +813,8 @@
     <file url="file://$PROJECT_DIR$/swagger3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tablesaw/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tablesaw/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/template_jte/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/template_jte/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testcontainers/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testcontainers/src/main/resources" charset="UTF-8" />
@@ -821,14 +827,24 @@
     <file url="file://$PROJECT_DIR$/timefold-solver/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/torna/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/torna/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trace_mdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trace_mdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transaction_hook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transaction_hook/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transaction_readonly/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transaction_readonly/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/transactional/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/transactional/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/type_conversion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/type_conversion/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vaadin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vaadin/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/validating-form-input/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/validating-form-input/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/validation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/validation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/value_refresh/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/value_refresh/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vavr/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vavr/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/video-m3u8/src/main/java" charset="UTF-8" />
@@ -897,6 +913,8 @@
     <file url="file://$PROJECT_DIR$/xxljob/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zabbix/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zabbix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zip_stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zip_stream/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zipkin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zipkin/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zookeeper-distributionlock/src/main/java" charset="UTF-8" />

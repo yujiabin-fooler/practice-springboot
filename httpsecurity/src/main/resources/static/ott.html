@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>OTT认证</title>
+    <link href="/default-ui.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="content">
+      <form id="ott-form" class="login-form" method="post" action="/ott/generate">
+        <h2>OTT登录</h2>
+        <p>
+          <label for="ott-username" class="screenreader">Username</label>
+          <input type="text" id="ott-username" name="username" placeholder="请输入用户名" required>
+        </p>
+        <button class="primary" type="submit" form="ott-form">发送Token</button>
+      </form>
+    </div>
+  </body>
+</html>

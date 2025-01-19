@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>实时通知推送</title>
+	<script>
+		function register() {
+		  let es = new EventSource('/notify', {withCredentials: false}) ;
+		  let container = document.querySelector("#msg") ;
+	      es.addEventListener("message", (e) => {
+			const li = document.createElement("li") ;
+			let data = `${e.data}`;
+			if (!data) {
+				return;
+			}
+  			li.textContent = data ;
+              container.appendChild(li) ;
+			});
+			es.addEventListener("error", (e) => {
+			  es.close() ;
+		  });
+		}
+	</script>
+</head>
+<body>
+	<button type="button" onclick="register()">注册</button>
+	<div>
+		<ul id="msg"></ul>
+	</div>
+</body>
+</html>

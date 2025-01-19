@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+	<contextName>api-secret</contextName>
+	<property name="COMMON_PATTERN"
+		value="%green(%d{HH:mm:ss}) %highlight(%-5level) [%yellow(%thread)] %logger Line:%-3L - %msg%n" />
+	<appender name="TRACEX" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>${COMMON_PATTERN}</pattern>
+			<charset>UTF-8</charset>
+		</encoder>
+	</appender>
+	<springProfile name="dev | default">
+		<root level="INFO">
+			<appender-ref ref="TRACEX" />
+		</root>
+	</springProfile>
+</configuration>

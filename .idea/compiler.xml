@@ -36,6 +36,7 @@
         <module name="freemarker" />
         <module name="devtools" />
         <module name="hana" />
+        <module name="httpsecurity" />
         <module name="elasticsearch-crud" />
         <module name="springapi-aircondition-app" />
         <module name="mail-javamail" />
@@ -46,6 +47,7 @@
         <module name="shardingshpere-sequence-algorithm" />
         <module name="config" />
         <module name="xxl-job-core" />
+        <module name="trace_mdc" />
         <module name="rocketmq-transanction" />
         <module name="jsp-jpa" />
         <module name="mysql_binlog" />
@@ -130,6 +132,7 @@
         <module name="springboot-dubbo-seata-common" />
         <module name="ehcache" />
         <module name="arthas" />
+        <module name="stream" />
         <module name="graalvm" />
         <module name="nacos-comsumer" />
         <module name="zookeeper-distributionlock" />
@@ -144,6 +147,7 @@
         <module name="spring-task-scheduler" />
         <module name="redis-data-out-of-date" />
         <module name="gzip" />
+        <module name="type_conversion" />
         <module name="rabbitmq" />
         <module name="redis-lua" />
         <module name="dubbo-samples-seata-account" />
@@ -210,6 +214,7 @@
         <module name="mybatis-generator" />
         <module name="grpc-client" />
         <module name="dubbo-samples-seata-stock" />
+        <module name="transaction_readonly" />
         <module name="springboot-test-configproperties-demo" />
         <module name="rs_api" />
         <module name="hazelcast" />
@@ -291,6 +296,7 @@
         <module name="valid-params" />
         <module name="springboot-dubbo-seata-business" />
         <module name="redis-om" />
+        <module name="template_jte" />
         <module name="docker" />
         <module name="jasypt" />
         <module name="ffmpeg-media" />
@@ -320,6 +326,7 @@
         <module name="disruptor" />
         <module name="redis" />
         <module name="dynamic-datasource" />
+        <module name="value_refresh" />
         <module name="file-download" />
         <module name="mqtt" />
         <module name="atomikos" />
@@ -366,6 +373,7 @@
         <module name="dubbo-consumer-client" />
         <module name="session-jdbc" />
         <module name="dubbo-samples-seata-order" />
+        <module name="zip_stream" />
         <module name="redis-publish-subscribe" />
         <module name="mybatis-annotation" />
         <module name="javamail" />
@@ -389,6 +397,7 @@
         <module name="powerjob" />
         <module name="activiti" />
         <module name="encypt" />
+        <module name="transaction_hook" />
         <module name="delayqueue" />
         <module name="exceptionHandler" />
         <module name="itextdemo" />
@@ -537,6 +546,7 @@
       <module name="http" options="-parameters" />
       <module name="http2-ssl" options="-parameters" />
       <module name="https" options="-parameters" />
+      <module name="httpsecurity" options="-parameters" />
       <module name="hutool" options="-parameters" />
       <module name="itextpdf" options="-parameters" />
       <module name="jackson" options="-parameters" />
@@ -676,20 +686,28 @@
       <module name="springboot-web" options="-parameters" />
       <module name="sse" options="-parameters" />
       <module name="statemachine" options="-parameters" />
+      <module name="static_field_inject" options="-parameters" />
+      <module name="stream" options="-parameters" />
       <module name="swagger" options="-parameters" />
       <module name="swagger2" options="-parameters" />
       <module name="swagger3" options="-parameters" />
       <module name="tablesaw" options="-parameters" />
+      <module name="template_jte" options="-parameters" />
       <module name="test" options="-parameters" />
       <module name="testcontainers" options="-parameters" />
       <module name="tidb" options="-parameters" />
       <module name="tika" options="-parameters" />
       <module name="timefold-solver" options="-parameters" />
       <module name="torna" options="-parameters" />
+      <module name="trace_mdc" options="-parameters" />
+      <module name="transaction_hook" options="-parameters" />
+      <module name="transaction_readonly" options="-parameters" />
+      <module name="type_conversion" options="-parameters" />
       <module name="vaadin" options="-parameters" />
       <module name="valid-params" options="-parameters" />
       <module name="validating-form-input" options="-parameters" />
       <module name="validation" options="-parameters" />
+      <module name="value_refresh" options="-parameters" />
       <module name="vavr" options="-parameters" />
       <module name="video-m3u8" options="-parameters" />
       <module name="video-transcoding" options="-parameters" />
@@ -704,6 +722,7 @@
       <module name="websocket-rabbitmq" options="-parameters" />
       <module name="wechat-mp" options="-parameters" />
       <module name="work-flowable" options="-parameters" />
+      <module name="zip_stream" options="-parameters" />
       <module name="zipkin" options="-parameters" />
       <module name="zookeeper-serviceregistry" options="-parameters" />
     </option>

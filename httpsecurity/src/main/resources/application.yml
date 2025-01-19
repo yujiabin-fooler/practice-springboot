@@ -1,0 +1,52 @@
+spring:
+  application:
+    name: spring-boot-security
+---
+logging:
+  include-application-name: false
+  pattern:
+    dateformat: 22:mm:ss
+---
+debug: false
+---
+spring:
+  security:
+    user:
+      name: admin
+      password: 123123
+---
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 348792955@qq.com
+    password: oxpdkbxqytuxcaec
+    protocol: smtp
+    port: 587
+    properties:
+      '[mail.smtp.connectiontimeout]': 50000
+      '[mail.smtp.timeout]': 30000
+      '[mail.smtp.writetimeout]': 50000
+---
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/dblock?serverTimezone=GMT%2B8&useSSL=false&characterEncoding=UTF-8
+    username: root
+    password: 123123
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimumIdle: 100
+      maximumPoolSize: 100
+      autoCommit: true
+      idleTimeout: 30000
+      poolName: MasterDatabookHikariCP
+      maxLifetime: 1800000
+      connectionTimeout: 30000
+      connectionTestQuery: SELECT 1
+---
+spring:
+  web:
+    resources:
+      static-locations: classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/
+      
+      

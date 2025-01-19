@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>实时日志推送</title>
+	<script>
+		function conn() {
+		  let es = new EventSource('/logs', {withCredentials: false}) ;
+		  let container = document.querySelector("#logs") ;
+	      es.addEventListener("message", (e) => {
+		    console.log(e)
+			const li = document.createElement("li") ;
+  			li.textContent = `${e.data}` ;
+              container.appendChild(li) ;
+			});
+			es.addEventListener("error", (e) => {
+			  es.close() ;
+		  });
+		}
+	</script>
+</head>
+<body>
+	<button type="button" onclick="conn()">连接</button>
+	<div>
+		<ul id="logs">
+		</ul>
+	</div>
+</body>
+</html>

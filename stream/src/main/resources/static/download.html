@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>文件下载进度</title>
+	<script>
+		function download() {
+		  let es = new EventSource('/download', {withCredentials: false}) ;
+		  let val = document.querySelector("#val") ;
+          let total = 0
+  		  let receivedLength = 0 ;
+	      es.addEventListener("message", (e) => {
+  			let data = `${e.data}` ;
+  			if (data.startsWith("len:")) {
+			  total = parseInt(data.replace("len:", ""))	  
+			} else {
+			  data = JSON.parse(data) ;	
+			  receivedLength += data.len ;	
+			}
+			let progress = Math.round((receivedLength / total) * 100);
+            val.innerText = `${progress}%`;
+		  });
+	      es.addEventListener("error", (e) => {
+			es.close() ;
+		  });
+		}
+	</script>
+</head>
+<body>
+	<button type="button" onclick="download()">下载文件</button>
+	<div id="result" style="font-size: 13px;">当前进度：<b id="val"></b></div>
+</body>
+</html>
